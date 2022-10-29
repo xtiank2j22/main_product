@@ -1,17 +1,14 @@
 <!DOCTYPE html>
 <html dir="ltr" lang="en">
 <head>
-
 <!-- Meta Tags -->
 <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
 <meta name="description" content="StudyPress | Education & Courses HTML Template" />
 <meta name="keywords" content="academy, course, education, education html theme, elearning, learning," />
 <meta name="author" content="ThemeMascot" />
-
 <!-- Page Title -->
 <title>About Us</title>
-
 <!-- Favicon and Touch Icons -->
 <link href="images/favicon.png" rel="shortcut icon" type="image/png">
 <link href="images/apple-touch-icon.png" rel="apple-touch-icon">
