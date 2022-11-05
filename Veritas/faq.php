@@ -56,7 +56,6 @@
 <!-- Revolution Slider 5.x SCRIPTS -->
 <script src="js/revolution-slider/js/jquery.themepunch.tools.min.js"></script>
 <script src="js/revolution-slider/js/jquery.themepunch.revolution.min.js"></script>
-
 <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
 <!--[if lt IE 9]>
@@ -70,24 +69,23 @@
 <?php include_once "includes/innerpage-navbar.php" ?>
   <!-- Start main-content -->
   <div class="main-content">
-
     <!-- Section: inner-header -->
-    <section class="inner-header divider parallax layer-overlay overlay-dark-5" data-bg-img="images/project/faq.png">
+    <section class="layer-overlay overlay-theme-colored2-9 bg-no-repeat bg-pos-center-center" data-tm-bg-img="images/project/librar6.jpg" style="background-image: url(&quot;images/event/faq.png&quot;);">
       <div class="container pt-70 pb-20">
         <!-- Section Content -->
         <div class="section-content">
           <div class="row">
             <div class="col-md-12">
-              <h2 class="title text-white">FAQ</h2>
+              <h2 class="title text-white text-bolder">FAQ</h2>
               <ol class="breadcrumb text-left text-black mt-10">
-                <li><a href="index.php">Welcome to our Faq Page</a></li>
+                <li><a href="index.php" class="text-white text-bolder font-20">Welcome to our Faq Page</a></li>
               </ol>
             </div>
           </div>
         </div>
       </div>
     </section>
-
+    <!-------the questions begin here------->
     <section>
       <div class="container">
         <div class="row">
@@ -111,7 +109,7 @@
                 </div>
               </div>
               <div class="panel">
-                <div class="panel-title"> <a class="collapsed" data-parent="#accordion1" data-toggle="collapse" href="#accordion12" aria-expanded="false"> <span class="open-sub"></span> <strong>Q. Why can I not log-in to Student eCampus to register?</strong></a> </div>
+                <div class="panel-title"> <a class="collapsed text-white" data-parent="#accordion1" data-toggle="collapse" href="#accordion12"  aria-expanded="false"> <span class="open-sub text-white"></span>Q. Why can I not log-in to Student eCampus to register?</a> </div>
                 <div id="accordion12" class="panel-collapse collapse" role="tablist" aria-expanded="false" style="height: 0px;">
                   <div class="panel-content">
                     <ul>
@@ -122,8 +120,8 @@
                   </div>
                 </div>
               </div>
-              <div class="panel">
-                <div class="panel-title"> <a data-parent="#accordion1" data-toggle="collapse" href="#accordion13" class="collapsed" aria-expanded="false"> <span class="open-sub"></span> <strong>Q. What do I do if I cannot remember my password or log-in details?</strong></a> </div>
+              <div class="panel ">
+                <div class="panel-title"> <a data-parent="#accordion1" data-toggle="collapse" href="#accordion13" class="collapsed text-white" aria-expanded="false"> <span class="open-sub"></span> Q. What do I do if I cannot remember my password or log-in details?</a> </div>
                 <div id="accordion13" class="panel-collapse collapse" role="tablist" aria-expanded="false">
                   <div class="panel-content">
                     <ul>
@@ -132,8 +130,8 @@
                     </ul>
                 </div>
               </div>
-              <div class="panel">
-                <div class="panel-title"> <a data-parent="#accordion1" data-toggle="collapse" href="#accordion14" class="collapsed" aria-expanded="false"> <span class="open-sub"></span> <strong>Q. Why is my year of programme showing as year 4 but I am in my 5th year of study?</strong></a> </div>
+              <div class="panel mt-5">
+                <div class="panel-title"> <a data-parent="#accordion1" data-toggle="collapse" href="#accordion14" class="collapsed text-white" aria-expanded="false"> <span class="open-sub"></span> Q. Why is my year of programme showing as year 4 but I am in my 5th year of study?</a> </div>
                 <div id="accordion14" class="panel-collapse collapse" role="tablist" aria-expanded="false">
                   <div class="panel-content">
                     <p>
@@ -144,7 +142,7 @@
                 </div>
               </div>
               <div class="panel">
-                <div class="panel-title"> <a data-parent="#accordion1" data-toggle="collapse" href="#accordion14" class="collapsed text-white" aria-expanded="false"> <span class="open-sub"></span> <strong>Q. My name appears incorrectly, or I want to amend my title as shown. </strong></a> </div>
+                <div class="panel-title"> <a data-parent="#accordion1" data-toggle="collapse" href="#accordion14" class="collapsed text-white" aria-expanded="false"> <span class="open-sub"></span> Q. My name appears incorrectly, or I want to amend my title as shown. </a> </div>
                 <div id="accordion14" class="panel-collapse collapse" role="tablist" aria-expanded="false">
                   <div class="panel-content">
                     <p>
@@ -154,7 +152,7 @@
                 </div>
               </div>
               <div class="panel">
-                <div class="panel-title"> <a data-parent="#accordion1" data-toggle="collapse" href="#accordion15" class="collapsed" aria-expanded="false"> <span class="open-sub"></span> <strong>Q. I am a transfered student from another university, do I still need to register?</strong></a> </div>
+                <div class="panel-title"> <a data-parent="#accordion1" data-toggle="collapse" href="#accordion15" class="collapsed text-white" aria-expanded="false"> <span class="open-sub"></span> Q. I am a transfered student from another university, do I still need to register?</a> </div>
                 <div id="accordion15" class="panel-collapse collapse" role="tablist" aria-expanded="false">
                   <div class="panel-content">
                     <ul>
@@ -167,7 +165,7 @@
                 </div>
               </div>
               <div class="panel">
-                <div class="panel-title"> <a data-parent="#accordion1" data-toggle="collapse" href="#accordion15" class="collapsed" aria-expanded="false"> <span class="open-sub"></span> <strong>Q. I'm not able to register online. Why not?</strong></a> </div>
+                <div class="panel-title"> <a data-parent="#accordion1" data-toggle="collapse" href="#accordion15" class="collapsed text-white" aria-expanded="false"> <span class="open-sub"></span> Q. I'm not able to register online. Why not?</a> </div>
                 <div id="accordion15" class="panel-collapse collapse" role="tablist" aria-expanded="false">
                   <div class="panel-content">
                     <p>There can be a number of reasons: </p>
@@ -188,7 +186,7 @@
                 </div>
               </div>
               <div class="panel">
-                <div class="panel-title"> <a data-parent="#accordion1" data-toggle="collapse" href="#accordion15" class="collapsed" aria-expanded="false"> <span class="open-sub"></span> <strong>Q. What is a single application?</strong></a> </div>
+                <div class="panel-title"> <a data-parent="#accordion1" data-toggle="collapse" href="#accordion15" class="collapsed text-white" aria-expanded="false"> <span class="open-sub"></span> Q. What is a single application?</a> </div>
                 <div id="accordion15" class="panel-collapse collapse" role="tablist" aria-expanded="false">
                   <div class="panel-content">
                     <ul>
@@ -201,14 +199,14 @@
                 </div>
               </div>
               <div class="panel">
-                <div class="panel-title"> <a data-parent="#accordion1" data-toggle="collapse" href="#accordion15" class="collapsed" aria-expanded="false"> <span class="open-sub"></span> <strong>Q. I need to repeat a first-year Bachelor's course. Do I need to register myself?</strong></a> </div>
+                <div class="panel-title"> <a data-parent="#accordion1" data-toggle="collapse" href="#accordion15" class="collapsed text-white" aria-expanded="false"> <span class="open-sub"></span> Q. I need to repeat a first-year Bachelor's course. Do I need to register myself?</a> </div>
                 <div id="accordion15" class="panel-collapse collapse" role="tablist" aria-expanded="false">
                       <p>After the first year, you must register for all courses yourself (including the first-year courses that you must retake).</p>
                   </div>
                 </div>
               </div>
               <div class="panel">
-                <div class="panel-title"> <a data-parent="#accordion1" data-toggle="collapse" href="#accordion15" class="collapsed" aria-expanded="false"> <span class="open-sub"></span> <strong>Q. What is a single application?</strong></a> </div>
+                <div class="panel-title"> <a data-parent="#accordion1" data-toggle="collapse" href="#accordion15" class="collapsed text-white" aria-expanded="false"> <span class="open-sub"></span> Q. What is a single application?</a> </div>
                 <div id="accordion15" class="panel-collapse collapse" role="tablist" aria-expanded="false">
                   <div class="panel-content">
                     <p>After the first year, you must register for all courses yourself (including the first-year courses that you must retake).</p>
@@ -216,7 +214,7 @@
                 </div>
               </div>
               <div class="panel">
-                <div class="panel-title"> <a data-parent="#accordion1" data-toggle="collapse" href="#accordion15" class="collapsed" aria-expanded="false"> <span class="open-sub"></span> <strong>Q. Can I register again for a course I have already passed?</strong></a> </div>
+                <div class="panel-title"> <a data-parent="#accordion1" data-toggle="collapse" href="#accordion15" class="collapsed text-white" aria-expanded="false"> <span class="open-sub"></span> Q. Can I register again for a course I have already passed?</a> </div>
                 <div id="accordion15" class="panel-collapse collapse" role="tablist" aria-expanded="false">
                   <div class="panel-content">
                     <p>Yes, it is possible to retake a course you have already passed. However, please keep in mind that this counts as an examination attempt. Therefore, it is important to deregister in time if you decide not to do the course after all. Otherwise, your result for the course will be registered as a NAP (not attended).</p>
@@ -224,7 +222,7 @@
                 </div>
               </div>
               <div class="panel">
-                <div class="panel-title"> <a data-parent="#accordion1" data-toggle="collapse" href="#accordion15" class="collapsed" aria-expanded="false"> <span class="open-sub"></span> <strong>Q. I am unable to register for one or more courses. What could be the reason?</strong></a> </div>
+                <div class="panel-title"> <a data-parent="#accordion1" data-toggle="collapse" href="#accordion15" class="collapsed text-white" aria-expanded="false"> <span class="open-sub"></span> Q. I am unable to register for one or more courses. What could be the reason?</a> </div>
                 <div id="accordion15" class="panel-collapse collapse" role="tablist" aria-expanded="false">
                   <div class="panel-content">
                     <p>One of the reasons could be:</p>
@@ -238,7 +236,7 @@
                 </div>
               </div>
               <div class="panel">
-                <div class="panel-title"> <a data-parent="#accordion1" data-toggle="collapse" href="#accordion15" class="collapsed" aria-expanded="false"> <span class="open-sub"></span> <strong>Q. For how many credits (ECTS) may I register each semester?</strong></a> </div>
+                <div class="panel-title"> <a data-parent="#accordion1" data-toggle="collapse" href="#accordion15" class="collapsed text-white" aria-expanded="false"> <span class="open-sub"></span> Q. For how many credits (ECTS) may I register each semester?</a> </div>
                 <div id="accordion15" class="panel-collapse collapse" role="tablist" aria-expanded="false">
                   <div class="panel-content">
                     <p>30 ECTS per semester constitutes a normal workload. You are permitted to register for a maximum of 42 ECTS per semester. If you wish to follow more than 42 ECTS of courses during a semester, you must submit a request via the form below. Preferably before the course registration period opens.</p>
@@ -246,7 +244,7 @@
                 </div>
               </div>
               <div class="panel">
-                <div class="panel-title"> <a data-parent="#accordion1" data-toggle="collapse" href="#accordion15" class="collapsed" aria-expanded="false"> <span class="open-sub"></span> <strong>Q. How can I ensure that there are no conflicts in my timetable?</strong></a> </div>
+                <div class="panel-title"> <a data-parent="#accordion1" data-toggle="collapse" href="#accordion15" class="collapsed text-white" aria-expanded="false"> <span class="open-sub"></span> Q. How can I ensure that there are no conflicts in my timetable?</a> </div>
                 <div id="accordion15" class="panel-collapse collapse" role="tablist" aria-expanded="false">
                   <div class="panel-content">
                       <p>If you would like to verify that there are no conflicts in your timetable, please go to uva.nl/courseregistration. You can view whether you will be able to attend all of your courses/tutorials by navigating to the tab 'Planner' and clicking on the 'Open Timetable' button.</p>
@@ -254,14 +252,14 @@
                 </div>
               </div>
               <div class="panel">
-                <div class="panel-title"> <a data-parent="#accordion1" data-toggle="collapse" href="#accordion15" class="collapsed" aria-expanded="false"> <span class="open-sub"></span> <strong>Q. For which courses should I/should I not register?</strong></a> </div>
+                <div class="panel-title"> <a data-parent="#accordion1" data-toggle="collapse" href="#accordion15" class="collapsed text-white" aria-expanded="false"> <span class="open-sub"></span> Q. For which courses should I/should I not register?</a> </div>
                 <div id="accordion15" class="panel-collapse collapse" role="tablist" aria-expanded="false">
                   <p>If you would like to verify that there are no conflicts in your timetable, please go to uva.nl/courseregistration. You can view whether you will be able to attend all of your courses/tutorials by navigating to the tab 'Planner' and clicking on the 'Open Timetable' button.</p>
                   </div>
                 </div>
               </div>
               <div class="panel">
-                <div class="panel-title"> <a data-parent="#accordion1" data-toggle="collapse" href="#accordion15" class="collapsed" aria-expanded="false"> <span class="open-sub"></span> <strong>Q. How and when do I register for courses?</strong></a> </div>
+                <div class="panel-title"> <a data-parent="#accordion1" data-toggle="collapse" href="#accordion15" class="collapsed" aria-expanded="false"> <span class="open-sub"></span> Q. How and when do I register for courses?</a> </div>
                 <div id="accordion15" class="panel-collapse collapse" role="tablist" aria-expanded="false">
                   <div class="panel-content">
                     <p class="">You can start registering for courses via the button 'Add course to planner' in the Course Catalogue. The course registration period for the first semester takes place in June, and for the second semester in December.</p>
@@ -269,7 +267,7 @@
                 </div>
               </div>
               <div class="panel">
-                <div class="panel-title"> <a data-parent="#accordion1" data-toggle="collapse" href="#accordion15" class="collapsed" aria-expanded="false"> <span class="open-sub"></span> <strong>Q. How and when do I register for courses?</strong></a> </div>
+                <div class="panel-title"> <a data-parent="#accordion1" data-toggle="collapse" href="#accordion15" class="collapsed" aria-expanded="false"> <span class="open-sub"></span> Q. How and when do I register for courses?</a> </div>
                 <div id="accordion15" class="panel-collapse collapse" role="tablist" aria-expanded="false">
                   <div class="panel-content">
                     <p>If you would like to verify that there are no conflicts in your timetable, please go to uva.nl/courseregistration. You can view whether you will be able to attend all of your courses/tutorials by navigating to the tab 'Planner' and clicking on the 'Open Timetable' button.</p>
@@ -277,7 +275,7 @@
                 </div>
               </div>
               <div class="panel">
-                <div class="panel-title"> <a data-parent="#accordion1" data-toggle="collapse" href="#accordion15" class="collapsed" aria-expanded="false"> <span class="open-sub"></span> <strong>Q. I am unable to find a course/tutorial. What can I do?</strong></a> </div>
+                <div class="panel-title"> <a data-parent="#accordion1" data-toggle="collapse" href="#accordion15" class="collapsed" aria-expanded="false"> <span class="open-sub"></span> Q. I am unable to find a course/tutorial. What can I do?</a> </div>
                 <div id="accordion15" class="panel-collapse collapse" role="tablist" aria-expanded="false">
                   <div class="panel-content">
                     <ul>
@@ -297,175 +295,143 @@
         </div>
       </div>
     </section>
-
-    <section>
-      <div class="container">
-        <div class="row">
-          <div class="col-md-12">
-            <h3 class="text-uppercase text-theme-colored title line-bottom line-height-1 mt-0">Frequently asked questions and answers after <span class="text-theme-color-2 font-weight-400"> course registration </span></h3>
-        </div>
-        <div class="row">
-          <div class="col-md-12">
-            <div id="accordion1" class="panel-group accordion transparent">
-              <div class="panel">
-                <div class="panel-title"> <a data-parent="#accordion1" data-toggle="collapse" href="#accordion11" class="active" aria-expanded="true"> <span class="open-sub"></span> <strong>Q. I have registered for a course, but do not see the course in Course Registration. Why is that?</strong></a> </div>
-                <div id="accordion11" class="panel-collapse collapse in" role="tablist" aria-expanded="true">
-                  <div class="panel-content">
-                    <ul> You were on the waiting list, but no places have become available. The Education Desk has sent you an email to inform you.</ul>
-                  </div>
-                </div>
-              </div>
-              <div class="panel">
-                <div class="panel-title"> <a class="collapsed" data-parent="#accordion1" data-toggle="collapse" href="#accordion12" aria-expanded="false"> <span class="open-sub"></span> <strong>Q. How can I see for which courses I am registered?</strong></a> </div>
-                <div id="accordion12" class="panel-collapse collapse" role="tablist" aria-expanded="false" style="height: 0px;">
-                  <div class="panel-content">
-                      <p>You can find all your registrations at uva.nl/courseregistration under 'Overview of Registrations'. Here you can also check for which courses you are still on the waiting list. If you do not meet the entry requirements, your registration will be cancelled by the Education Desk.</p>
-                  </div>
-                </div>
-              </div>
-              <div class="panel">
-                <div class="panel-title"> <a data-parent="#accordion1" data-toggle="collapse" href="#accordion13" class="collapsed" aria-expanded="false"> <span class="open-sub"></span> <strong>Q. I do not (yet) meet the entry requirements for a compulsory course. What should I do?</strong></a> </div>
-                <div id="accordion13" class="panel-collapse collapse" role="tablist" aria-expanded="false">
-                  <div class="panel-content">
-                    <ul>
-                      <li>During the course registration period, it is best to assume that you will successfully pass your exams, even if you are still waiting for the final grade (resits)</li>
-                        <li>Look for an alternative course for which you meet the entry requirements.</li>
-                        <li>Discuss an alternative choice with your study adviser – before the course registration period – so as to prevent a study delay.</li>
-                      </ul>
-                </div>
-              </div>
-              <div class="panel">
-                <div class="panel-title"> <a data-parent="#accordion1" data-toggle="collapse" href="#accordion14" class="collapsed" aria-expanded="false"> <span class="open-sub"></span> <strong>Q. How do I deregister from a course?</strong></a> </div>
-                <div id="accordion14" class="panel-collapse collapse" role="tablist" aria-expanded="false">
-                  <div class="panel-content">
-                    <p>
-                      You can deregister from courses up until the end of the second week after the start of the course. You can deregister via
-                    </p>
-                  </div>
-                </div>
-              </div>
-              <div class="panel">
-                <div class="panel-title"> <a data-parent="#accordion1" data-toggle="collapse" href="#accordion15" class="collapsed" aria-expanded="false"> <span class="open-sub"></span> <strong>Q. I am unable to register for one or more courses. What could be the reason?</strong></a> </div>
-                <div id="accordion15" class="panel-collapse collapse" role="tablist" aria-expanded="false">
-                  <div class="panel-content">
-                    <ul>
-                      <li>The course is only open to certain student groups. Contact the Education Desk if you think you should nonetheless be registered.</li>
-                      <li>The course is booked. If a course has various tutorials, please check if there are any places available. If all tutorials are full, you can register for the waiting list (WL) during the course registration period.</li>
-                      <li>If you are unable to register for a compulsory course during the course registration period, please contact the Education Desk.</li>
-                      <li>If you are unable to register for an elective, choose another elective.</li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-
-
     <!-- divider: what makes us different -->
-    <section class="divider parallax layer-overlay overlay-white-9" data-parallax-ratio="0.1" data-bg-img="images/bg/bg2.jpg">
-      <div class="container">
-        <div class="section-content text-center">
-          <div class="row">
-            <div class="col-md-12">
+  </div>
+  <section id="contact" class="bg-lighter mt-10">
+          <div class="container pb-60">
+            <div class="section-title mb-10">
               <div class="row">
-                <h2>If your question was not in the FAQ</h2>
-                <a class="btn btn-theme-colored" href="#">please contact the ICT Desk in-charge of course registration</a>
+                <div class="col-md-12">
+                  <h2 id="contact" class="text-uppercase text-theme-colored title line-bottom line-height-1 mt-0">Contact <span class="text-theme-color-2 font-weight-400">Us</span></h2>
+                </div>
               </div>
-              <form id="" method="post" action="">
-                <div id=""></div>
-                <div id="" class="">
-                  <div id="Container">
-                    <label for="" id="" class="">
-        First Name                        <span class="" aria-label="Required">
-    *</span>                                </label>
-    </div>
-    <input type="text" id="" name="" class="" maxlength='80' required  />
-    </div>
-            <div id="" class="">
-    <div id="Container">
-        <label for="" id="" class="">
-        Last Name                        <span class="" aria-label="Required">
-    *</span>                                </label>
-    </div>
-    <input type="text" id="" name="" class="" maxlength='80' required  />
-    </div>
-            <div id="" class="">
-    <div id="">
-        <label for="" id="" class="">
-        Email Address                        <span class="" aria-label="Required">
-    *</span>                                </label>
-    </div>
-    <input type="email" id="" name="" class="" maxlength='80' required  />
-    </div>
-            <div id="" class="">
-    <div id="Container">
-        <label for="" id="" class="">
-        Subject                        <span class="" aria-label="Required">
-    *</span>                                </label>
-    </div>
-    <input type="text" id="" name="" class="" maxlength='240' required  />
-    </div>
-                        <div id="" class="">
-    <div id="">
-        <label for="" id="" class="">
-        Question                        <span class="" aria-label="Required">
-    *</span>                                </label>
-    </div>
-    <textarea id="" class="Area" rows="7" cols="60" name="" maxlength='' required></textarea>
-</div>
-        <div id="" class="">
-    <div id="Container">
-        <label for="" id="">Attach Documents (if applicable)                </label>
-    </div>
-    <input name="file" id="" type="file" aria-labelledby=""/>
-        <img id="_Icon" class="" alt="" src="" />
-        <span id="" aria-label="Status"></span>
-    <span id=""></span>
-</div>
-        <p class="text-sm">The information you provide will be used for the purpose of recording and responding to your enquiry. It will be held in accordance with the provisions of the Data Protection Act 2018 and the University's <a target="_blank" href="">Privacy Policy</a>, and it will not be passed on to any third parties without your permission.</p>
-<p>It may be used occasionally, with your consent, for sending you further information about the University.</p>        <!-- <rn:widget path="input/FormInput" name="contacts.ma_opt_in" required="true" label_input="May we send you information relating to the University of Oxford?"/><br/> -->
-        <div id="" class="">
-    <button type="submit" id="" disabled>
-    Submit your question    </button>
-    <span class="">
-        <input id="" type="checkbox" class=""/>
-        <label for="" class="">&nbsp;</label>
-    </span>
-</div>
-                    <div id="" class="">
-    <div class="" role="alert">
-        <span id=""></span>
-    </div>
-    <div id=""></div>
-</div>
-            </form>
+            </div>
+            <div class="section-content">
+              <div class="row">
+                <div class="col-md-5">
+                  <!-- Google Map HTML Codes -->                      
+                   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1117.117261839371!2d7.414191261153531!3d9.2887092623519!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x104ddd355dd5d403%3A0xda871c1390c7f68a!2sVeritas%20University!5e0!3m2!1sen!2sng!4v1650439281882!5m2!1sen!2sng" width="100%" height="450" frameborder="0" style="border: 0"  allowfullscreen ></iframe>
+                </div>
+                <div class="col-md-7">
+                  <h4 class="line-bottom mt-0 mb-30 mt-sm-20">SEND your questions</h4>
+                  <!-- Contact Form -->
+                  <form id="contact_form" name="contact_form" class=""  action=""method="post">
+                    <div class="row">
+                      <div class="col-sm-6">
+                        <div class="form-group mb-30">
+                          <input name="form_name" class="form-control"type="text"placeholder="Enter Name"required=""/>
+                        </div>
+                      </div>
+                      <div class="col-sm-6">
+                        <div class="form-group mb-30">
+                          <input name="form_email" class="form-control required email" type="email"placeholder="Enter Email" />
+                        </div>
+                      </div>
+                    </div>
+                    <div class="row">
+                      <div class="col-sm-6">
+                        <div class="form-group mb-30">
+                          <input name="form_subject" class="form-control required" type="text" placeholder="Enter Subject" />
+                        </div>
+                      </div>
+                      <div class="col-sm-6">
+                        <div class="form-group mb-30">
+                          <input name="form_phone" class="form-control" type="text" placeholder="Enter Phone"/>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="form-group">
+                      <textarea name="form_message" class="form-control required"rows="5" placeholder="Enter Message"></textarea>
+                    </div>
+                    <div class="form-group">
+                      <input name="form_botcheck" class="form-control" type="hidden" value=""/>
+                      <button type="submit" class="btn btn-flat btn-theme-colored text-uppercase mt-20 mb-sm-30 border-left-theme-color-2-4px" data-loading-text="Please wait...">Send your message </button>
+                      <button type="reset" class="btn btn-flat btn-theme-colored text-uppercase mt-20 mb-sm-30 border-left-theme-color-2-4px">Reset</button>
+                    </div>
+                  </form>
+                  <!-- Contact Form Validation-->
+                  <script type="text/javascript">
+                    let currentDate = new Date().toLocaleString('en-us', {
+                      month: 'short',
+                      year: 'numeric',
+                      day: 'numeric',
+                    })
+                    console.log(currentDate)
+
+                    document.getElementById('cdates').innerHTML = currentDate
+                    var count = 0
+                    var btn = document.getElementById('btn')
+                    var disp = document.getElementById('display')
+
+                    btn.onclick = function () {
+                      count++
+                      disp.innerHTML = count
+                    }
+
+                    // var count2 = 0
+                    // var btn2 = document.getElementById('btn2')
+                    // var disp2 = document.getElementById('display2')
+
+                    // btn.onclick = function () {
+                    //   count2++
+                    //   disp2.innerHTML = count2
+                    // }
+
+                    // var count3 = 0
+                    // var btn3 = document.getElementById('btn3')
+                    // var disp3 = document.getElementById('display3')
+
+                    // btn3.onclick = function () {
+                    //   count3++
+                    //   disp3.innerHTML = count3
+                    // }
+
+                    // var count4 = 0
+                    // var btn4 = document.getElementById('btn4')
+                    // var disp4 = document.getElementById('display4')
+
+                    // btn4.onclick = function () {
+                    //   count4++
+                    //   disp4.innerHTML = count4
+                    // }
+
+                    $('#contact_form').validate({
+                      submitHandler: function (form) {
+                        var form_btn = $(form).find('button[type="submit"]')
+                        var form_result_div = '#form-result'
+                        $(form_result_div).remove()
+                        form_btn.before(
+                          '<div id="form-result" class="alert alert-success" role="alert" style="display: none;"></div>'
+                        )
+                        var form_btn_old_msg = form_btn.html()
+                        form_btn.html(
+                          form_btn.prop('disabled', true).data('loading-text')
+                        )
+                        $(form).ajaxSubmit({
+                          dataType: 'json',
+                          success: function (data) {
+                            if (data.status == 'true') {
+                              $(form).find('.form-control').val('')
+                            }
+                            form_btn
+                              .prop('disabled', false)
+                              .html(form_btn_old_msg)
+                            $(form_result_div).html(data.message).fadeIn('slow')
+                            setTimeout(function () {
+                              $(form_result_div).fadeOut('slow')
+                            }, 6000)
+                          },
+                        })
+                      },
+                    })
+                  </script>
+                </div>
+              </div>
             </div>
           </div>
-        </div>
-      </div>
-    </section>
-  </div>
+        </section>
   <!-- end main-content -->
-
-    <!-- divider: what makes us different -->
-    <section class="divider parallax layer-overlay overlay-white-9" data-parallax-ratio="0.1" data-bg-img="images/bg/bg2.jpg">
-      <div class="container">
-        <div class="section-content text-center">
-          <div class="row">
-            <div class="col-md-12">
-              <h3 class="mt-0">Did not find your answer?</h3>
-              <h2>Just call the ICT at <span class="text-theme-color-2"> +234 80 1234 5678</span> for emergency service</h2>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
   </div>
-  <!-- end main-content -->
-
     <!-- Footer -->
    <?php include_once "includes/footer.php" ?>
 
