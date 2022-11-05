@@ -67,12 +67,12 @@
 <body class="">
 <div id="wrapper" class="clearfix">
   <!-- Header -->
-<?php include_once "includes/main-nav.php" ?>
+<?php include_once "includes/innerpage-navbar.php" ?>
   <!-- Start main-content -->
   <div class="main-content">
 
     <!-- Section: inner-header -->
-    <section class="inner-header divider parallax layer-overlay overlay-dark-5" data-bg-img="images/bg/bg3.jpg">
+    <section class="inner-header divider parallax layer-overlay overlay-dark-5" data-bg-img="images/project/faq.png">
       <div class="container pt-70 pb-20">
         <!-- Section Content -->
         <div class="section-content">
