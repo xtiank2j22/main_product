@@ -28,7 +28,7 @@
           <link id="menuzord-menu-skins" href="css/menuzord-skins/menuzord-rounded-boxed.css" rel="stylesheet"/>
           <!-- CSS | Main style file -->
           <link href="css/style-main.css" rel="stylesheet" type="text/css">
-          <link href="css/styl" rel="stylesheet" type="text/css">
+          <link href="css/googlestyle.css" rel="stylesheet" type="text/css">
           <!-- CSS | Preloader Styles -->
           <link href="css/preloader.css" rel="stylesheet" type="text/css">
           <!-- CSS | Custom Margin Padding Collection -->
@@ -60,8 +60,9 @@
 
           <!-- Revolution Slider 5.x SCRIPTS -->
           <script src="js/revolution-slider/js/jquery.themepunch.tools.min.js"></script>
+          <script src="js/googlejs.js"></script>
           <script src="js/revolution-slider/js/jquery.themepunch.revolution.min.js"></script>
-
+          <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
           <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
           <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
           <!--[if lt IE 9]>
@@ -84,7 +85,6 @@
                           <li ><a></a><strong><span class="text-white">|</span></strong></a></li>
                           <li><a href="contact.php"><strong><span class="text-white">Help Desk</span></strong></a></li>
                           <li ><a ><strong><span  class="text-white">|</span></strong></a></li>
-                          <li ><a href=","><strong><span  class="text-white">|</span></strong></a></li>
                           <li ><a href="donation.php"><strong><span  class="text-white">Giving/Donation</span></strong></a></li>
                           <li ><a ><strong><span  class="text-white">|</span></strong></a></li>
                           <li ><a href="calender.php"><strong><span  class="text-white">Calender</span></strong></a></li>
@@ -103,8 +103,6 @@
                           <li><a href="staff-account.php"><strong><span class="text-white">Staff</span></strong></a></li>
                           <li><a ><strong><span  class="text-white">|</span></strong></a></li>
                           <li><a href="alumni.php"><strong><span  class="text-white">Alumni</span></strong></a></li>
-                          <li><a><strong><span  class="text-white">|</span></strong></a></li>
-                          <li><a href="contact.php"><strong><span  class="text-white">Contact</span></strong></a></li>
                         </ul>
                       </div>
                       </div>
@@ -301,7 +299,7 @@
                           </ul>
                         </li>
           <!----------------------------admissin ENDs here and campus life starts here--------------------------->
-                        <li><a href="campuslife.php">Campus Life</a>
+                        <li><a href="campus-life.php">Campus Life</a>
                           <ul class="dropdown">
                             <li><a href="chapel.php">Campus Ministry</a></li>
                             <li><a href="student-union.php">Campus Social Life</a></li>
@@ -343,7 +341,7 @@
                       </ul>
                     </li>             
           <!---------------------------- campus life ends here nad --------------------------->
-                        <li><a href="home">Research</a>
+                        <li><a href="research.php">Research</a>
                           <ul class="dropdown">
                             <li><a href="coming-soon.php">journals</a></li>
                             <li><a href="coming-soon.php">Comferences</a></li>

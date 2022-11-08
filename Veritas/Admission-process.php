@@ -72,11 +72,11 @@
         <div class="section-content">
           <div class="row">
             <div class="col-md-12 tp-green " >
-              <h2 class="title text-white text-bolder">The Application Process</h2>
-              <h6 class="title text-white text-bolder">Undergraduate step by step Application Instructions</h6>
+              <h2 class="title text-white text-bolder text-format">The Application Process</h2>
+              <h6 class="title text-white text-bolder text-format">Undergraduate step by step Application Instructions</h6>
               <ol class="breadcrumb text-left text-black mt-10">
-                <li><a href="homeindex.html" class="text-white text-bolder">Welcome</a></li>
-                <li><a href="#" class="text-white text-bolder"> to Veritas University Abuja, Nigeria.</a></li>
+                <li><a href="homeindex.html" class="text-white text-bolder text-format">Welcome</a></li>
+                <li><a href="#" class="text-white text-bolder text-format"> to Veritas University Abuja, Nigeria.</a></li>
               </ol>
             </div>
           </div>
@@ -168,11 +168,11 @@
                               <div class="col-xs-12 col-sm-12 col-md-12">
                                 <div class="text-justify ovaflowprofile mb-10 content">
                                   <ul class="list-icon bg-color-white square">
-                                      <li class="text-bolder text-black"><i class="fa fa-arrow-right btn-bg-color"></i>Candidate who made Veritas University their first and second choice</li>
-                                      <li class="text-bolder text-black"><i class="fa fa-arrow-right btn-bg-color"></i>Candidate who score minimum of 170 in the last UTME examination</li>
-                                      <li class="text-bolder text-black"><i class="fa fa-arrow-right btn-bg-color"></i>Candidates who didnt choose Veritas University in the last UTME Exams</li>
-                                      <li class="text-bolder text-black"><i class="fa fa-arrow-right btn-bg-color"></i>Transfer candidates from other higher institution</li>
-                                      <li class="text-bolder text-black"><i class="fa fa-arrow-right btn-bg-color"></i>Direct entry candidate</li>
+                                      <li class="text-bolder text-black text-format"><i class="fa fa-arrow-right btn-bg-color"></i>Candidate who made Veritas University their first and second choice</li>
+                                      <li class="text-bolder text-black text-format"><i class="fa fa-arrow-right btn-bg-color"></i>Candidate who score minimum of 170 in the last UTME examination</li>
+                                      <li class="text-bolder text-black text-format"><i class="fa fa-arrow-right btn-bg-color"></i>Candidates who didnt choose Veritas University in the last UTME Exams</li>
+                                      <li class="text-bolder text-black text-format"><i class="fa fa-arrow-right btn-bg-color"></i>Transfer candidates from other higher institution</li>
+                                      <li class="text-bolder text-black text-format"><i class="fa fa-arrow-right btn-bg-color"></i>Direct entry candidate</li>
                                   </ul>
                               </div>
                             </div> 
@@ -197,7 +197,7 @@
                         </div>
                         <div class="col-md-10">
                          <h4 class="text-navy text bolder">Start Application</h4> 
-                            <p class="text-bolder">Visit the Admissions portal, and register with a valid email address to create an account.</p>
+                            <p class="text-boldertext-format">Visit the Admissions portal, and register with a valid email address to create an account.</p>
                             <a class="btn btn-bg-color btn-flat btn-lg mt-10 mb-sm-30 text-bolder" href="admission.html">Apply Now →</a>
                           </div>
                       </div>           
@@ -218,8 +218,8 @@
                           </span>    
                         </div>
                         <div class="col-md-10">
-                         <h4 class="text-navy text bolder">Pay Application Fee</h4> 
-                            <p class="text-bolder">On the admissions portal, you will be requested to pay an Application fee of Four thousand five hundred Naira only (N 4500.00) for Undergraduate students </p>
+                         <h4 class="text-navy text bolder text-format">Pay Application Fee</h4> 
+                            <p class="text-bolder text-format">On the admissions portal, you will be requested to pay an Application fee of Four thousand five hundred Naira only (N 4500.00) for Undergraduate students </p>
                         </div>
                       </div>  
                     </div> <!-- cd-timeline-content -->
@@ -239,8 +239,8 @@
                           </span>    
                         </div>
                         <div class="col-md-10">
-                         <h4 class="text-navy text bolder">Fill out forms</h4> 
-                            <p class="text-bolder">Fill out the forms by providing the appropriate information required. Please ensure that you review your forms properly before submission.</p>
+                         <h4 class="text-navy text bolder text-format">Fill out forms</h4> 
+                            <p class="text-bolder text-format">Fill out the forms by providing the appropriate information required. Please ensure that you review your forms properly before submission.</p>
                         </div>
                       </div>  
                     </div> <!-- cd-timeline-content -->
@@ -260,8 +260,8 @@
                           </span>    
                         </div>
                         <div class="col-md-10">
-                         <h4 class="text-navy text bolder">Review of Submissions</h4> 
-                            <p class="text-bolder">Your submissions will be reviewed by a panel made up of members of the Central Admissions Committee at Veritas University, to ascertain your eligibility to study with us.</p>
+                         <h4 class="text-navy text bolder text-format">Review of Submissions</h4> 
+                            <p class="text-bolder text-format">Your submissions will be reviewed by a panel made up of members of the Central Admissions Committee at Veritas University, to ascertain your eligibility to study with us.</p>
                         </div>
                       </div>  
                     </div> <!-- cd-timeline-content -->
@@ -281,8 +281,8 @@
                           </span>    
                         </div>
                         <div class="col-md-10">
-                         <h4 class="text-navy text bolder">Interviewing Process</h4> 
-                            <p class="text-bolder">After the review, you will be scheduled for an online or physical Interview with a member of the Central Admissions Committee.</p>
+                         <h4 class="text-navy text bolder text-format">Interviewing Process</h4> 
+                            <p class="text-bolder text-format">After the review, you will be scheduled for an online or physical Interview with a member of the Central Admissions Committee.</p>
                         </div>
                       </div>  
                     </div> <!-- cd-timeline-content -->
@@ -302,8 +302,8 @@
                           </span>    
                         </div>
                         <div class="col-md-10">
-                         <h4 class="text-navy text bolder">Final Decision</h4> 
-                            <p class="text-bolder">Upon completion of the Interview process, successful candidates will be contacted and issued admission letters.</p>
+                         <h4 class="text-navy text bolder text-format">Final Decision</h4> 
+                            <p class="text-bolder text-format">Upon completion of the Interview process, successful candidates will be contacted and issued admission letters.</p>
                         </div>
                       </div>  
                     </div> <!-- cd-timeline-content -->
@@ -321,15 +321,15 @@
                             </div>
                         </div>
                         <div class="col-md-8 shodow5">
-                          <h2 class="text-uppercase font-weight-600 mt-0 mb-2 font-20 line-bottom text-navy">Who can Apply for Sandwich Programme</h2>
+                          <h2 class="text-uppercase font-weight-600 mt-0 mb-2 font-20 line-bottom text-navy text-format">Who can Apply for Sandwich Programme</h2>
                             <div class="row">
                               <div class="col-md-12">
                                 <div class="text-justify ovaflowprofile mb-10 content">
                                   <ul class="list-icon bg-color-white square">
-                                      <li class="text-bolder text-black"><i class="fa fa-arrow-right btn-bg-color"></i>Candidate with N. C. E certificate</li>
-                                      <li class="text-bolder text-black"><i class="fa fa-arrow-right btn-bg-color"></i>Candidate with OND National Diploma</li>
-                                      <li class="text-bolder text-black"><i class="fa fa-arrow-right btn-bg-color"></i>Candidates with other higher degree</li>
-                                      <li class="text-bolder text-black"><i class="fa fa-arrow-right btn-bg-color"></i>Candidates from other higher institution</li>
+                                      <li class="text-bolder text-black text-format"><i class="fa fa-arrow-right btn-bg-color"></i>Candidate with N. C. E certificate</li>
+                                      <li class="text-bolder text-black text-format"><i class="fa fa-arrow-right btn-bg-color"></i>Candidate with OND National Diploma</li>
+                                      <li class="text-bolder text-black text-format"><i class="fa fa-arrow-right btn-bg-color"></i>Candidates with other higher degree</li>
+                                      <li class="text-bolder text-black text-format"><i class="fa fa-arrow-right btn-bg-color"></i>Candidates from other higher institution</li>
                                   </ul>
                               </div>
                             </div> 
@@ -353,8 +353,8 @@
                           </span>    
                         </div>
                         <div class="col-md-10">
-                         <h4 class="text-navy text bolder">Start Application</h4> 
-                            <p class="text-bolder">Visit the Admissions portal, and register with a valid email address to create an account.</p>
+                         <h4 class="text-navy text bolder text-format">Start Application</h4> 
+                            <p class="text-bolder text-format">Visit the Admissions portal, and register with a valid email address to create an account.</p>
                             <a class="btn btn-bg-color btn-flat btn-lg mt-10 mb-sm-30 text-bolder" href="admission.html">Apply Now →</a>
                           </div>
                       </div>           
@@ -375,8 +375,8 @@
                           </span>    
                         </div>
                         <div class="col-md-10">
-                         <h4 class="text-navy text bolder">Pay Application Fee</h4> 
-                            <p class="text-bolder">On the admissions portal, you will be requested to pay an Application fee of Four thousand five hundred Naira only (N 4500.00) for Undergraduate students </p>
+                         <h4 class="text-navy text bolder text-format">Pay Application Fee</h4> 
+                            <p class="text-bolder text-format">On the admissions portal, you will be requested to pay an Application fee of Four thousand five hundred Naira only (N 4500.00) for Undergraduate students </p>
                         </div>
                       </div>  
                     </div> <!-- cd-timeline-content -->

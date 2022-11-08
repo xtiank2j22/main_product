@@ -836,19 +836,6 @@ footer.bg-deep {
     margin-right: auto;
     max-width: 600px;
   }
-  .water-transparent-color{
-    margin-right: 15px;
-    margin-bottom: 15px;
-    height: 200px;
-    width: 600px;
-    margin-top: 0;
-  }
-  .videoText {
-	z-index: 1;
-	position: absolute;
-  margin-top:-70%; 
-  margin-left:-30%;
-}
 }
 /* Small Devices, Tablets */
 @media only screen and (max-width: 767px) {
@@ -895,22 +882,6 @@ footer.bg-deep {
     margin-top: 20px !important;
     padding-left: 0 !important;
   }
-
-  /*
-  .water-transparent-color-mobile{
-    margin-right: 15px;
-    margin-bottom: 15px;
-    height: 100px;
-    width: 300px;
-    margin-top: 25%;
-  }
-  .videoText-mobile {
-    display: block;
-	z-index: 1;
-	position: absolute;
-  margin-top:-80%; 
-  margin-left:10%;
-}*/
 }
 /* Extra Small Devices, Phones */
 @media only screen and (max-width: 479px) {
@@ -920,12 +891,6 @@ footer.bg-deep {
   .xxs-height-auto {
     min-height: auto !important;
   }
-  .videoTextmobile {
-    z-index: 1;
-    position: absolute;
-    margin-top:-70%; 
-    margin-left:-30%;
-}
 /* -------- Multi Row Clearfix ---------- */
 .multi-row-clearfix .col-xs-6:nth-child(2n + 3) {
   clear: left;
@@ -941,6 +906,7 @@ footer.bg-deep {
 }
 .multi-row-clearfix .col-xs-1:nth-child(12n + 13) {
   clear: left;
+}
 }
 @media (min-width: 768px) {
   /* reset previous grid */

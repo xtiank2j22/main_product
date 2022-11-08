@@ -118,7 +118,7 @@
         </div>
       </div>
     </section><!-- Section: latest news ends here -->
-<!------------------------Undergraduate section -------------------------->
+<!------------------------events display section-------------------------->
       <section class="mt-15 bg-color-white">
         <div class="container p-0 bg-color-white pl-10 pr-10">
           <div class="row">

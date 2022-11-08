@@ -72,12 +72,14 @@ COLOR CODE2: #F2184F
   background-color: #17513C !important;
 }
 /* background-color-transparent */
-.water-transparent-color{
+.water-transp-color-bg{
   background: rgba(0, 0, 0, 0.5);
-  margin-right: 15px;
+}
+.water-transparent-color{
+  margin-right: 20px;
   margin-bottom: 15px;
-  height: 300px;
-  width: 600px;
+  height: 200px;
+  width: 400px;
   margin-top: 0;
 }
 .bg-theme-colored-transparent-9 {

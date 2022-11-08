@@ -83,8 +83,8 @@
                   <div class="col-md-12">
                     <h2 class="title text-white text-bolder">Academic Office</h2>
                     <ol class="breadcrumb text-left text-black mt-10">
-                      <li><a href="homeindex.html" class="text-white text-bolder">Welcome you</a></li>
-                      <li><a href="homeindex.html" class="text-white text-bolder"> to Veritas University Abuja, Nigeria.</a></li>
+                      <li><a href="homeindex.html" class="text-white text-bolder text-format">Welcome you</a></li>
+                      <li><a href="homeindex.html" class="text-white text-bolder text-format"> to Veritas University Abuja, Nigeria.</a></li>
                     </ol>
                   </div>
                 </div>
@@ -104,7 +104,7 @@
                         <div class="meet-doctors mr-5 pr-10">
                             <h2 class="text-uppercase font-weight-600 mt-0 font-28 line-bottom text-navy">SR. Grace Ushie</h2>
                             <h6 class=" letter-space-4 text-navy text-uppercase mt-0 mb-0 ">Academic Officer</h6>
-                            <p class="text-justify text-black ovaflowprofile">Sis. Grace Ushie was born on 30th November, 1964. A native of Enugwu-Ukwu in Njikoka Local Government of Anambra State, she had her primary education at T.T.C. Primary School, Enugu, and attended Uwani Secondary School, also in Enugu for her secondary education. Dr. Okonkwo gained admission into the prestigious University of Nigeria, Nsukka (UNN), where she graduated with honours degree in Biochemistry in 1988. In 1990, she obtained a Postgraduate degree in Education that qualified her to teach in Nsukka High School, Nsukka for five years. In 1998, she obtained her Masters degree in Biochemistry from the same University of Nigeria, Nsukka. By this time, she had been employed as an Administrative Officer in her alma mater. Due to her quest for academic/self development, she felt that enrolling for Ph.D in Biochemistry which demanded intensive laboratory work would never allow for efficiency and effective administrative duties, hence, she enrolled for a second Masters programme in Education and bagged a Masters degree in Education in 2014. In 2019, she obtained her PhD in Educational Foundations from her alma mater.
+                            <p class="text-justify text-black ovaflowprofile text-format">Sis. Grace Ushie was born on 30th November, 1964. A native of Enugwu-Ukwu in Njikoka Local Government of Anambra State, she had her primary education at T.T.C. Primary School, Enugu, and attended Uwani Secondary School, also in Enugu for her secondary education. Dr. Okonkwo gained admission into the prestigious University of Nigeria, Nsukka (UNN), where she graduated with honours degree in Biochemistry in 1988. In 1990, she obtained a Postgraduate degree in Education that qualified her to teach in Nsukka High School, Nsukka for five years. In 1998, she obtained her Masters degree in Biochemistry from the same University of Nigeria, Nsukka. By this time, she had been employed as an Administrative Officer in her alma mater. Due to her quest for academic/self development, she felt that enrolling for Ph.D in Biochemistry which demanded intensive laboratory work would never allow for efficiency and effective administrative duties, hence, she enrolled for a second Masters programme in Education and bagged a Masters degree in Education in 2014. In 2019, she obtained her PhD in Educational Foundations from her alma mater.
                                 Dr. Stella Okonkwo started her career as a University Administrator on 30th October, 1997 as an Administrative Officer. Following positive appraisals due to her hard work and dedication to her duties, she was promoted to the rank of Assistant Registrar in 2002, she continued to progress in rank to the position of Deputy Registrar in 2014. Dr. Okonkwo held this position up to June of 2019 when she had to proceed on leave of absence from the University of Nigeria, Nsukka, to pick up an appointment as the third substantive Registrar of Veritas University, Abuja.                                
                                 Before her appointment as Registrar of Veritas University, Abuja, Dr. Stella Okonkwo has served in several administrative positions and Committees in University of Nigeria, some of which include the Personnel Services Department (1997-2003), Admissions Unit of the Registry (2003-2010), Student Records and Institutional Research Unit (2010-2017) and the Deputy Registrar in the Office of the Vice-Chancellor (2017-2019), Chairman Junior Staff Central Appointment Committee (2016-2019), Secretary to Joint Council/Senate Committee on Investigation into Allegations of Misconduct Leveled Against Staff of the University (2002-2004), Secretary Council Ad-hoc Committee on Petition of UNN Staff to Prof. A.S. Galadanchi Visitation Panel 1985-1998 (2002-2003) to mention a few, and all in the University of Nigeria, Nsukka.                                
                                 Dr. Okonkwo has attended many national and international conferences/workshops and has also served various bodies outside of the university system. She received several awards and honours with the most recent being the Award of Excellence by the University of Nigeria, Nsukka- Executive Council of Peter Odili Postgraduate Hall, UNN.
@@ -136,10 +136,10 @@
               <div class="col-md-12 blog-pull-right">
               <div class="single-service">
                 <ul id="myTab" class="nav nav-tabs boot-tabs">
-                  <li class="active text-white"><a class="font-16 overflow" href="#team" data-toggle="tab"><strong>Our Team</strong></a> </li>
-                  <li><a class="font-16 overflow" href="#staffhistory" data-toggle="tab"><strong>Staff History</strong></a> </li>
-                  <li><a class="font-16 overflow" href="#calendar" data-toggle="tab"><strong>Academic Calendar</strong></a> </li>
-                  <li><a class="font-16 overflow" href="#cbt" data-toggle="tab"><strong>Exams Timetable</strong></a> </li>
+                  <li class="active text-white text-format"><a class="font-16 overflow" href="#team" data-toggle="tab"><strong>Our Team</strong></a> </li>
+                  <li><a class="font-16 overflow text-format" href="#staffhistory" data-toggle="tab"><strong>Staff History</strong></a> </li>
+                  <li><a class="font-16 overflow text-format" href="#calendar" data-toggle="tab"><strong>Academic Calendar</strong></a> </li>
+                  <li><a class="font-16 overflow text-format" href="#cbt" data-toggle="tab"><strong>Exams Timetable</strong></a> </li>
                 </ul>
                 <div id="myTabContent" class="tab-content">
                   <div class="tab-pane fade in active" id="team">
@@ -349,7 +349,7 @@
                           </div>
                           <div class="content text-left flip p-25 pt-0">
                             <p class="line-bottom mb-0 text-black text-bolder">Exams and Record</p>
-                           <p class="text-left mb-20 mt-15 font-13">
+                           <p class="text-left mb-20 mt-15 font-13 text-format">
                           For more news and updats on faculty meetings and
                           events contact the faculty association head
                         </p>
@@ -365,7 +365,7 @@
                           </div>
                           <div class="content text-left flip p-25 pt-0">
                             <p class="line-bottom mb-0 text-black text-bolder">Admissions Office </p>
-                            <p class="text-left mb-20 mt-15 font-13">
+                            <p class="text-left mb-20 mt-15 font-13 text-format">
                           For more news and updats on faculty meetings and
                           events contact the faculty association head
                         </p>

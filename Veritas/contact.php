@@ -62,15 +62,14 @@
   <div class="main-content">
     <!-- Section: inner-header -->
     <section class="inner-header divider parallax layer-overlay overlay-dark-5" data-bg-img="images/bg/capslider.png">
-      <div class="container pt-70 pb-20" data-bg-img="images/bg/capslider.png">
+      <div class="container-fluid pt-70 pb-20" style="background-repeat: no-repeat;" data-bg-img="images/event/registraroffice1.jpg">
         <!-- Section Content -->
         <div class="section-content">
           <div class="row">
             <div class="col-md-12">
-              <h2 class="title text-white text-bolder">Contact Us Through our Hotlines</h2>
+              <h2 class="title text-white text-bolder">Contact Us </h2>
               <ol class="breadcrumb text-left text-black mt-10">
-                <li><a href="#" class="text-white text-bolder">Welcome</a></li>
-                <li><a href="#" class="text-white text-bolder"> to Veritas University Abuja, Nigeria.</a></li>
+                <li><a href="#" class="text-white text-bolder font-20">Useful contact information and addresses for our Services and Campus</a></li>
               </ol>
             </div>
           </div>
@@ -134,7 +133,7 @@
             <div class="row">
                 <div class="col-sm-6 col-md-3">
                     <div class="widget">
-                      <h4 class="widget-title text-white">School Address</h4>
+                      <h4 class="widget-title text-navy text-bolder">School Address</h4>
                       <div class="opening-hours">
                         <p class="text-black text-bolder">Km 2 Bwari Zuma Road, Zuma Bwari Area Council, Abuja.</p>
                         <ul class="list mt-5">

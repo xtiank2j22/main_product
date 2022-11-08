@@ -66,299 +66,110 @@
   <!-- Start main-content -->
   <div class="main-content">
     <!-- Section: inner-header -->
-    <section class="inner-header divider parallax layer-overlay overlay-dark-5" data-bg-img="http://placehold.it/1920x1280">
+    <section class="inner-header divider stuaccountheight" data-bg-img="images/event/newimages/Capture.png">
       <div class="container pt-70 pb-20">
         <!-- Section Content -->
-        <div class="section-content">
+        <div class="section-content bg-theme-colored-transparent-9">
           <div class="row">
             <div class="col-md-12">
-              <h2 class="title text-white">About</h2>
-              <ol class="breadcrumb text-left text-black mt-10">
-                <li><a href="#">Home</a></li>
-                <li><a href="#">Pages</a></li>
-                <li class="active text-gray-silver">Page Title</li>
-              </ol>
+              <h2 class="title text-white text-bolder font-20 pl-10">About US</h2>
             </div>
           </div>
         </div>
       </div>
     </section>
-
-    <!-- Section: About -->
-    <section class="">
-      <div class="container">
+     <!-- Section: About -->
+ <section class="mb-0">
+      <div class="container bg-color-white">
         <div class="section-content">
           <div class="row">
-            <div class="col-md-6">
-              <h6 class="letter-space-4 text-gray-darkgray text-uppercase mt-0 mb-0">All About</h6>
-              <h2 class="text-uppercase font-weight-600 mt-0 font-28 line-bottom">The World’s Best Education in Our University</h2>
-              <h4 class="text-theme-colored">Lorem ipsum dolor sit amet soluta saepe odit error, maxime praesentium sunt udiandae!</h4>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore atque officiis maxime suscipit expedita obcaecati nulla in ducimus iure quos quam recusandae dolor quas et perspiciatis voluptatum accusantium delectus nisi reprehenderit, eveniet fuga modi pariatur, eius vero. Ea vitae maiores.</p>
-              <a class="btn btn-theme-colored btn-flat btn-lg mt-10 mb-sm-30" href="#">Know More →</a>
+            <div class="col-xs-12 col-sm-12 col-md-8">
+              <h1 class="letter-space-4 text-navy text-uppercase mt-0 mb-0">Veritas University</h1>
+              <h4 class="text-theme-colored">The University is a Universe, and many students expect a life of their own on campus, to be a paradise.</h4>
+              <p class="text-justify text-bold">Veritas University is a private university, located in Abuja. It was founded in March 2002 by the Catholic Church in Nigeria. The Institution received its provisional operation licence in 2007 from the National Universities Commission and commenced admission of students in October 2008, at its take-off campus in Obehie, Abia State, Nigeria.</p>
             </div>
-            <div class="col-md-6">
-              <div class="video-popup">                
-                <a href="https://www.youtube.com/watch?v=pW1uVUg5wXM" data-lightbox-gallery="youtube-video" title="Video">
-                  <img alt="" src="http://placehold.it/555x330" class="img-responsive img-fullwidth">
-                </a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-    
-    <!-- Section: Services -->
-    <section id="services" class="bg-lighter">
-      <div class="container">
-        <div class="section-title">
-          <div class="row">
-            <div class="col-md-12">
-              <h2 class="text-uppercase text-theme-colored title line-bottom">Our <span class="text-theme-color-2 font-weight-400">Features</span></h2>
-            </div>
-          </div>
-        </div>
-        <div class="row mtli-row-clearfix">
-          <div class="col-xs-12 col-sm-6 col-md-4">
-            <div class="icon-box iconbox-theme-colored bg-white p-15 mb-30 border-1px">
-              <a class="icon icon-dark border-left-theme-color-2-3px pull-left flip mb-0 mr-0 mt-5" href="#">
-                <i class="pe-7s-scissors"></i>
-              </a>
-              <div class="icon-box-details">
-                <h4 class="icon-box-title font-16 font-weight-600 m-0 mb-5">Less CSS</h4>
-                <p class="text-gray font-13 mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias non null</p>
-              </div>
-            </div>    
-          </div>
-          <div class="col-xs-12 col-sm-6 col-md-4">
-            <div class="icon-box iconbox-theme-colored bg-white p-15 mb-30 border-1px">
-              <a class="icon icon-dark border-left-theme-color-2-3px pull-left flip mb-0 mr-0 mt-5" href="#">
-                <i class="pe-7s-pen"></i>
-              </a>
-              <div class="icon-box-details">
-                <h4 class="icon-box-title font-16 font-weight-600 m-0 mb-5">Easy Customiz</h4>
-                <p class="text-gray font-13 mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias non null</p>
-              </div>
-            </div>    
-          </div>
-          <div class="col-xs-12 col-sm-6 col-md-4">
-            <div class="icon-box iconbox-theme-colored bg-white p-15 mb-30 border-1px">
-              <a class="icon icon-dark border-left-theme-color-2-3px pull-left flip mb-0 mr-0 mt-5" href="#">
-                <i class="pe-7s-tools"></i>
-              </a>
-              <div class="icon-box-details">
-                <h4 class="icon-box-title font-16 font-weight-600 m-0 mb-5">Special ShortCode</h4>
-                <p class="text-gray font-13 mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias non null</p>
-              </div>
-            </div>    
-          </div>
-          <div class="col-xs-12 col-sm-6 col-md-4">
-            <div class="icon-box iconbox-theme-colored bg-white p-15 mb-30 border-1px">
-              <a class="icon icon-dark border-left-theme-color-2-3px pull-left flip mb-0 mr-0 mt-5" href="#">
-                <i class="pe-7s-vector"></i>
-              </a>
-              <div class="icon-box-details">
-                <h4 class="icon-box-title font-16 font-weight-600 m-0 mb-5">W3 validation</h4>
-                <p class="text-gray font-13 mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias non null</p>
-              </div>
-            </div>    
-          </div>
-          <div class="col-xs-12 col-sm-6 col-md-4">
-            <div class="icon-box iconbox-theme-colored bg-white p-15 mb-30 border-1px">
-              <a class="icon icon-dark border-left-theme-color-2-3px pull-left flip mb-0 mr-0 mt-5" href="#">
-                <i class="pe-7s-phone"></i>
-              </a>
-              <div class="icon-box-details">
-                <h4 class="icon-box-title font-16 font-weight-600 m-0 mb-5">Responsive</h4>
-                <p class="text-gray font-13 mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias non null</p>
-              </div>
-            </div>    
-          </div>
-          <div class="col-xs-12 col-sm-6 col-md-4">
-            <div class="icon-box iconbox-theme-colored bg-white p-15 mb-30 border-1px">
-              <a class="icon icon-dark border-left-theme-color-2-3px pull-left flip mb-0 mr-0 mt-5" href="#">
-                <i class="pe-7s-light"></i>
-              </a>
-              <div class="icon-box-details">
-                <h4 class="icon-box-title font-16 font-weight-600 m-0 mb-5">Retina Ready</h4>
-                <p class="text-gray font-13 mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias non null</p>
-              </div>
-            </div>    
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <!-- Divider: Funfact -->
-    <section class="divider parallax layer-overlay overlay-theme-colored-9" data-bg-img="http://placehold.it/1920x1280" data-parallax-ratio="0.7">
-      <div class="container">
-        <div class="row">
-          <div class="col-xs-12 col-sm-6 col-md-3 mb-md-50">
-            <div class="funfact text-center">
-              <i class="pe-7s-smile mt-5 text-theme-color-2"></i>
-              <h2 data-animation-duration="2000" data-value="5248" class="animate-number text-white mt-0 font-38 font-weight-500">0</h2>
-              <h5 class="text-white text-uppercase mb-0">Happy Students</h5>
-            </div>
-          </div>
-          <div class="col-xs-12 col-sm-6 col-md-3 mb-md-50">
-            <div class="funfact text-center">
-              <i class="pe-7s-note2 mt-5 text-theme-color-2"></i>
-              <h2 data-animation-duration="2000" data-value="675" class="animate-number text-white mt-0 font-38 font-weight-500">0</h2>
-              <h5 class="text-white text-uppercase mb-0">Our Courses</h5>
-            </div>
-          </div>
-          <div class="col-xs-12 col-sm-6 col-md-3 mb-md-50">
-            <div class="funfact text-center">
-              <i class="pe-7s-users mt-5 text-theme-color-2"></i>
-              <h2 data-animation-duration="2000" data-value="248" class="animate-number text-white mt-0 font-38 font-weight-500">0</h2>
-              <h5 class="text-white text-uppercase mb-0">Our Teachers</h5>
-            </div>
-          </div>
-          <div class="col-xs-12 col-sm-6 col-md-3 mb-md-0">
-            <div class="funfact text-center">
-              <i class="pe-7s-cup mt-5 text-theme-color-2"></i>
-              <h2 data-animation-duration="2000" data-value="24" class="animate-number text-white mt-0 font-38 font-weight-500">0</h2>
-              <h5 class="text-white text-uppercase mb-0">Awards Won</h5>
+            <div class="col-xs-12 col-sm-12 col-md-4">
+            <img src="images/event/newimages/Veritas_University.Senate.jpg">
             </div>
           </div>
         </div>
       </div>
     </section>
 
-    <!-- Section: Why Choose Us -->
-    <section id="event" class="">
-      <div class="container pb-50">
+    <section  class="mt-0">
+      <div class="container bg-color-white">
         <div class="section-content">
           <div class="row">
-            <div class="col-md-6">
-              <h3 class="text-uppercase line-bottom mt-0 line-height-1"><i class="fa fa-calendar mr-10"></i>Upcoming <span class="text-theme-color-2">Events</span></h3>
-              <article class="post media-post clearfix pb-0 mb-10">
-                <a href="#" class="post-thumb mr-20"><img alt="" src="http://placehold.it/120x120"></a>
-                <div class="post-right">
-                  <h4 class="mt-0 mb-5"><a href="#">Upcoming Event Title</a></h4>
-                  <ul class="list-inline font-12 mb-5">
-                    <li class="pr-0"><i class="fa fa-calendar mr-5"></i> June 26, 2016 |</li>
-                    <li class="pl-5"><i class="fa fa-map-marker mr-5"></i>New York</li>
-                  </ul>
-                  <p class="mb-0 font-13">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas eveniet, nemo dicta. Ullam nam.</p>
-                  <a class="text-theme-colored font-13" href="#">Read More →</a>
-                </div>
-              </article>
-              <article class="post media-post clearfix pb-0 mb-10">
-                <a href="#" class="post-thumb mr-20"><img alt="" src="http://placehold.it/120x120"></a>
-                <div class="post-right">
-                  <h4 class="mt-0 mb-5"><a href="#">Upcoming Event Title</a></h4>
-                  <ul class="list-inline font-12 mb-5">
-                    <li class="pr-0"><i class="fa fa-calendar mr-5"></i> June 26, 2016 |</li>
-                    <li class="pl-5"><i class="fa fa-map-marker mr-5"></i>New York</li>
-                  </ul>
-                  <p class="mb-0 font-13">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas eveniet, nemo dicta. Ullam nam.</p>
-                  <a class="text-theme-colored font-13" href="#">Read More →</a>
-                </div>
-              </article>
-              <article class="post media-post clearfix pb-0 mb-10">
-                <a href="#" class="post-thumb mr-20"><img alt="" src="http://placehold.it/120x120"></a>
-                <div class="post-right">
-                  <h4 class="mt-0 mb-5"><a href="#">Upcoming Event Title</a></h4>
-                  <ul class="list-inline font-12 mb-5">
-                    <li class="pr-0"><i class="fa fa-calendar mr-5"></i> June 26, 2016 |</li>
-                    <li class="pl-5"><i class="fa fa-map-marker mr-5"></i>New York</li>
-                  </ul>
-                  <p class="mb-0 font-13">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas eveniet, nemo dicta. Ullam nam.</p>
-                  <a class="text-theme-colored font-13" href="#">Read More →</a>
-                </div>
-              </article>
+            <div class="col-xs-12 col-sm-12 col-md-8">
+              <h2 class="letter-space-4 text-navy text-uppercase mt-0 mb-0">History</h2>
+              <p class="text-justify text-bold">Veritas University Abuja (VUNA), also known as the Catholic University of Nigeria, was founded by the Catholic Bishops Conference of Nigeria through a resolution given at its March 2002 meeting in Abuja. The initiative was born by the collective desire of the attending Bishops' for a University that would provide high quality tertiary education according to the tradition of the Catholic Church.</p>
+              <p class="text-justify text-bold">The Institution received its provisional operation licence in 2007 from the National Universities Commission and commenced admission of students in October 2008 at its take-off campus in Obehie, Abia State, Nigeria. In 2014, it moved to its permanent site with its campus now located in the Bwari Area council of the Federal Capital Territory, Abuja. Nigeria.</p>
+              <p class="text-justify text-bold">The University emphasizes moral values, self-reliance and the development of the students’ entrepreneurial capabilities for the social and economic benefit of the graduates and the Nigerian society.</p>
+              <h2 class="letter-space-4 text-navy text-uppercase mt-0 mb-0">Accreditation</h2>
+              <p class="text-justify text-bold">A provisional License to operate the university was granted by the National Universities Commission in May 2007.  As at 2019, there were over 30 undergraduate and 15 Post Graduate programmes offered by the university, which have passed the National Universities Commission (NUC) accreditation and resource verification.</p>
+              <p class="text-justify text-bold">In March 2019, Veritas University awarded certificates to 141 graduating students for its 2017/18 academic session at its 7th convocation ceremony.</p>
+              <h3 class="letter-space-4 text-navy text-uppercase mt-0 mb-0">Veritas Journal of Humanities</h3>
+              <p class="text-justify text-bold">The Veritas Journal of Humanities (VEJOH) is the official maiden multidisciplinary academic journal of Veritas University from the Humanities Faculty published bi-annually. It is based on the following principles; Afroconstructivity, Humanity, Society and Development. Articles come from scholars within and outside Africa. </p>
             </div>
-            <div class="col-md-6">
-              <h3 class="line-bottom mt-0 line-height-1">Why <span class="text-theme-color-2">Choose Us?</span></h3>
-              <p class="mb-10">The Cweren Law Firm is a recognized leader in landlord tenant representation throughout Texas.The largest professional property.</p>
-              <div id="accordion1" class="panel-group accordion">
-                <div class="panel">
-                  <div class="panel-title"> <a class="active" data-parent="#accordion1" data-toggle="collapse" href="#accordion11" aria-expanded="true"> <span class="open-sub"></span> Why this Company is Best?</a> </div>
-                  <div id="accordion11" class="panel-collapse collapse in" role="tablist" aria-expanded="true">
-                    <div class="panel-content">
-                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore impedit quae repellendus provident dolor iure poss imusven am aliquam. Officiis totam ea laborum deser unt vonsess.  iure poss imusven am aliquam</p>
-                    </div>
-                  </div>
-                </div>
-                <div class="panel">
-                  <div class="panel-title"> <a data-parent="#accordion1" data-toggle="collapse" href="#accordion12" class="" aria-expanded="true"> <span class="open-sub"></span> Why this Company is Best?</a> </div>
-                  <div id="accordion12" class="panel-collapse collapse" role="tablist" aria-expanded="true">
-                    <div class="panel-content">
-                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore impedit quae repellendus provident dolor iure poss imusven am aliquam. Officiis totam ea laborum deser unt vonsess.  iure poss imusven am aliquam</p>
-                    </div>
-                  </div>
-                </div>
-                <div class="panel">
-                  <div class="panel-title"> <a data-parent="#accordion1" data-toggle="collapse" href="#accordion13" class="" aria-expanded="true"> <span class="open-sub"></span> Why this Company is Best?</a> </div>
-                  <div id="accordion13" class="panel-collapse collapse" role="tablist" aria-expanded="true">
-                    <div class="panel-content">
-                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore impedit quae repellendus provident dolor iure poss imusven am aliquam. Officiis totam ea laborum deser unt vonsess.  iure poss imusven am aliquam</p>
-                    </div>
-                  </div>
-                </div>
-                <div class="panel">
-                  <div class="panel-title"> <a data-parent="#accordion1" data-toggle="collapse" href="#accordion14" class="" aria-expanded="true"> <span class="open-sub"></span> Why this Company is Best?</a> </div>
-                  <div id="accordion14" class="panel-collapse collapse" role="tablist" aria-expanded="true">
-                    <div class="panel-content">
-                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore impedit quae repellendus provident dolor iure poss imusven am aliquam. Officiis totam ea laborum deser unt vonsess.  iure poss imusven am aliquam</p>
-                    </div>
-                  </div>
-                </div>
-                <div class="panel">
-                  <div class="panel-title"> <a data-parent="#accordion1" data-toggle="collapse" href="#accordion15" class="" aria-expanded="true"> <span class="open-sub"></span> Why this Company is Best?</a> </div>
-                  <div id="accordion15" class="panel-collapse collapse" role="tablist" aria-expanded="true">
-                    <div class="panel-content">
-                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore impedit quae repellendus provident dolor iure poss imusven am aliquam. Officiis totam ea laborum deser unt vonsess.  iure poss imusven am aliquam</p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <!-- Divider: Call To Action -->
-    <section class="bg-theme-color-2">
-      <div class="container pt-10 pb-20">
-        <div class="row">
-          <div class="call-to-action">
-            <div class="col-md-6">
-              <h3 class="mt-5 mb-5 text-white vertical-align-middle"><i class="pe-7s-mail mr-10 font-48 vertical-align-middle"></i> SUBSCRIBE TO OUR NEWSLETTER</h3>
-            </div>
-            <div class="col-md-6">
-              <!-- Mailchimp Subscription Form Starts Here -->
-              <form id="mailchimp-subscription-form" class="newsletter-form mt-10">
-                <div class="input-group">
-                  <input type="email" value="" name="EMAIL" placeholder="Your Email" class="form-control input-lg font-16" data-height="45px" id="mce-EMAIL-footer">
-                  <span class="input-group-btn">
-                    <button data-height="45px" class="btn bg-theme-colored text-white btn-xs m-0 font-14" type="submit">Subscribe</button>
-                  </span>
-                </div>
-              </form>
-              <!-- Mailchimp Subscription Form Validation-->
-              <script type="text/javascript">
-                $('#mailchimp-subscription-form').ajaxChimp({
-                    callback: mailChimpCallBack,
-                    url: '//thememascot.us9.list-manage.com/subscribe/post?u=a01f440178e35febc8cf4e51f&amp;id=49d6d30e1e'
-                });
-
-                function mailChimpCallBack(resp) {
-                    // Hide any previous response text
-                    var $mailchimpform = $('#mailchimp-subscription-form'),
-                        $response = '';
-                    $mailchimpform.children(".alert").remove();
-                    if (resp.result === 'success') {
-                        $response = '<div class="alert alert-success"><button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>' + resp.msg + '</div>';
-                    } else if (resp.result === 'error') {
-                        $response = '<div class="alert alert-danger"><button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>' + resp.msg + '</div>';
-                    }
-                    $mailchimpform.prepend($response);
-                }
-              </script>
-              <!-- Mailchimp Subscription Form Ends Here -->
+            <div class="col-xs-12 col-sm-12 col-md-4">
+             <h3 class="letter-space-4 text-navy text-uppercase mt-0 mb-0">veritas university</h3>
+             <a class="menuzord-brand pull-left flip xs-pull-center mb-15" href="javascript:void(0)"><img src="images/logo-wide.png" alt=""></a>
+              <table class="table">
+                <tbody>
+                  <tr>
+                    <td>Other name<span class="text-navy text-bolder">:</span></td>
+                    <td></td>
+                    <td>The Catholic University of Nigeria</td>
+                  </tr>
+                  <tr>
+                    <td>Motto:</td>
+                    <td></td>
+                    <td>Seeking the Truth</td>
+                  </tr>
+                  <tr>
+                    <td>Type:</td>
+                    <td></td>
+                    <td>Private</td>
+                  </tr>
+                  <tr>
+                    <td>Established:</td>
+                    <td></td>
+                    <td>2007; 15 years ago</td>
+                  </tr>
+                  <tr>
+                    <td>Founder:</td>
+                    <td></td>
+                    <td>Catholic Church in Nigeria</td>
+                  </tr>
+                  <tr>
+                    <td><a href="Vice-Chancellor" class="text-deepgreen text-bolder"> Vice-Chancellor: </a></td>
+                    <td></td>
+                    <td>Prof. Ichoku Hyacinth</td>
+                  </tr>
+                  <tr>
+                    <td>Address:</td>
+                    <td></td>
+                    <td>Bwari Area Council, FCT-Abuja, Abuja, Nigeria<br>
+                    9.28857708129,<br> 7.41568800158</td>
+                  </tr>
+                  <tr>
+                    <td>Campus:</td>
+                    <td></td>
+                    <td>Rural 49 acres (20 ha)</td>
+                  </tr>
+                  <tr>
+                    <td>Email:</td>
+                    <td></td>
+                    <td>info@veritas.edu.ng</td>
+                  </tr>
+                  <tr>
+                    <td>Website:</td>
+                    <td></td>
+                    <td><a href="www.veritas.edu.ng text-deepgreen text-bolder">veritas.edu.ng</a></td>
+                  </tr>
+                </tbody>
+              </table>
+              <img src="images/event/newimages/Capture.png">
             </div>
           </div>
         </div>

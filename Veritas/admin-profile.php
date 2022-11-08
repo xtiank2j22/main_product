@@ -104,7 +104,7 @@
             </div>
             <div class="col-md-8">
               <h4 class="name font-24 mt-0 mb-0">Sakib Smith</h4>
-              <h5 class="mt-5 text-theme-color-2">Chemistry Teachers</h5>
+              <h5 class="mt-5 text-theme-color-2 text-format">Chemistry Teachers</h5>
               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam vero expedita fugiat illo quasi doloremque, in unde omnis sint assumenda! Quaerat in, reprehenderit corporis voluptatum natus sequi reiciendis ullam. Quam eaque dolorum voluptates cupiditate explicabo.</p>
               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt culpa dicta quaerat qui recusandae possimus placeat quidem ipsam voluptates similique libero tempore, labore quasi delectus vero alias, consectetur blanditiis eum maxime sunt accusantium ipsa doloribus reiciendis. Ea quod reprehenderit deserunt. Veritatis omnis similique tempora delectus a consequuntur, quis.  Adipisicing elit. Nesciunt culpa dicta quaerat qui recusandae possimus placeat quidem ipsam voluptates similique libero tempore, labore quasi delectus vero alias.</p>
               <ul class="styled-icons icon-dark icon-theme-colored icon-sm mt-15 mb-0">

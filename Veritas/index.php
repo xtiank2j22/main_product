@@ -12,27 +12,27 @@
                         <div class="row clients-logo transparent text-center">
                           <div class=" col-md-2 col-lg-2"> <div class="funfact text-center">
                             <a href="Admission-process.php" class=""><img src="images/flaticon-png/small/desktop.png"  alt=""></a>
-                            <h2 class=" text-navy mt-0 font-20 font-weight-500">Apply Online</h2>
+                            <h2 class=" text-navy mt-0 font-20 font-weight-500  text-format">Apply Online</h2>
                           </div></div>
                           <div class=" col-md-2 col-lg-2"> <div class="funfact text-center">
                             <a href="list-of-department.php" class=""><img src="images/flaticon-png/small/6.png"  alt=""></a>
-                            <h2 class=" text-navy mt-0 font-20 font-weight-500">Search Courses</h2>
+                            <h2 class=" text-navy mt-0 font-20 font-weight-500 text-format">Search Courses</h2>
                           </div></div>
                           <div class=" col-md-2 col-lg-2"> <div class="funfact text-center">
                             <a href="software-engineering.php" class=""><img src="images/flaticon-png/small/7.png"  alt=""></a>
-                            <h2 class=" text-navy mt-0 font-20 font-weight-500">Placement</h2>
+                            <h2 class=" text-navy mt-0 font-20 font-weight-500 text-format">Placement</h2>
                           </div></div>
                           <div class=" col-md-2 col-lg-2"> <div class="funfact text-center">
                             <a href="#" class=""><img src="images/flaticon-png/small/graduate.png"  alt=""></a>
-                            <h2 class=" text-navy mt-0 font-20 font-weight-500">Scholarship</h2>
+                            <h2 class=" text-navy mt-0 font-20 font-weight-500 text-format">Scholarship</h2>
                           </div></div>
                           <div class=" col-md-2 col-lg-2"> <div class="funfact text-center">
                             <a href="#" class=""><img src="images/flaticon-png/small/lecture.png"  alt=""></a>
-                            <h2 class=" text-navy mt-0 font-20 font-weight-500">Learning</h2>
+                            <h2 class=" text-navy mt-0 font-20 font-weight-500 text-format">Learning</h2>
                           </div></div>
                           <div class=" col-md-2 col-lg-2" ><div class="funfact text-center" >
                             <a href="about.php" class=""><img src="images/flaticon-png/small/8.png"  alt=""></a>
-                            <h2 class=" text-navy mt-0 font-20 font-weight-500">About-Us</h2>
+                            <h2 class=" text-navy mt-0 font-20 font-weight-500 text-format">About-Us</h2>
                           </div></div>
                         </div>
                       </div>
@@ -45,15 +45,15 @@
                     <div class="section-content ">
                       <div class="row">
                         <div class="col-md-12">
-                          <h3 class=" text-theme-colored title line-bottom line-height-1 mt-0 mb-0">Latest <span class="text-theme-color-2 font-weight-400">News</span> <a href="#"> | View All</a></h3>
+                          <h3 class=" text-theme-colored title line-bottom line-height-1 mt-0 mb-0 text-format">Latest <span class="text-theme-color-2 font-weight-400">News</span> <a href="#"> | View All</a></h3>
                           <div class="owl-carousel-3col owl-nav-top" data-nav="true">
                             <div class="item shodow5 ovaflow latestnews" >
                               <article class="post media-post clearfix pb-0 mb-10">
                                 <a href="newsview.php" class="post-thumb mr-20 "><img alt="" src="images/event/freshers1.jpeg"></a>
                                 <div class="post-right .ovaflow">
-                                  <h4 class="mt-0 mb-5 "><a href="newsview.php" class="text-navy text-bolder ">New Students</a></h4>
-                                  <p class="text-black text-bolder ovaflow"> <a class="mb-0 font-13 text-black readthumb" href="newsview.php">Arrival of new student and Lectures</a>  <i class="text-green fa fa-arrow-right"></i></p>
-                                  <h6><span class="text-theme-colored fas fa-calendar-alt"> Nov 13, 2015</span></h6>
+                                  <h4 class="mt-0 mb-5 "><a href="newsview.php" class="text-navy text-bolder text-format">New Students</a></h4>
+                                  <p class="text-black text-bolder ovaflow"> <a class="mb-0 font-13 text-black readthumb  text-format" href="newsview.php">Arrival of new student and Lectures</a>  <i class="text-green fa fa-arrow-right"></i></p>
+                                  <h6><span class="text-theme-colored fas fa-calendar-alt  text-format"> Nov 13, 2015</span></h6>
                                 </div>
                               </article>
                             </div>
@@ -61,9 +61,9 @@
                             <article class="post media-post clearfix pb-0 mb-10">
                               <a href="newsview.php" class="post-thumb mr-20 "><img alt="" src="images/event/culture1.JPG"></a>
                               <div class="post-right">
-                                <h4 class="mt-0 mb-5 "><a href="newsview.php" class="text-navy text-bolder">Cultural Day</a></h4>
-                                <p class="text-black text-bolder ovaflow"> <a class="mb-0 font-13 text-black readthumb" href="newsview.php">Show-casing The unity and blending of cultures </a>  <i class="text-green fa fa-arrow-right"></i></p>
-                                <h6><span class="text-theme-colored fas fa-calendar-alt"> Nov 13, 2015</span></h6>
+                                <h4 class="mt-0 mb-5 "><a href="newsview.php" class="text-navy text-bolder text-format">Cultural Day</a></h4>
+                                <p class="text-black text-bolder ovaflow"> <a class="mb-0 font-13 text-black readthumb text-format" href="newsview.php">Show-casing The unity and blending of cultures </a>  <i class="text-green fa fa-arrow-right"></i></p>
+                                <h6><span class="text-theme-colored fas fa-calendar-alt text-format"> Nov 13, 2015</span></h6>
                               </div>
                             </article>
                           </div>
@@ -71,9 +71,9 @@
                             <article class="post media-post clearfix pb-0 mb-10">
                               <a href="newsview.php" class="post-thumb mr-20 "><img alt="" src="images/event/gradutae1.jpg"></a>
                               <div class="post-right">
-                                <h4 class="mt-0 mb-5 "><a href="newsview.php" class="text-navy text-bolder">Gradution </a></h4>
-                                <p class="text-black text-bolder ovaflow"> <a class="mb-0 font-13 text-black readthumb" href="newsview.php">Graduating students of 2022, final day in school</a>  <i class="text-green fa fa-arrow-right"></i></p>
-                                <h6><span class="text-theme-colored fas fa-calendar-alt"> Nov 13, 2015</span></h6>
+                                <h4 class="mt-0 mb-5 "><a href="newsview.php" class="text-navy text-bolder text-format">Gradution </a></h4>
+                                <p class="text-black text-bolder ovaflow"> <a class="mb-0 font-13 text-black readthumb text-format" href="newsview.php">Graduating students of 2022, final day in school</a>  <i class="text-green fa fa-arrow-right"></i></p>
+                                <h6><span class="text-theme-colored fas fa-calendar-alt text-format"> Nov 13, 2015</span></h6>
                               </div>
                             </article>
                           </div>
@@ -81,9 +81,9 @@
                             <article class="post media-post clearfix pb-0 mb-10">
                               <a href="newsview.php" class="post-thumb mr-20 "><img alt="" src="images/event/BISHOP1.jpg"></a>
                               <div class="post-right">
-                                <h4 class="mt-0 mb-5 "><a href="newsview.php" class="text-navy text-bolder">Guest Visitors</a></h4>
-                                <p class="text-black text-bolder ovaflow"> <a class="mb-0 font-13 text-black readthumb" href="newsview.php">Commissioning of our new senate building By Bishop T.A ADE</a>  <i class="text-green fa fa-arrow-right"></i></p>
-                                <h6><span class="text-theme-colored fas fa-calendar-alt"> Nov 13, 2015</span></h6>
+                                <h4 class="mt-0 mb-5 "><a href="newsview.php" class="text-navy text-bolder text-format">Guest Visitors</a></h4>
+                                <p class="text-black text-bolder ovaflow"> <a class="mb-0 font-13 text-black readthumb text-format" href="newsview.php">Commissioning of our new senate building By Bishop T.A ADE</a>  <i class="text-green fa fa-arrow-right"></i></p>
+                                <h6><span class="text-theme-colored fas fa-calendar-alt text-format"> Nov 13, 2015</span></h6>
                               </div>
                             </article>
                           </div>
@@ -107,9 +107,9 @@
                               </div>
                             </div>
                             <div class="entry-content p-20 pr-10 bg-white">
-                            <h4 class="title text-uppercase line-bottom mt-0 text-navy text-bolder">SDGs Setout Goals</h4>
-                            <p class="desc mb-10 ovaflowtop">Veritas University Partiner with UN and Governmet to acturalise the SDG Goals </p>
-                            <a href="SDGs.php" class="btn btn-xs btn-theme-colored">Read more</a>
+                            <h4 class="title text-uppercase line-bottom mt-0 text-navy text-bolder text-format">SDGs Setout Goals</h4>
+                            <p class="desc mb-10 ovaflowtop text-format">Veritas University Partiner with UN and Governmet to acturalise the SDG Goals </p>
+                            <a href="SDGs.php" class="btn btn-xs btn-theme-colored text-format">Read more</a>
                             <div class="clearfix"></div>
                             </div>
                           </article>
@@ -122,8 +122,8 @@
                               </div>
                             </div>
                             <div class="entry-content p-20 pr-10 bg-white">
-                            <h4 class="title text-uppercase line-bottom mt-0 text-navy text-bolder">Notice Board</h4>
-                            <p class="desc mb-10 ovaflowtop">Important Notifications and announcements to all our students, parents, and also to prospective students. </p>
+                            <h4 class="title text-uppercase line-bottom mt-0 text-navy text-bolder text-format">Notice Board</h4>
+                            <p class="desc mb-10 ovaflowtop text-format">Important Notifications and announcements to all our students, parents, and also to prospective students. </p>
                             <a href="newsview.php" class="btn btn-xs btn-theme-colored">Read more</a>
                             <div class="clearfix"></div>
                             </div>
@@ -137,8 +137,8 @@
                               </div>
                             </div>
                             <div class="entry-content p-20 pr-10 bg-white">
-                            <h4 class="title text-uppercase line-bottom mt-0 text-navy text-bolder">Orientation</h4>
-                            <p class="desc mb-10 ovaflowtop">The Orientation for the freshers commence 23rd September, 2022. All new students are expected to attain</p>
+                            <h4 class="title text-uppercase line-bottom mt-0 text-navy text-bolder text-format">Orientation</h4>
+                            <p class="desc mb-10 ovaflowtop text-format">The Orientation for the freshers commence 23rd September, 2022. All new students are expected to attain</p>
                             <a href="newsview.php" class="btn btn-xs btn-theme-colored">Read more</a>
                             <div class="clearfix"></div>
                             </div>
@@ -152,8 +152,8 @@
                               </div>
                             </div>
                             <div class="entry-content p-20 pr-10 bg-white">
-                            <h4 class="title text-uppercase line-bottom mt-0 text-navy text-bolder">Admission</h4>
-                            <p class="desc mb-10 ovaflowtop">For information that will assist our propective students to study at Veritas University Abuja</p>
+                            <h4 class="title text-uppercase line-bottom mt-0 text-navy text-bolder text-format">Admission</h4>
+                            <p class="desc mb-10 ovaflowtop text-format">For information that will assist our propective students to study at Veritas University Abuja</p>
                             <a href="admission.php" class="btn btn-xs btn-theme-colored">Read more</a>
                             <div class="clearfix"></div>
                             </div>
@@ -174,9 +174,9 @@
                           </div>
                         </div>
                         <div class="col-md-6">
-                          <h2 class="text-uppercase font-weight-600 mt-0 font-28 line-bottom text-navy">All About</h2>
-                          <h6 class=" letter-space-4 text-gray-darkgray text-uppercase mt-0 mb-0">The World's Best moral, Cultured & social University</h6>
-                          <div class="text-justify">
+                          <h2 class="text-uppercase font-weight-600 mt-0 font-28 line-bottom text-navy text-format">All About</h2>
+                          <h6 class=" letter-space-4 text-gray-darkgray text-uppercase mt-0 mb-0 text-format">The World's Best moral, Cultured & social University</h6>
+                          <div class="text-justify text-format">
                             We are a dynamic community of staff and students with Christian orientation 
                             and inspiration who is motivated by the ideals of hard work, integrity, dicipline 
                             and creativeness, and dedicated to Catholic principles and attitudes,
@@ -196,10 +196,10 @@
                           <div class="section-title mb-10">
                           <div class="row">
                             <div class="col-xs-12 col-sm-12 col-md-8">
-                              <div><h2 class="mt-0 text-uppercase font-28 line-bottom line-height-1">Our <span class="text-theme-color-2 font-weight-400">DEPARTMENTS</span></h2></div>
+                              <div><h2 class="mt-0 text-uppercase font-28 line-bottom line-height-1 text-format">Our <span class="text-theme-color-2 font-weight-400">DEPARTMENTS</span></h2></div>
                           <div></div>
                             </div>
-                          <div class="col-md-4"> <a href="list-of-department.php" class="text-navy font-20 line-height-1 mt-10 pull-right">View All <i class="fas fa-angle-double-right"> </i></a></div>
+                          <div class="col-md-4"> <a href="list-of-department.php" class="text-navy font-20 line-height-1 mt-10 pull-right text-format">View All <i class="fas fa-angle-double-right"> </i></a></div>
                           </div>
                           </div>
                           <div class="section-content">
@@ -211,8 +211,8 @@
                                       <div class="thumb"> <img alt="featured project" src="images/project/software2.jpg" class="img-fullwidth">
                                       </div>
                                       <div class="content text-left flip p-25 pt-0">
-                                        <h4 class="line-bottom mb-10">Software Engineering</h4>
-                                        <p class="ovaflow">Software Engineering is a profession that can do the job of almost all other professions</p>
+                                        <h4 class="line-bottom mb-10 text-format">Software Engineering</h4>
+                                        <p class="ovaflow text-format">Software Engineering is a profession that can do the job of almost all other professions</p>
                                       <a class="btn btn-dark btn-theme-colored btn-sm text-uppercase mt-10" href="software-engineering.php">view details</a>
                                       </div>
                                     </div>
@@ -222,8 +222,8 @@
                                       <div class="thumb"> <img alt="featured project" src="images/project/micro1.jpeg" class="img-responsive img-fullwidth">
                                       </div>
                                       <div class="content text-left flip p-25 pt-0">
-                                        <h4 class="line-bottom mb-10">Microbiology</h4>
-                                        <p class="ovaflow">To produce scientists who are abreast with the current methodologies in in the field of Microbiology Research</p>
+                                        <h4 class="line-bottom mb-10 text-format">Microbiology</h4>
+                                        <p class="ovaflow text-format">To produce scientists who are abreast with the current methodologies in in the field of Microbiology Research</p>
                                       <a class="btn btn-dark btn-theme-colored btn-sm text-uppercase mt-10" href="microbilogy.php">view details</a>
                                     </div>
                                     </div>
@@ -233,8 +233,8 @@
                                       <div class="thumb"> <img alt="featured project" src="images/project/law1.jpg" class="img-responsive img-fullwidth">
                                       </div>
                                       <div class="content text-left flip p-25 pt-0">
-                                        <h4 class="line-bottom mb-10">Law</h4>
-                                        <p class="ovaflow">Study Law with us today and have the chance to be rated among the decision makers arround the world and our society.</p>
+                                        <h4 class="line-bottom mb-10 text-format">Law</h4>
+                                        <p class="ovaflow text-format">Study Law with us today and have the chance to be rated among the decision makers arround the world and our society.</p>
                                       <a class="btn btn-dark btn-theme-colored btn-sm text-uppercase mt-10" href="page-courses-accounting-technologies.php">view details</a>
                                     </div>
                                     </div>
@@ -244,8 +244,8 @@
                                       <div class="thumb"> <img alt="featured project" src="images/event/pharmaceutical-industry.jpg" class="img-responsive img-fullwidth">
                                       </div>
                                       <div class="content text-left flip p-25 pt-0">
-                                        <h4 class="line-bottom mb-10">Pharmacy</h4>
-                                        <p class="ovaflow">We are keen to establishing and educating you with constant practical and real life experince of the parmacitical world. </p>
+                                        <h4 class="line-bottom mb-10 text-format">Pharmacy</h4>
+                                        <p class="ovaflow text-format">We are keen to establishing and educating you with constant practical and real life experince of the parmacitical world. </p>
                                         <a class="btn btn-dark btn-theme-colored btn-sm text-uppercase mt-10" href="page-courses-accounting-technologies.php">view details</a>
                                       </div>
                                     </div>
@@ -255,8 +255,8 @@
                                       <div class="thumb"> <img alt="featured project" src="images/project/computen1.jpg" class="img-responsive img-fullwidth">
                                       </div>
                                       <div class="content text-left flip p-25 pt-0">
-                                        <h4 class="line-bottom mb-10">Computer Engineering</h4>
-                                        <p class="ovaflow"> I welcome you to the department of Computer Engineering were the department trained and educates students that will be in the fore front of indigenous technological development of the nation, predicated on sound theoretical framework and inter-woven with sufficient practical contents of exposure.</p>
+                                        <h4 class="line-bottom mb-10 text-format">Computer Engineering</h4>
+                                        <p class="ovaflow text-format"> I welcome you to the department of Computer Engineering were the department trained and educates students that will be in the fore front of indigenous technological development of the nation, predicated on sound theoretical framework and inter-woven with sufficient practical contents of exposure.</p>
                                         <a class="btn btn-dark btn-theme-colored btn-sm text-uppercase mt-10" href="page-courses-accounting-technologies.php">view details</a>
                                       </div>
                                     </div>
@@ -268,27 +268,27 @@
                         </div>
                         <!------dept info section--------->
                         <div class="col-md-3">
-                          <h3 class="line-bottom mt-0 line-height-1">Dept<span class="text-theme-color-2"> Info</span></h3>
+                          <h3 class="line-bottom mt-0 line-height-1 text-format">Dept<span class="text-theme-color-2 text-format"> Info</span></h3>
                           <div class="entry-meta media no-bg no-border mt-15 pb-20">
                             <div class="entry-date media-left text-center flip bg-theme-colored pt-5 pr-15 pb-5 pl-15">
                               <ul>
-                                <li class="font-20 text-white font-weight-600 text-bolder">20</li>
-                                <li class="font-20 text-white text-uppercase text-bolder">Aug</li>
+                                <li class="font-20 text-white font-weight-600 text-bolder text-format">20</li>
+                                <li class="font-20 text-white text-uppercase text-bolder text-format">Aug</li>
                               </ul>
                             </div>
                             <div class="media-body pl-15">
                               <div class="event-content pull-left flip">
-                                <p class="entry-title text-white text-uppercase m-0 text-bolder ovaflow"><a href="newsview.php">Government policy</a></p>
-                                <p class="mt-o text-black text-bold ovaflow mb-0">Dept of Law Annual lecture by <span class="text-navy">SAN. Christian</span> </p>
-                                <i class="fas fa-calendar-alt mt-0 text-deepgreen dta" > 20 August, 2022</i>
+                                <p class="entry-title text-white text-uppercase m-0 text-bolder ovaflow text-format"><a href="newsview.php">Government policy</a></p>
+                                <p class="mt-o text-black text-bold ovaflow mb-0 text-format">Dept of Law Annual lecture by <span class="text-navy text-format">SAN. Christian</span> </p>
+                                <i class="fas fa-calendar-alt mt-0 text-deepgreen dta text-format" > 20 August, 2022</i>
                               </div>
                             </div>
                           </div>
                           <div class="entry-meta media no-bg no-border mt-15 pb-20">
                             <div class="entry-date media-left text-center flip bg-theme-colored pt-5 pr-15 pb-5 pl-15">
                               <ul>
-                                <li class="font-20 text-white font-weight-600 text-bolder">28</li>
-                                <li class="font-20 text-white text-uppercase text-bolder">Jul</li>
+                                <li class="font-20 text-white font-weight-600 text-bolder text-format">28</li>
+                                <li class="font-20 text-white text-uppercase text-bolder text-format">Jul</li>
                               </ul>
                             </div>
                             <div class="media-body pl-15">
@@ -589,25 +589,20 @@
                  <section class="bg-color-white">
                   <div class="container-fluid">
                   <div class="row">
-                  <div class="col-md-12">
+                  <div class="col-xs-12 col-sm-12 col-md-12">
                   <div class="embed-responsive embed-responsive-16by9">
                     <video autoplay muted loop  class="embed-responsive-item"  id="myVideotom">
                         <source src="video/text.mp4" type="video/mp4;">
                     </video>
                 </div>
+                <div class="videoText text-center" >
+                    <div class="water-transparent-color">
+                      <h2 class="title text-white text-bolder water-transp-color-bg">VERITAS UNIVERSITY <br>CAMPUS TOUR</h2>
+                      <button id="myBtnvidplay" class="text-bolder" onclick="myFunction()"><srong>Pause</srong></button>
+                  </div>
+                  </div>
                 </div>
                 </div>
-                  <div class="row">
-                    <div class="col-xs-6 col-sm-6 col-md-12">
-                <div class="videoText text-center">
-                  <div class="water-transparent-color">
-                    <h2 class="title text-white text-bolder  pt-70">Watch Our @</h2>
-                    <h2 class="title text-white text-bolder">VERITAS UNIVERSITY <br>CAMPUS TOUR</h2>
-                    <button id="myBtnvidplay" class="text-bolder" onclick="myFunction()"><srong>Pause</srong></button>
-                </div>
-                </div>
-                </div>
-              </div>
               </div>
                 </section> 
                 <script>

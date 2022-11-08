@@ -27,7 +27,7 @@
                 <li><a href="About-us.php">About</a></li>
                 <li><a href="staffs.php">Staffs</a></li>
                 <li><a href="gallery.php">Gallery</a></li>
-                <li><a href="events.php">Blog</a></li>
+                <li><a href="events.php">Event</a></li>
                 <li><a href="contact.php"><Contact-us>Contact-us</Contact-us></a></li>
               </ul>
               <div id="top-search-bar" class="collapse">

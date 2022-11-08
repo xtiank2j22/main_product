@@ -2,7 +2,7 @@
  <footer id="footer" class="footer divider layer-overlay bg-black">
                     <div class="container">
                       <div class="row border-bottom">
-                        <div class="col-sm-6 col-md-3">
+                        <div class="col-xs-12 col-sm-12 col-md-3 text-center">
                           <div class="widget dark">
                             <img class="mt-5 mb-5" alt="" src="images/logo/veritas-logo-3x.png" href="index.php">
                             <p class="text-white">Km 2 Bwari Zuma Road, Zuma Bwari Area Council, Abuja.</p>
@@ -13,7 +13,7 @@
                             </ul>
                           </div>
                         </div>
-                        <div class="col-sm-6 col-md-3">
+                        <div class="col-xs-12 col-sm-12 col-md-3 text-center">
                           <div class="widget dark">
                             <h4 class="widget-title text-white text-bolder">Quick Links</h4>
                             <ul class="list angle-double-right list-border">
@@ -29,7 +29,7 @@
                             </ul>
                           </div>
                         </div>
-                        <div class="col-sm-6 col-md-3">
+                        <div class="col-xs-12 col-sm-12 col-md-3 text-center">
                           <div class="widget dark ">
                             <h4 class="widget-title text-white text-bolder">Why Study @ Veritas</h4>
                             <ul class="list angle-double-right list-border">
@@ -45,7 +45,7 @@
                             </ul>
                           </div>
                         </div>
-                        <div class="col-sm-6 col-md-3">
+                        <div class="col-xs-12 col-sm-12 col-md-3 text-center">
                           <div class="widget dark">
                             <h4 class="widget-title text-white text-bolder">Resources</h4>
                             <ul class="list angle-double-right list-border">
@@ -64,7 +64,7 @@
                         </div>
                       </div>
                       <div class="row mt-30">
-                        <div class="col-md-2">
+                        <div class="col-md-2 text-center">
                           <div class="widget dark">
                             <h5 class="widget-title mb-10 text-white">Call Us Now</h5>
                             <div class="text-gray">
@@ -73,7 +73,7 @@
                             </div>
                           </div>
                         </div>
-                        <div class="col-md-3">
+                        <div class="col-xs-12 col-sm-12 col-md-3 text-center">
                           <div class="widget dark">
                             <h5 class="widget-title mb-10 text-white text-bolder">Connect With Us</h5>
                             <ul class="styled-icons ">
@@ -84,7 +84,7 @@
                             </ul>
                           </div>
                         </div>
-                        <div class="col-md-5 col-md-offset-2">
+                        <div class="col-md-5 text-center col-md-offset-2">
                           <div class="widget dark">
                             <h5 class="widget-title mb-10 text-white">Subscribe Us</h5>
                             <!-- Mailchimp Subscription Form Starts Here -->
@@ -124,7 +124,7 @@
                     <div class="footer-bottom bg-black-333">
                       <div class="container pt-20 pb-20">
                         <div class="row">
-                          <div class="col-md-6">
+                          <div class="col-md-6 text-center">
                             <p class="font-11 text-white m-0">Copyright &copy;2022 Veritas University, Abuja. All Rights Reserved</p>
                           </div>
                           <div class="col-md-6 text-right">
