@@ -324,7 +324,7 @@ a.morelink {
               <h2 class="title text-white">VERITAS SDG GOAL 1 RESEARCH CLUSTER</h2>
               <ol class="breadcrumb text-left text-black mt-10">
                 <li><a href="https://www.veritas.edu.ng/">Home - Veritas University</a></li>
-                <li><a href="research.html">Research & International Linkages</a></li>
+                <li><a href="research.php">Research & International Linkages</a></li>
                 <li class="active text-gray-silver">Veritas SDG Goal 1 Research Cluster</li>
               </ol>
             </div>
@@ -629,16 +629,16 @@ a.morelink {
                                   var form_result_div = '#form-result';
                                   $(form_result_div).remove();
                                   form_btn.before('<div id="form-result" class="alert alert-success" role="alert" style="display: none;"></div>');
-                                  var form_btn_old_msg = form_btn.html();
-                                  form_btn.html(form_btn.prop('disabled', true).data("loading-text"));
+                                  var form_btn_old_msg = form_btn.php();
+                                  form_btn.php(form_btn.prop('disabled', true).data("loading-text"));
                                   $(form).ajaxSubmit({
                                     dataType:  'json',
                                     success: function(data) {
                                       if( data.status == 'true' ) {
                                         $(form).find('.form-control').val('');
                                       }
-                                      form_btn.prop('disabled', false).html(form_btn_old_msg);
-                                      $(form_result_div).html(data.message).fadeIn('slow');
+                                      form_btn.prop('disabled', false).php(form_btn_old_msg);
+                                      $(form_result_div).php(data.message).fadeIn('slow');
                                       setTimeout(function(){ $(form_result_div).fadeOut('slow') }, 6000);
                                     }
                                   });
@@ -722,16 +722,16 @@ a.morelink {
                                   var form_result_div = '#form-result';
                                   $(form_result_div).remove();
                                   form_btn.before('<div id="form-result" class="alert alert-success" role="alert" style="display: none;"></div>');
-                                  var form_btn_old_msg = form_btn.html();
-                                  form_btn.html(form_btn.prop('disabled', true).data("loading-text"));
+                                  var form_btn_old_msg = form_btn.php();
+                                  form_btn.php(form_btn.prop('disabled', true).data("loading-text"));
                                   $(form).ajaxSubmit({
                                     dataType:  'json',
                                     success: function(data) {
                                       if( data.status == 'true' ) {
                                         $(form).find('.form-control').val('');
                                       }
-                                      form_btn.prop('disabled', false).html(form_btn_old_msg);
-                                      $(form_result_div).html(data.message).fadeIn('slow');
+                                      form_btn.prop('disabled', false).php(form_btn_old_msg);
+                                      $(form_result_div).php(data.message).fadeIn('slow');
                                       setTimeout(function(){ $(form_result_div).fadeOut('slow') }, 6000);
                                     }
                                   });
@@ -962,13 +962,13 @@ a.morelink {
             <div class="widget dark">
               <h4 class="widget-title text-white">Quick Links</h4>
               <ul class="list angle-double-right list-border">
-                <li><a href="dse-about-us.html">About Us</a></li>
-                <li><a href="dse-course-listing.html">Our Courses</a></li>
-                <li><a href="dse-people.html">People</a></li>
-                <li><a href="dse-contact-us.html">Contact Us</a></li>
-                <li><a href="dse-news-events.html">News & Events</a></li>
-                <li><a href="dse-course-registration.html">Course Registration Process</a></li>
-                <li><a href="dse-parenthome.html">Parents</a></li>
+                <li><a href="dse-about-us.php">About Us</a></li>
+                <li><a href="dse-course-listing.php">Our Courses</a></li>
+                <li><a href="dse-people.php">People</a></li>
+                <li><a href="dse-contact-us.php">Contact Us</a></li>
+                <li><a href="dse-news-events.php">News & Events</a></li>
+                <li><a href="dse-course-registration.php">Course Registration Process</a></li>
+                <li><a href="dse-parenthome.php">Parents</a></li>
               </ul>
             </div>
           </div>
@@ -976,13 +976,13 @@ a.morelink {
             <div class="widget dark">
               <h4 class="widget-title text-white">Why Software Engineering ?</h4>
               <ul class="list angle-double-right list-border">
-                <li><a href="dse-teaching.html">Teaching</a></li>
-                <li><a href="dse-learning.html">Learning</a></li>
-                <li><a href="dse-research.html">Research</a></li>
-                <li><a href="dse-practicum.html">Practicum</a></li>
-                <li><a href="dse-siwes.html">SIWES</a></li>
-                <li><a href="campus-lifehome.html">Campus Life</a></li>
-                <li><a href="dse-industry-collaboration.html">Industry Collaboration</a></li>
+                <li><a href="dse-teaching.php">Teaching</a></li>
+                <li><a href="dse-learning.php">Learning</a></li>
+                <li><a href="dse-research.php">Research</a></li>
+                <li><a href="dse-practicum.php">Practicum</a></li>
+                <li><a href="dse-siwes.php">SIWES</a></li>
+                <li><a href="campus-lifehome.php">Campus Life</a></li>
+                <li><a href="dse-industry-collaboration.php">Industry Collaboration</a></li>
               </ul>
             </div>
           </div>
@@ -990,12 +990,12 @@ a.morelink {
             <div class="widget dark">
               <h4 class="widget-title text-white">Resources</h4>
               <ul class="list angle-double-right list-border">
-                <li><a href="dse-laboratories.html">Laboratories</a></li>
-                <li><a href="page-course-list.html">Departmental Library</a></li>
-                <li><a href="page-pricing-style1.html">Departmental Handbook</a></li>
-                <li><a href="ict.html">ICT Facilities</a></li>
-                <li><a href="shop-category.html">NACOS</a></li>
-                <li><a href="shop-category.html">Center of Excellence & Innovation</a></li>              
+                <li><a href="dse-laboratories.php">Laboratories</a></li>
+                <li><a href="page-course-list.php">Departmental Library</a></li>
+                <li><a href="page-pricing-style1.php">Departmental Handbook</a></li>
+                <li><a href="ict.php">ICT Facilities</a></li>
+                <li><a href="shop-category.php">NACOS</a></li>
+                <li><a href="shop-category.php">Center of Excellence & Innovation</a></li>              
               </ul>
             </div>
           </div>
@@ -1146,7 +1146,7 @@ a.morelink {
   document.write('<div class="news_scroll-title">');
   document.write('News and Updates<br>');
   document.write('</div>');
-  document.write('<iframe name="NewsIFrame" src="news_scroll.html" frameborder="0" scrolling="no"></iframe>');
+  document.write('<iframe name="NewsIFrame" src="news_scroll.php" frameborder="0" scrolling="no"></iframe>');
   document.write('</div>');
   // END SCROLLING NEWS
   }

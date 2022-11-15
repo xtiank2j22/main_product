@@ -75,7 +75,7 @@
               <h2 class="title text-white text-bolder text-format">The Application Process</h2>
               <h6 class="title text-white text-bolder text-format">Undergraduate step by step Application Instructions</h6>
               <ol class="breadcrumb text-left text-black mt-10">
-                <li><a href="homeindex.html" class="text-white text-bolder text-format">Welcome</a></li>
+                <li><a href="homeindex.php" class="text-white text-bolder text-format">Welcome</a></li>
                 <li><a href="#" class="text-white text-bolder text-format"> to Veritas University Abuja, Nigeria.</a></li>
               </ol>
             </div>
@@ -95,28 +95,28 @@
                 <div class="item shodow5 ovaflow latestnews ml-10 height-50" >
                   <article class="post media-post clearfix pb-0 ">
                     <div class="post-right .ovaflow mt-10">
-                      <p class="text-black text-bolder ovaflow mr-10"> <a class="mb-0 font-13 text-black readthumb" href="newsview.html">Resumption of new student and Lectures is on 10th August, 2022</a>  <i class="text-green fa fa-arrow-right"></i></p>
+                      <p class="text-black text-bolder ovaflow mr-10"> <a class="mb-0 font-13 text-black readthumb" href="newsview.php">Resumption of new student and Lectures is on 10th August, 2022</a>  <i class="text-green fa fa-arrow-right"></i></p>
                     </div>
                   </article>
                 </div>
                 <div class="item shodow5 ovaflow latestnews ml-10" >
                   <article class="post media-post clearfix pb-0">
                     <div class="post-right .ovaflow mt-10">
-                      <p class="text-black text-bolder ovaflow mr-10"> <a class="mb-0 font-13 text-black readthumb" href="newsview.html">The old students are advice to make payment of their hostel via online portal and their hostel will be automatically selected </a>  <i class="text-green fa fa-arrow-right"></i></p>
+                      <p class="text-black text-bolder ovaflow mr-10"> <a class="mb-0 font-13 text-black readthumb" href="newsview.php">The old students are advice to make payment of their hostel via online portal and their hostel will be automatically selected </a>  <i class="text-green fa fa-arrow-right"></i></p>
                     </div>
                   </article>
                 </div>
                 <div class="item shodow5 ovaflow latestnews ml-10" >
                   <article class="post media-post clearfix pb-0">
                     <div class="post-right .ovaflow mt-10">
-                      <p class="text-black text-bolder ovaflow mr-10"> <a class="mb-0 font-13 text-black readthumb" href="newsview.html">There will be orientation of new students and Lectures on 23rd October, 2022</a>  <i class="text-green fa fa-arrow-right"></i></p>
+                      <p class="text-black text-bolder ovaflow mr-10"> <a class="mb-0 font-13 text-black readthumb" href="newsview.php">There will be orientation of new students and Lectures on 23rd October, 2022</a>  <i class="text-green fa fa-arrow-right"></i></p>
                     </div>
                   </article>
                 </div>
                 <div class="item shodow5 ovaflow latestnews ml-10" >
                   <article class="post media-post clearfix pb-0">
                     <div class="post-right .ovaflow mt-10">
-                      <p class="text-black text-bolder ovaflow mr-10"> <a class="mb-0 font-13 text-black readthumb" href="newsview.html">lectures and all academic activities stars immidiately at resumption</a>  <i class="text-green fa fa-arrow-right"></i></p>
+                      <p class="text-black text-bolder ovaflow mr-10"> <a class="mb-0 font-13 text-black readthumb" href="newsview.php">lectures and all academic activities stars immidiately at resumption</a>  <i class="text-green fa fa-arrow-right"></i></p>
                     </div>
                   </article>
                 </div>
@@ -142,11 +142,11 @@
               <div class="widget dark">
                 <h4 class="widget-title text-center font-20 font-weight-600 bg-deepgreen text-white text-bolder height-50 mt-20 pt-10">Departments</h4>
                 <ul class="list angle-double-right list-border">
-                  <li><a href="admission.html">Undergraduate</a></li>
-                  <li><a href="admission.html">JUPEB</a></li>
-                  <li><a href="admission.html">IJAMB</a></li>
-                  <li><a href="admission.html">Sandwich</a></li>
-                  <li><a href="postgraduate-school.html">Postgraduate</a></li>              
+                  <li><a href="admission.php">Undergraduate</a></li>
+                  <li><a href="admission.php">JUPEB</a></li>
+                  <li><a href="admission.php">IJAMB</a></li>
+                  <li><a href="admission.php">Sandwich</a></li>
+                  <li><a href="postgraduate-school.php">Postgraduate</a></li>              
                 </ul>
               </div>
           </div>
@@ -198,7 +198,7 @@
                         <div class="col-md-10">
                          <h4 class="text-navy text bolder">Start Application</h4> 
                             <p class="text-boldertext-format">Visit the Admissions portal, and register with a valid email address to create an account.</p>
-                            <a class="btn btn-bg-color btn-flat btn-lg mt-10 mb-sm-30 text-bolder" href="admission.html">Apply Now →</a>
+                            <a class="btn btn-bg-color btn-flat btn-lg mt-10 mb-sm-30 text-bolder" href="admission.php">Apply Now →</a>
                           </div>
                       </div>           
                     </div> <!-- cd-timeline-content -->
@@ -355,7 +355,7 @@
                         <div class="col-md-10">
                          <h4 class="text-navy text bolder text-format">Start Application</h4> 
                             <p class="text-bolder text-format">Visit the Admissions portal, and register with a valid email address to create an account.</p>
-                            <a class="btn btn-bg-color btn-flat btn-lg mt-10 mb-sm-30 text-bolder" href="admission.html">Apply Now →</a>
+                            <a class="btn btn-bg-color btn-flat btn-lg mt-10 mb-sm-30 text-bolder" href="admission.php">Apply Now →</a>
                           </div>
                       </div>           
                     </div> <!-- cd-timeline-content -->
@@ -514,7 +514,7 @@
                         <div class="col-md-10">
                          <h4 class="text-navy text bolder">Start Application</h4> 
                             <p class="text-bolder">Visit the Admissions portal, and register with a valid email address to create an account.</p>
-                            <a class="btn btn-bg-color btn-flat btn-lg mt-10 mb-sm-30 text-bolder" href="admission.html">Apply Now →</a>
+                            <a class="btn btn-bg-color btn-flat btn-lg mt-10 mb-sm-30 text-bolder" href="admission.php">Apply Now →</a>
                           </div>
                       </div>           
                     </div> <!-- cd-timeline-content -->
@@ -672,7 +672,7 @@
                         <div class="col-md-10">
                          <h4 class="text-navy text bolder">Start Application</h4> 
                             <p class="text-bolder">Visit the Admissions portal, and register with a valid email address to create an account.</p>
-                            <a class="btn btn-bg-color btn-flat btn-lg mt-10 mb-sm-30 text-bolder" href="admission.html">Apply Now →</a>
+                            <a class="btn btn-bg-color btn-flat btn-lg mt-10 mb-sm-30 text-bolder" href="admission.php">Apply Now →</a>
                           </div>
                       </div>           
                     </div> <!-- cd-timeline-content -->
@@ -830,7 +830,7 @@
                         <div class="col-md-10">
                          <h4 class="text-navy text bolder">Start Application</h4> 
                             <p class="text-bolder">Visit the Admissions portal, and register with a valid email address to create an account.</p>
-                            <a class="btn btn-bg-color btn-flat btn-lg mt-10 mb-sm-30 text-bolder" href="admission.html">Apply Now →</a>
+                            <a class="btn btn-bg-color btn-flat btn-lg mt-10 mb-sm-30 text-bolder" href="admission.php">Apply Now →</a>
                           </div>
                       </div>           
                     </div> <!-- cd-timeline-content -->
@@ -1531,8 +1531,8 @@
                     form_btn.before(
                       '<div id="form-result" class="alert alert-success" role="alert" style="display: none;"></div>'
                     )
-                    var form_btn_old_msg = form_btn.html()
-                    form_btn.html(
+                    var form_btn_old_msg = form_btn.php()
+                    form_btn.php(
                       form_btn.prop('disabled', true).data('loading-text')
                     )
                     $(form).ajaxSubmit({
@@ -1543,8 +1543,8 @@
                         }
                         form_btn
                           .prop('disabled', false)
-                          .html(form_btn_old_msg)
-                        $(form_result_div).html(data.message).fadeIn('slow')
+                          .php(form_btn_old_msg)
+                        $(form_result_div).php(data.message).fadeIn('slow')
                         setTimeout(function () {
                           $(form_result_div).fadeOut('slow')
                         }, 6000)

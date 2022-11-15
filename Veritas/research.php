@@ -370,16 +370,16 @@
                                       var form_result_div = '#form-result';
                                       $(form_result_div).remove();
                                       form_btn.before('<div id="form-result" class="alert alert-success" role="alert" style="display: none;"></div>');
-                                      var form_btn_old_msg = form_btn.html();
-                                      form_btn.html(form_btn.prop('disabled', true).data("loading-text"));
+                                      var form_btn_old_msg = form_btn.php();
+                                      form_btn.php(form_btn.prop('disabled', true).data("loading-text"));
                                       $(form).ajaxSubmit({
                                         dataType:  'json',
                                         success: function(data) {
                                           if( data.status == 'true' ) {
                                             $(form).find('.form-control').val('');
                                           }
-                                          form_btn.prop('disabled', false).html(form_btn_old_msg);
-                                          $(form_result_div).html(data.message).fadeIn('slow');
+                                          form_btn.prop('disabled', false).php(form_btn_old_msg);
+                                          $(form_result_div).php(data.message).fadeIn('slow');
                                           setTimeout(function(){ $(form_result_div).fadeOut('slow') }, 6000);
                                         }
                                       });
@@ -1274,16 +1274,16 @@
                                                       var form_result_div = '#form-result';
                                                       $(form_result_div).remove();
                                                       form_btn.before('<div id="form-result" class="alert alert-success" role="alert" style="display: none;"></div>');
-                                                      var form_btn_old_msg = form_btn.html();
-                                                      form_btn.html(form_btn.prop('disabled', true).data("loading-text"));
+                                                      var form_btn_old_msg = form_btn.php();
+                                                      form_btn.php(form_btn.prop('disabled', true).data("loading-text"));
                                                       $(form).ajaxSubmit({
                                                         dataType:  'json',
                                                         success: function(data) {
                                                           if( data.status == 'true' ) {
                                                             $(form).find('.form-control').val('');
                                                           }
-                                                          form_btn.prop('disabled', false).html(form_btn_old_msg);
-                                                          $(form_result_div).html(data.message).fadeIn('slow');
+                                                          form_btn.prop('disabled', false).php(form_btn_old_msg);
+                                                          $(form_result_div).php(data.message).fadeIn('slow');
                                                           setTimeout(function(){ $(form_result_div).fadeOut('slow') }, 6000);
                                                         }
                                                       });
@@ -1898,7 +1898,7 @@
                       <div class="news_scroll-title">
                       News and Updates<br>
                       </div>
-                      <iframe name="NewsIFrame" src="news_scroll.html" frameborder="0" scrolling="no"></iframe>
+                      <iframe name="NewsIFrame" src="news_scroll.php" frameborder="0" scrolling="no"></iframe>
                     </div>
                     <!-- END SCROLLING NEWS WINDOW SAMPLE -->
 
@@ -1908,7 +1908,7 @@
                       <div class="news_scroll-title">
                       Scroll Feed Example<br>
                       </div>
-                      <iframe name="NewsIFrame" src="news_scroll-feed.html" frameborder="0" scrolling="no"></iframe>
+                      <iframe name="NewsIFrame" src="news_scroll-feed.php" frameborder="0" scrolling="no"></iframe>
                     </div> -->
                     <!-- END SCROLLING NEWS WINDOW SAMPLE -->
 
@@ -2264,13 +2264,13 @@
             <div class="widget dark">
               <h4 class="widget-title text-white">Quick Links</h4>
               <ul class="list angle-double-right list-border">
-                <li><a href="dse-about-us.html">About Us</a></li>
-                <li><a href="dse-course-listing.html">Our Courses</a></li>
-                <li><a href="dse-people.html">People</a></li>
-                <li><a href="dse-contact-us.html">Contact Us</a></li>
-                <li><a href="dse-news-events.html">News & Events</a></li>
-                <li><a href="dse-course-registration.html">Course Registration Process</a></li>
-                <li><a href="dse-parenthome.html">Parents</a></li>
+                <li><a href="dse-about-us.php">About Us</a></li>
+                <li><a href="dse-course-listing.php">Our Courses</a></li>
+                <li><a href="dse-people.php">People</a></li>
+                <li><a href="dse-contact-us.php">Contact Us</a></li>
+                <li><a href="dse-news-events.php">News & Events</a></li>
+                <li><a href="dse-course-registration.php">Course Registration Process</a></li>
+                <li><a href="dse-parenthome.php">Parents</a></li>
               </ul>
             </div>
           </div>
@@ -2295,7 +2295,7 @@
                 <li><a href="coming-soon.php">Laboratories</a></li>
                 <li><a href="coming-soon.php">Departmental Library</a></li>
                 <li><a href="coming-soon.php">Departmental Handbook</a></li>
-                <li><a href="ict.html">ICT Facilities</a></li>
+                <li><a href="ict.php">ICT Facilities</a></li>
                 <li><a href="coming-soon.php">NACOS</a></li>
                 <li><a href="coming-soon.php">Center of Excellence & Innovation</a></li>              
               </ul>
@@ -2457,7 +2457,7 @@
   document.write('<div class="news_scroll-title">');
   document.write('News and Updates<br>');
   document.write('</div>');
-  document.write('<iframe name="NewsIFrame" src="news_scroll.html" frameborder="0" scrolling="no"></iframe>');
+  document.write('<iframe name="NewsIFrame" src="news_scroll.php" frameborder="0" scrolling="no"></iframe>');
   document.write('</div>');
   // END SCROLLING NEWS
   }

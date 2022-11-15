@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html dir="ltr" lang="en">
 
-<!-- Mirrored from kodesolution.com/html/2016/studypress-html/demo/index-sp-layout2.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jul 2022 15:06:55 GMT -->
 <head>
 
 <!-- Meta Tags -->

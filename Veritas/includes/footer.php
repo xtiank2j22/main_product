@@ -23,9 +23,9 @@
                               <li><a class="text-white"  href="contact.php">Contact Us</a></li>
                               <li><a class="text-white"  href="news.php">News & Events</a></li> 
                               <li><a class="text-white"  href="admission.php">Admission</a></li>    
-                              <li class="libtab"><a class="text-white"  href="contact.html">Help & Support</a></li>
-                              <li class="libtab"><a class="text-white"  href="list-of-faculties.html">Faculties</a></li>
-                              <li class="libtab"><a class="text-white"  href="news.html">News & Events</a></li>         
+                              <li class="libtab"><a class="text-white"  href="contact.php">Help & Support</a></li>
+                              <li class="libtab"><a class="text-white"  href="list-of-faculties.php">Faculties</a></li>
+                              <li class="libtab"><a class="text-white"  href="news.php">News & Events</a></li>         
                             </ul>
                           </div>
                         </div>
@@ -39,9 +39,9 @@
                               <li><a class="text-white"  href="coming-soon.php">SandWich</a></li>
                               <li><a class="text-white"  href="coming-soon.php">Jupeb</a></li>  
                               <li><a class="text-white"  href="coming-soon.php">IJMB</a></li>  
-                              <li class="libtab"><a class="text-white"  href="list-of-department.html">Departments</a></li>
-                              <li class="libtab"><a class="text-white"  href="librar.html">Using Our library</a></li>
-                              <li class="libtab"><a class="text-white"  href="development-office.html">New projects</a></li>          
+                              <li class="libtab"><a class="text-white"  href="list-of-department.php">Departments</a></li>
+                              <li class="libtab"><a class="text-white"  href="librar.php">Using Our library</a></li>
+                              <li class="libtab"><a class="text-white"  href="development-office.php">New projects</a></li>          
                             </ul>
                           </div>
                         </div>
@@ -56,9 +56,9 @@
                               <li><a class="text-white"  href="bussiness-unit.php">Business Unit</a></li>
                               <li><a class="text-white"  href="medical.php">Medical Facilities</a></li>              
                               <li><a class="text-white"  href="security.php">Security Facility</a></li> 
-                              <li class="libtab"><a class="text-white"  href="student-union.html">Social Activities</a></li>
-                              <li class="libtab"><a class="text-white"  href="admission.html">Admissions</a></li>
-                              <li class="libtab"><a class="text-white"  href="Admission-process.html">How to Apply</a></li>             
+                              <li class="libtab"><a class="text-white"  href="student-union.php">Social Activities</a></li>
+                              <li class="libtab"><a class="text-white"  href="admission.php">Admissions</a></li>
+                              <li class="libtab"><a class="text-white"  href="Admission-process.php">How to Apply</a></li>             
                             </ul>
                           </div>
                         </div>

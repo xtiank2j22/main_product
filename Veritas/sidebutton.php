@@ -214,7 +214,7 @@
                                       <div class="media-body pl-15">
                                         <div class="event-content pull-left flip">
                                           <h5 class="entry-title text-white text-uppercase m-0 mt-5 ovaflow">
-                                            <a href="blog-single-right-sidebar.html">Visting the less previlage home for support by Veritas Students</a>
+                                            <a href="blog-single-right-sidebar.php">Visting the less previlage home for support by Veritas Students</a>
                                           </h5>
                                           <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-commenting-o mr-5 text-theme-colored"></i> 214 Comments</span>                       
                                           <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-heart-o mr-5 text-theme-colored"></i> 895 Likes</span>
@@ -242,7 +242,7 @@
                                       <div class="media-body pl-15">
                                         <div class="event-content pull-left flip">
                                           <h5 class="entry-title text-white text-uppercase m-0 mt-5 ovaflow">
-                                            <a href="blog-single-right-sidebar.html">Prevention of campus sexual Violence Training</a>
+                                            <a href="blog-single-right-sidebar.php">Prevention of campus sexual Violence Training</a>
                                           </h5>
                                           <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-commenting-o mr-5 text-theme-colored"></i> 214 Comments</span>                       
                                           <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-heart-o mr-5 text-theme-colored"></i> 895 Likes</span>
@@ -272,7 +272,7 @@
                                       <div class="media-body pl-15">
                                         <div class="event-content pull-left flip">
                                           <h5 class="entry-title text-white text-uppercase m-0 mt-5 ovaflow">
-                                            <a href="blog-single-right-sidebar.html">Welfare Event of Educating the female child and gender equality</a>
+                                            <a href="blog-single-right-sidebar.php">Welfare Event of Educating the female child and gender equality</a>
                                           </h5>
                                           <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-commenting-o mr-5 text-theme-colored"></i> 214 Comments</span>                       
                                           <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-heart-o mr-5 text-theme-colored"></i> 895 Likes</span>
@@ -300,7 +300,7 @@
                                       <div class="media-body pl-15">
                                         <div class="event-content pull-left flip">
                                           <h5 class="entry-title text-white text-uppercase m-0 mt-5 ovaflow">
-                                            <a href="blog-single-right-sidebar.html">Cultural day celebration, with display of colourful and our divers cultures </a>
+                                            <a href="blog-single-right-sidebar.php">Cultural day celebration, with display of colourful and our divers cultures </a>
                                           </h5>
                                           <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-commenting-o mr-5 text-theme-colored"></i> 214 Comments</span>                       
                                           <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-heart-o mr-5 text-theme-colored"></i> 895 Likes</span>

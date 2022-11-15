@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html dir="ltr" lang="en">
 
-<!-- Mirrored from kodesolution.com/html/2016/studypress-html/demo/index-sp-layout5.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jul 2022 15:06:55 GMT -->
+<!-- Mirrored from kodesolution.com/html/2016/studypress-html/demo/index-sp-layout5.php by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jul 2022 15:06:55 GMT -->
 <head>
 
 <!-- Meta Tags -->
@@ -525,7 +525,7 @@
                   The Alumni Unit helps our alumni stay engaged and connected with DSE beyond graduation. We foster affinity, cultivate warm ties, provide information, and build a cohesive alumni body through our diverse array of programs, services and opportunities to connect with each other and their alma mater. We welcome you to experience a vibrant community of talents and passions. You are our best ambassadors, advocates, champions, thought-leaders and the finest example of how a degree from the DSE Veritas University helps better our world.
                   <!--  As a graduate of the DSE Veritas University, Abuja, you are automatically considered a member of the DSE Veritas University Alumni Association. Find out what's happening virtually and on campus, connect with fellow alumni and explore their stories. Support DSE in our journey of moulding future generations of leaders. -->
                 </p>
-                <a class="text-theme-colored font-13  border-bottom-theme-color-2-1px border-radius-5px" href="page-about1.html">Read More →</a>
+                <a class="text-theme-colored font-13  border-bottom-theme-color-2-1px border-radius-5px" href="page-about1.php">Read More →</a>
               </div>
             </div>
             <div class="col-md-6">

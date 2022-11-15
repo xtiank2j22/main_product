@@ -76,8 +76,8 @@
             <div class="col-md-12">
               <h2 class="title text-white text-bolder">Office of the Bursar Veritas University.</h2>
               <ol class="breadcrumb text-left text-black mt-10">
-                <li><a href="bursar.html" class="text-white text-bolder">Welcome you</a></li>
-                <li><a href="bursar.html" class="text-white text-bolder"> to Veritas University Abuja, Nigeria.</a></li>
+                <li><a href="bursar.php" class="text-white text-bolder">Welcome you</a></li>
+                <li><a href="bursar.php" class="text-white text-bolder"> to Veritas University Abuja, Nigeria.</a></li>
               </ol>
             </div>
           </div>
@@ -408,7 +408,7 @@
                         <p class="line-bottom mb-0 text-black text-bolder">SECRETARY </p>
                         <p class=" mt-0 mb-2 text-navy">Office of the Bursar</p>
                         <p class="ovaflow text-deepgreen text-bolder">Mrs. Udo Abe </p>
-                        <a class="btn btn-dark btn-theme-colored btn-sm text-uppercase mt-10" href="personal-profile.html">view details</a>
+                        <a class="btn btn-dark btn-theme-colored btn-sm text-uppercase mt-10" href="personal-profile.php">view details</a>
                       </div>
                     </div>
                   </div>
@@ -422,7 +422,7 @@
                         <p class="line-bottom mb-0 text-black text-bolder">SEPECIAL ADVISER </p>
                         <p class=" mt-0 mb-2 text-navy">Office of the Bursar</p>
                         <p class="ovaflow text-deepgreen text-bolder">Mrs. Udo Abe </p>
-                        <a class="btn btn-dark btn-theme-colored btn-sm text-uppercase mt-10" href="personal-profile.html">view details</a>
+                        <a class="btn btn-dark btn-theme-colored btn-sm text-uppercase mt-10" href="personal-profile.php">view details</a>
                       </div>
                     </div>
                   </div>
@@ -436,7 +436,7 @@
                         <p class="line-bottom mb-0 text-black text-bolder">P.R.O </p>
                         <p class=" mt-0 mb-2 text-navy">Office of the Bursar</p>
                         <p class="ovaflow text-deepgreen text-bolder">Mrs. Udo Abe </p>
-                        <a class="btn btn-dark btn-theme-colored btn-sm text-uppercase mt-10" href="personal-profile.html">view details</a>
+                        <a class="btn btn-dark btn-theme-colored btn-sm text-uppercase mt-10" href="personal-profile.php">view details</a>
                       </div>
                     </div>
                   </div>
@@ -452,12 +452,12 @@
                   </div>
                 </div>
               </div>
-              <a class="btn bg-colorbtn btn-lg  text-bolder "  href="students-account.html"><i class="fas fa-briefcase"></i> | Student Account</a>
-              <a class="btn bg-colorbtn btn-flat btn-lg  text-bolder "  href="staff-account.html"><i class="fa-solid fa-bullhorn"></i>| Staff Account</a>
-              <a class="btn bg-colorbtn btn-flat btn-lg  text-bolder "  href="final-account.html"><i class="fas fa-coins"></i> | Final Account</a>
-              <a class="btn bg-colorbtn btn-flat btn-lg text-bolder "  href="procurment.html"><i class="fa fa-line-chart"></i> | Procurment</a>
+              <a class="btn bg-colorbtn btn-lg  text-bolder "  href="students-account.php"><i class="fas fa-briefcase"></i> | Student Account</a>
+              <a class="btn bg-colorbtn btn-flat btn-lg  text-bolder "  href="staff-account.php"><i class="fa-solid fa-bullhorn"></i>| Staff Account</a>
+              <a class="btn bg-colorbtn btn-flat btn-lg  text-bolder "  href="final-account.php"><i class="fas fa-coins"></i> | Final Account</a>
+              <a class="btn bg-colorbtn btn-flat btn-lg text-bolder "  href="procurment.php"><i class="fa fa-line-chart"></i> | Procurment</a>
               <a class="btn bg-colorbtn btn-flat btn-lg text-bolder "  href="#"><i class="fas fa-user-shield"></i> | Assets</a>   
-              <a class="btn bg-colorbtn btn-flat btn-lg text-bolder "  href="audit.html"><i class="fas fa-user-shield"></i> | Audit</a>
+              <a class="btn bg-colorbtn btn-flat btn-lg text-bolder "  href="audit.php"><i class="fas fa-user-shield"></i> | Audit</a>
             </div>
             </div>
           </div>
@@ -575,8 +575,8 @@
                         form_btn.before(
                           '<div id="form-result" class="alert alert-success" role="alert" style="display: none;"></div>'
                         )
-                        var form_btn_old_msg = form_btn.html()
-                        form_btn.html(
+                        var form_btn_old_msg = form_btn.php()
+                        form_btn.php(
                           form_btn.prop('disabled', true).data('loading-text')
                         )
                         $(form).ajaxSubmit({
@@ -587,8 +587,8 @@
                             }
                             form_btn
                               .prop('disabled', false)
-                              .html(form_btn_old_msg)
-                            $(form_result_div).html(data.message).fadeIn('slow')
+                              .php(form_btn_old_msg)
+                            $(form_result_div).php(data.message).fadeIn('slow')
                             setTimeout(function () {
                               $(form_result_div).fadeOut('slow')
                             }, 6000)

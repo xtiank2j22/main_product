@@ -230,17 +230,17 @@
                       </table>
                     <div class="widget">
                         <ul class="list list-border angle-double-left">
-                          <li class="libtab"><a href="page-courses-accounting-technologies.html">library Essentials</a></li>
-                          <li class="libtab"><a href="page-courses-chemical-engineering.html">Using Our library</a></li>
-                          <li class="libtab"><a href="page-courses-computer-technologies.html">Discover Our Collections</a></li>
-                          <li class="libtab"><a href="page-courses-development-studies.html">Reading list</a></li>
-                          <li class="libtab"><a href="page-courses-electrical-electronic.html">More Books</a></li>
-                          <li class="libtab"><a href="page-courses-accounting-technologies.html">Studies Support</a></li>
-                          <li class="libtab"><a href="page-courses-chemical-engineering.html">Research Support</a></li>
-                          <li class="libtab"><a href="page-courses-computer-technologies.html">Help & Support</a></li>
-                          <li class="libtab"><a href="page-courses-development-studies.html">News</a></li>
-                          <li class="libtab"><a href="page-courses-electrical-electronic.html">Events</a></li>
-                          <li class="libtab"><a href="page-courses-electrical-electronic.html">About Us</a></li>
+                          <li class="libtab"><a href="page-courses-accounting-technologies.php">library Essentials</a></li>
+                          <li class="libtab"><a href="page-courses-chemical-engineering.php">Using Our library</a></li>
+                          <li class="libtab"><a href="page-courses-computer-technologies.php">Discover Our Collections</a></li>
+                          <li class="libtab"><a href="page-courses-development-studies.php">Reading list</a></li>
+                          <li class="libtab"><a href="page-courses-electrical-electronic.php">More Books</a></li>
+                          <li class="libtab"><a href="page-courses-accounting-technologies.php">Studies Support</a></li>
+                          <li class="libtab"><a href="page-courses-chemical-engineering.php">Research Support</a></li>
+                          <li class="libtab"><a href="page-courses-computer-technologies.php">Help & Support</a></li>
+                          <li class="libtab"><a href="page-courses-development-studies.php">News</a></li>
+                          <li class="libtab"><a href="page-courses-electrical-electronic.php">Events</a></li>
+                          <li class="libtab"><a href="page-courses-electrical-electronic.php">About Us</a></li>
                         </ul>
                     </div>
                   </div>
@@ -398,7 +398,7 @@
                         <p class="line-bottom mb-0 text-black text-bolder">SECRETARY </p>
                         <p class=" mt-0 mb-2 text-navy">Office of the Librarian</p>
                         <p class="ovaflow text-deepgreen text-bolder">Mrs. Udo Abe </p>
-                        <a class="btn btn-dark btn-theme-colored btn-sm text-uppercase mt-10" href="page-courses-accounting-technologies.html">view details</a>
+                        <a class="btn btn-dark btn-theme-colored btn-sm text-uppercase mt-10" href="page-courses-accounting-technologies.php">view details</a>
                       </div>
                     </div>
                   </div>
@@ -412,7 +412,7 @@
                         <p class="line-bottom mb-0 text-black text-bolder">SEPECIAL ADVISER </p>
                         <p class=" mt-0 mb-2 text-navy">Office of the Librarian</p>
                         <p class="ovaflow text-deepgreen text-bolder">Mrs. Udo Abe </p>
-                        <a class="btn btn-dark btn-theme-colored btn-sm text-uppercase mt-10" href="page-courses-accounting-technologies.html">view details</a>
+                        <a class="btn btn-dark btn-theme-colored btn-sm text-uppercase mt-10" href="page-courses-accounting-technologies.php">view details</a>
                       </div>
                     </div>
                   </div>
@@ -426,7 +426,7 @@
                         <p class="line-bottom mb-0 text-black text-bolder">P.R.O </p>
                         <p class=" mt-0 mb-2 text-navy">Office of the Librarian</p>
                         <p class="ovaflow text-deepgreen text-bolder">Mrs. Udo Abe </p>
-                        <a class="btn btn-dark btn-theme-colored btn-sm text-uppercase mt-10" href="page-courses-accounting-technologies.html">view details</a>
+                        <a class="btn btn-dark btn-theme-colored btn-sm text-uppercase mt-10" href="page-courses-accounting-technologies.php">view details</a>
                       </div>
                     </div>
                   </div>
@@ -563,8 +563,8 @@
                         form_btn.before(
                           '<div id="form-result" class="alert alert-success" role="alert" style="display: none;"></div>'
                         )
-                        var form_btn_old_msg = form_btn.html()
-                        form_btn.html(
+                        var form_btn_old_msg = form_btn.php()
+                        form_btn.php(
                           form_btn.prop('disabled', true).data('loading-text')
                         )
                         $(form).ajaxSubmit({
@@ -575,8 +575,8 @@
                             }
                             form_btn
                               .prop('disabled', false)
-                              .html(form_btn_old_msg)
-                            $(form_result_div).html(data.message).fadeIn('slow')
+                              .php(form_btn_old_msg)
+                            $(form_result_div).php(data.message).fadeIn('slow')
                             setTimeout(function () {
                               $(form_result_div).fadeOut('slow')
                             }, 6000)

@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html dir="ltr" lang="en">
-  <!-- Mirrored from kodesolution.com/html/2016/studypress-html/demo/index-sp-layout2.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jul 2022 15:06:55 GMT -->
+  <!-- Mirrored from kodesolution.com/html/2016/studypress-html/demo/index-sp-layout2.php by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jul 2022 15:06:55 GMT -->
   <head>
     <!-- Meta Tags -->
     <meta name="viewport" content="width=device-width,initial-scale=1.0" />
@@ -136,7 +136,7 @@
                 class="menuzord bg-theme-colored pull-left flip menuzord-responsive"
               >
                 <ul class="menuzord-menu">
-                  <li class="active"><a href="homeindex.html">Home</a></li>
+                  <li class="active"><a href="homeindex.php">Home</a></li>
                   <li><a href="#">About</a></li>
                   <li><a href="#">Courses</a></li>
                   <li><a href="#">Staffs</a></li>
@@ -153,7 +153,7 @@
                       class="btn btn-colored btn-flat bg-theme-color-2 text-white font-14 font-14 bs-modal-ajax-load mt-0 p-25 pr-15 pl-15"
                       data-toggle="modal"
                       data-target="#BSParentModal"
-                      href="ajax-load/reservation-form.html"
+                      href="ajax-load/reservation-form.php"
                       >e-Campus</a
                     >
                     <!-- Modal: donate now End -->

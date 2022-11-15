@@ -5,9 +5,9 @@
             <div class="col-md-6">
               <div class="widget no-border m-0">
                 <ul class="list-inline font-13 sm-text-center mt-5">
-                  <li ><strong><a href="faq.html" class="post-thumb  text-white mr-5">FAQ</a></span></strong>
+                  <li ><strong><a href="faq.php" class="post-thumb  text-white mr-5">FAQ</a></span></strong>
                   <li ><strong><span class="text-white">|</span></strong></li>
-                  <li ><strong><a href="alumni.html" class="post-thumb  text-white mr-5">Alumni Office</a></span></strong></li>
+                  <li ><strong><a href="alumni.php" class="post-thumb  text-white mr-5">Alumni Office</a></span></strong></li>
                 </ul>
               </div>
             </div>
@@ -432,7 +432,7 @@
             <ul class="pull-right flip hidden-sm hidden-xs">
               <li>
                 <!-- Modal: Book Now Starts -->
-                <a class="btn btn-colored btn-flat bg-theme-color-2 text-white font-14 bs-modal-ajax-load mt-0 p-25 pr-15 pl-15 " data-toggle="modal" data-target="#BSParentModal" href="directories.html">Donate</a>
+                <a class="btn btn-colored btn-flat bg-theme-color-2 text-white font-14 bs-modal-ajax-load mt-0 p-25 pr-15 pl-15 " data-toggle="modal" data-target="#BSParentModal" href="directories.php">Donate</a>
                 <!-- Modal: Book Now End -->
               </li>
             </ul>

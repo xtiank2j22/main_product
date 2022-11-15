@@ -1,19 +1,14 @@
 <!DOCTYPE html>
 <html dir="ltr" lang="en">
-
-<!-- Mirrored from kodesolution.com/html/2016/studypress-html/demo/index-sp-layout2.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jul 2022 15:06:55 GMT -->
 <head>
-
 <!-- Meta Tags -->
 <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
 <meta name="description" content="StudyPress | Education & Courses HTML Template" />
 <meta name="keywords" content="academy, course, education, education html theme, elearning, learning," />
 <meta name="author" content="ThemeMascot" />
-
 <!-- Page Title -->
 <title>The Visitor</title>
-
 <!-- Favicon and Touch Icons -->
 <link href="images/title.png" rel="shortcut icon" type="image/png">
 <link href="images/logo-wide.png" rel="apple-touch-icon">
@@ -21,7 +16,6 @@
 <link href="images/logo-wide.png" rel="apple-touch-icon" sizes="114x114">
 <link href="images/logo-wide.png" rel="apple-touch-icon" sizes="144x144">
 <link rel="icon" href="https://www.veritas.edu.ng/images/favicon.ico" type="image/x-icon" />
-
 <!-- Stylesheet -->
 <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
 <link href="css/jquery-ui.min.css" rel="stylesheet" type="text/css">
@@ -39,15 +33,12 @@
 <link href="css/responsive.css" rel="stylesheet" type="text/css">
 <!-- CSS | Style css. This is the file where you can place your own custom css code. Just uncomment it and use it. -->
 <!-- <link href="css/style.css" rel="stylesheet" type="text/css"> -->
-
 <!-- Revolution Slider 5.x CSS settings -->
 <link  href="js/revolution-slider/css/settings.css" rel="stylesheet" type="text/css"/>
 <link  href="js/revolution-slider/css/layers.css" rel="stylesheet" type="text/css"/>
 <link  href="js/revolution-slider/css/navigation.css" rel="stylesheet" type="text/css"/>
-
 <!-- CSS | Theme Color -->
 <link href="css/colors/theme-skin-color-set-1.css" rel="stylesheet" type="text/css">
-
 <!-- external javascripts -->
 <script src="js/readmorebtn.js"></script>
 <script src="js/jquery-2.2.4.min.js"></script>
@@ -67,7 +58,6 @@
   <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
 <![endif]-->
 </head>
-
 <body class="">
     <div id="wrapper" class="clearfix">
      <!-- Header - Header -->
@@ -93,7 +83,6 @@
             </div>
           </div>
         </section>
-        
 <!-- Section: Experts Details -->
 <section>
     <div class="container">

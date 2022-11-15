@@ -113,14 +113,14 @@
                               <div class="media-body pl-15">
                                 <div class="event-content pull-left flip">
                                   <h5 class="entry-title text-white text-uppercase m-0 mt-5 ovaflow">
-                                    <a href="newsview.html">Visting the less previlage home for support by Veritas Students</a>
+                                    <a href="newsview.php">Visting the less previlage home for support by Veritas Students</a>
                                   </h5>
                                   <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-commenting-o mr-5 text-theme-colored"></i> 214 Comments</span>                       
                                   <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-heart-o mr-5 text-theme-colored"></i> 895 Likes</span>
                                 </div>
                               </div>
                             </div>
-                            <a href="newsview.html" class="btn-read-more">Read more</a>
+                            <a href="newsview.php" class="btn-read-more">Read more</a>
                             <div class="clearfix"></div>
                           </div>
                         </article>
@@ -141,14 +141,14 @@
                               <div class="media-body pl-15">
                                 <div class="event-content pull-left flip">
                                   <h5 class="entry-title text-white text-uppercase m-0 mt-5 ovaflow">
-                                    <a href="newsview.html">Prevention of campus sexual Violence Training</a>
+                                    <a href="newsview.php">Prevention of campus sexual Violence Training</a>
                                   </h5>
                                   <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-commenting-o mr-5 text-theme-colored"></i> 214 Comments</span>                       
                                   <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-heart-o mr-5 text-theme-colored"></i> 895 Likes</span>
                                 </div>
                               </div>
                             </div>
-                            <a href="newsview.html" class="btn-read-more">Read more</a>
+                            <a href="newsview.php" class="btn-read-more">Read more</a>
                             <div class="clearfix"></div>
                           </div>
                         </article> 
@@ -171,14 +171,14 @@
                               <div class="media-body pl-15">
                                 <div class="event-content pull-left flip">
                                   <h5 class="entry-title text-white text-uppercase m-0 mt-5 ovaflow">
-                                    <a href="newsview.html">Welfare Event of Educating the female child and gender equality</a>
+                                    <a href="newsview.php">Welfare Event of Educating the female child and gender equality</a>
                                   </h5>
                                   <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-commenting-o mr-5 text-theme-colored"></i> 214 Comments</span>                       
                                   <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-heart-o mr-5 text-theme-colored"></i> 895 Likes</span>
                                 </div>
                               </div>
                             </div>
-                            <a href="newsview.html" class="btn-read-more">Read more</a>
+                            <a href="newsview.php" class="btn-read-more">Read more</a>
                             <div class="clearfix"></div>
                           </div>
                         </article>
@@ -199,14 +199,14 @@
                               <div class="media-body pl-15">
                                 <div class="event-content pull-left flip">
                                   <h5 class="entry-title text-white text-uppercase m-0 mt-5 ovaflow">
-                                    <a href="newsview.html">Cultural day celebration, with display of colourful and our divers cultures </a>
+                                    <a href="newsview.php">Cultural day celebration, with display of colourful and our divers cultures </a>
                                   </h5>
                                   <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-commenting-o mr-5 text-theme-colored"></i> 214 Comments</span>                       
                                   <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-heart-o mr-5 text-theme-colored"></i> 895 Likes</span>
                                 </div>
                               </div>
                             </div>
-                            <a href="newsview.html" class="btn-read-more">Read more</a>
+                            <a href="newsview.php" class="btn-read-more">Read more</a>
                             <div class="clearfix"></div>
                           </div>
                         </article> 
@@ -231,14 +231,14 @@
                                 <div class="media-body pl-15">
                                   <div class="event-content pull-left flip">
                                     <h5 class="entry-title text-white text-uppercase m-0 mt-5 ovaflow">
-                                      <a href="newsview.html">Visting the less previlage home for support by Veritas Students</a>
+                                      <a href="newsview.php">Visting the less previlage home for support by Veritas Students</a>
                                     </h5>
                                     <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-commenting-o mr-5 text-theme-colored"></i> 214 Comments</span>                       
                                     <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-heart-o mr-5 text-theme-colored"></i> 895 Likes</span>
                                   </div>
                                 </div>
                               </div>
-                              <a href="newsview.html" class="btn-read-more">Read more</a>
+                              <a href="newsview.php" class="btn-read-more">Read more</a>
                               <div class="clearfix"></div>
                             </div>
                           </article>
@@ -261,14 +261,14 @@
                                 <div class="media-body pl-15">
                                   <div class="event-content pull-left flip">
                                     <h5 class="entry-title text-white text-uppercase m-0 mt-5 ovaflow">
-                                      <a href="newsview.html">Welfare Event of Educating the female child and gender equality</a>
+                                      <a href="newsview.php">Welfare Event of Educating the female child and gender equality</a>
                                     </h5>
                                     <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-commenting-o mr-5 text-theme-colored"></i> 214 Comments</span>                       
                                     <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-heart-o mr-5 text-theme-colored"></i> 895 Likes</span>
                                   </div>
                                 </div>
                               </div>
-                              <a href="newsview.html" class="btn-read-more">Read more</a>
+                              <a href="newsview.php" class="btn-read-more">Read more</a>
                               <div class="clearfix"></div>
                             </div>
                           </article>
@@ -404,8 +404,8 @@
                         form_btn.before(
                           '<div id="form-result" class="alert alert-success" role="alert" style="display: none;"></div>'
                         )
-                        var form_btn_old_msg = form_btn.html()
-                        form_btn.html(
+                        var form_btn_old_msg = form_btn.php()
+                        form_btn.php(
                           form_btn.prop('disabled', true).data('loading-text')
                         )
                         $(form).ajaxSubmit({
@@ -416,8 +416,8 @@
                             }
                             form_btn
                               .prop('disabled', false)
-                              .html(form_btn_old_msg)
-                            $(form_result_div).html(data.message).fadeIn('slow')
+                              .php(form_btn_old_msg)
+                            $(form_result_div).php(data.message).fadeIn('slow')
                             setTimeout(function () {
                               $(form_result_div).fadeOut('slow')
                             }, 6000)

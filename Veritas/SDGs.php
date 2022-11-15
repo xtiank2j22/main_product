@@ -315,7 +315,7 @@
               <h2 class="title text-white">VERITAS RESEARCH CLUSTERS BASED ON UN SDGs</h2>
               <ol class="breadcrumb text-left text-black mt-10">
                 <li><a href="https://www.veritas.edu.ng/">Home - Veritas University</a></li>
-                <li><a href="research.html">Veritas Research & International Linkages</a></li>
+                <li><a href="research.php">Veritas Research & International Linkages</a></li>
                 <li class="active text-gray-silver">SDG Research CLusters</li>
               </ol>
             </div>
@@ -420,7 +420,7 @@
               <article class="post media-post clearfix pb-0 mb-10 border-theme-color-2-1px border-radius-5px">
                 <a href="#" class="post-thumb mr-20" data-toggle="tooltip" data-placement="right" title="View all about SDG Goal 1"><img alt="" src="images/research/g1.jpg"></a>
                 <div class="post-right">
-                  <h4 class="mt-0 mb-5"  data-toggle="tooltip" data-placement="right" title="View all about SDG Goal 1"><a href="single-sdg-research-cluster.html">No Poverty</a></h4>
+                  <h4 class="mt-0 mb-5"  data-toggle="tooltip" data-placement="right" title="View all about SDG Goal 1"><a href="single-sdg-research-cluster.php">No Poverty</a></h4>
                   <ul class="list-inline font-12 mb-5">
                     <li class="pr-0" data-toggle="tooltip" data-placement="top" title="Number of Researchers"><i class="fa fa-user fa-2x mr-5 text-theme-color-2"></i> 10x |</li>
                     <li class="pl-5" data-toggle="tooltip" data-placement="right" title="Total Number of Team Publications"><i class="fa fa-file fa-2x mr-5 text-theme-color-2"></i>2x</li>
@@ -736,13 +736,13 @@
             <div class="widget dark">
               <h4 class="widget-title text-white">Quick Links</h4>
               <ul class="list angle-double-right list-border">
-                <li><a href="dse-about-us.html">About Us</a></li>
-                <li><a href="dse-course-listing.html">Our Courses</a></li>
-                <li><a href="dse-people.html">People</a></li>
-                <li><a href="dse-contact-us.html">Contact Us</a></li>
-                <li><a href="dse-news-events.html">News & Events</a></li>
-                <li><a href="dse-course-registration.html">Course Registration Process</a></li>
-                <li><a href="dse-parenthome.html">Parents</a></li>
+                <li><a href="dse-about-us.php">About Us</a></li>
+                <li><a href="dse-course-listing.php">Our Courses</a></li>
+                <li><a href="dse-people.php">People</a></li>
+                <li><a href="dse-contact-us.php">Contact Us</a></li>
+                <li><a href="dse-news-events.php">News & Events</a></li>
+                <li><a href="dse-course-registration.php">Course Registration Process</a></li>
+                <li><a href="dse-parenthome.php">Parents</a></li>
               </ul>
             </div>
           </div>
@@ -750,13 +750,13 @@
             <div class="widget dark">
               <h4 class="widget-title text-white">Why Software Engineering ?</h4>
               <ul class="list angle-double-right list-border">
-                <li><a href="dse-teaching.html">Teaching</a></li>
-                <li><a href="dse-learning.html">Learning</a></li>
-                <li><a href="dse-research.html">Research</a></li>
-                <li><a href="dse-practicum.html">Practicum</a></li>
-                <li><a href="dse-siwes.html">SIWES</a></li>
-                <li><a href="campus-lifehome.html">Campus Life</a></li>
-                <li><a href="dse-industry-collaboration.html">Industry Collaboration</a></li>
+                <li><a href="dse-teaching.php">Teaching</a></li>
+                <li><a href="dse-learning.php">Learning</a></li>
+                <li><a href="dse-research.php">Research</a></li>
+                <li><a href="dse-practicum.php">Practicum</a></li>
+                <li><a href="dse-siwes.php">SIWES</a></li>
+                <li><a href="campus-lifehome.php">Campus Life</a></li>
+                <li><a href="dse-industry-collaboration.php">Industry Collaboration</a></li>
               </ul>
             </div>
           </div>
@@ -764,12 +764,12 @@
             <div class="widget dark">
               <h4 class="widget-title text-white">Resources</h4>
               <ul class="list angle-double-right list-border">
-                <li><a href="dse-laboratories.html">Laboratories</a></li>
-                <li><a href="page-course-list.html">Departmental Library</a></li>
-                <li><a href="page-pricing-style1.html">Departmental Handbook</a></li>
-                <li><a href="ict.html">ICT Facilities</a></li>
-                <li><a href="shop-category.html">NACOS</a></li>
-                <li><a href="shop-category.html">Center of Excellence & Innovation</a></li>              
+                <li><a href="dse-laboratories.php">Laboratories</a></li>
+                <li><a href="page-course-list.php">Departmental Library</a></li>
+                <li><a href="page-pricing-style1.php">Departmental Handbook</a></li>
+                <li><a href="ict.php">ICT Facilities</a></li>
+                <li><a href="shop-category.php">NACOS</a></li>
+                <li><a href="shop-category.php">Center of Excellence & Innovation</a></li>              
               </ul>
             </div>
           </div>
@@ -920,7 +920,7 @@
   document.write('<div class="news_scroll-title">');
   document.write('News and Updates<br>');
   document.write('</div>');
-  document.write('<iframe name="NewsIFrame" src="news_scroll.html" frameborder="0" scrolling="no"></iframe>');
+  document.write('<iframe name="NewsIFrame" src="news_scroll.php" frameborder="0" scrolling="no"></iframe>');
   document.write('</div>');
   // END SCROLLING NEWS
   }

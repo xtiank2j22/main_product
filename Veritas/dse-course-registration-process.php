@@ -166,7 +166,7 @@
                              <div class="display-table-cell">
                                <h3 class="text-theme-color-2 mt-10 text-white font-24 text-600"> PG Research  & Fellowship </h3>
                                <p class="text-gray-lightgray">Discover how we encourage, assist & provide practical supports through scholarship & inventive to faculty members & PG research students to help them conceptualise and conduct original research. Thus forming connections & making discoveries that propel them to see the world differently.</p>
-                               <a href="coming-soon.html" class="btn btn-default mt-10"> Innovate With Us </a>
+                               <a href="coming-soon.php" class="btn btn-default mt-10"> Innovate With Us </a>
                              </div>
                            </div>
                        </div>
@@ -380,16 +380,16 @@
                                       var form_result_div = '#form-result';
                                       $(form_result_div).remove();
                                       form_btn.before('<div id="form-result" class="alert alert-success" role="alert" style="display: none;"></div>');
-                                      var form_btn_old_msg = form_btn.html();
-                                      form_btn.html(form_btn.prop('disabled', true).data("loading-text"));
+                                      var form_btn_old_msg = form_btn.php();
+                                      form_btn.php(form_btn.prop('disabled', true).data("loading-text"));
                                       $(form).ajaxSubmit({
                                         dataType:  'json',
                                         success: function(data) {
                                           if( data.status == 'true' ) {
                                             $(form).find('.form-control').val('');
                                           }
-                                          form_btn.prop('disabled', false).html(form_btn_old_msg);
-                                          $(form_result_div).html(data.message).fadeIn('slow');
+                                          form_btn.prop('disabled', false).php(form_btn_old_msg);
+                                          $(form_result_div).php(data.message).fadeIn('slow');
                                           setTimeout(function(){ $(form_result_div).fadeOut('slow') }, 6000);
                                         }
                                       });
@@ -559,10 +559,10 @@
                                     Veritas University  expects Proactive Compliance meaning that research should be conducted in ways that reflect an honest attempt to find truth without bias, such that the results of research can be trusted.  In order to meet these expectations, researchers are expected to abide by a set of ethical principles.
                                     The Office of Research and International Linkages provides supportive role to review and participate in the implementation of emerging regulatory requirements, and proactively monitoring regulatory compliance through assessments and responding to concerns from the research community.
                                     Compliance requirements can be complex, challenging, and require considerable attention of the research team. Thus, the Office has curated resources for researchers, students, and administrators to learn about key subject areas in research complianc ranging from. <br />
-                                    <i class="fa fa-download on"></i><a href="coming-soon.html"> Financial Conflict of Interest</a><br />
-                                    <i class="fa fa-download"></i><a href="coming-soon.html"> Environmental Health and Safety</a><br />
-                                    <i class="fa fa-download"></i><a href="coming-soon.html"> Research Misconduct</a><br />
-                                    <i class="fa fa-download"></i><a href="coming-soon.html"> Research Policy</a><br />
+                                    <i class="fa fa-download on"></i><a href="coming-soon.php"> Financial Conflict of Interest</a><br />
+                                    <i class="fa fa-download"></i><a href="coming-soon.php"> Environmental Health and Safety</a><br />
+                                    <i class="fa fa-download"></i><a href="coming-soon.php"> Research Misconduct</a><br />
+                                    <i class="fa fa-download"></i><a href="coming-soon.php"> Research Policy</a><br />
                                     <br />
                                     The strategy is built on our existing principles, that the quality of our research is valued over its quantity, that the university succeeds when the individual succeeds in their career, and that we value all contributions to research.
                                   </p>
@@ -714,14 +714,14 @@
                                 </div>
                                 <div class="item">
                                   <img class="border-radius-10px border-bottom-theme-color-2-3px img-responsive" src="images/magazine/wn-lg2.jpg" alt="">
-                                  <h4 class="entry-title text-uppercase mt-15 mb-10"><a href="personal-profile.html">Nathaniel, Akiko, Ph. D</a></h4>
+                                  <h4 class="entry-title text-uppercase mt-15 mb-10"><a href="personal-profile.php">Nathaniel, Akiko, Ph. D</a></h4>
                                   <p class="text-justify mb-10 font-16">Assistant Director of Research and International Linkages</p>
                                   <p class="text-justify mb-10 font-16 ml-10 mb-10">Associate Professor of Pharmacology and of Cellular and Molecular Physiology:  We have two on-going projects. </p>
                                   <a class="btn pull-left btn-theme-colored  border-radius-10px border-left-theme-color-2-4px btn-sm ml-15 mr-15" data-toggle="tooltip" data-placement="top" title="Read Full Story"> Read Full Story <i class="fa fa-arrow-right"></i></a>
                                 </div>
                                 <div class="item">
                                   <img class="border-radius-10px img-responsive" src="images/magazine/wn-lg4.jpg" alt="">
-                                  <h4 class="entry-title text-uppercase mt-15 mb-10"><a href="dse-personal-profile.html">Nathaniel, Akiko, Ph. D</a></h4>
+                                  <h4 class="entry-title text-uppercase mt-15 mb-10"><a href="dse-personal-profile.php">Nathaniel, Akiko, Ph. D</a></h4>
                                   <p class="text-justify mt-0 font-16 ml-15 mb-10">Assistant Director of Research and International Linkages</p>
                                   <p class="text-justify mt-0 font-16 ml-15 mb-10">Associate Professor of Pharmacology and of Cellular and Molecular Physiology:  We have two on-going projects.</p>
                                   <a class="btn pull-left btn-theme-colored  border-radius-10px border-left-theme-color-2-4px btn-sm ml-10 mr-10" data-toggle="tooltip" data-placement="top" title="Read Full Story"> Read Full Story <i class="fa fa-arrow-right"></i></a>
@@ -1156,7 +1156,7 @@
                                             <h4 class="line-bottom mt-0 mb-50 ml-15">Finance Manager</h4>
                                               <div class="job-overview ml-0">
                                                 <div class="col-xs-12 col-sm-12 col-md-12">
-                                                  <div class="icon-box media bg-deep p-10 mb-10"> <a class="media-left pull-left flip" href="coming-soon.html"> <i class="fa fa-calendar text-theme-color-2 mt-5"></i></li></a>
+                                                  <div class="icon-box media bg-deep p-10 mb-10"> <a class="media-left pull-left flip" href="coming-soon.php"> <i class="fa fa-calendar text-theme-color-2 mt-5"></i></li></a>
                                                     <div class="media-body">
                                                       <h5 class="mt-0">Date Posted:</h5>
                                                       <p>Posted 10 days ago</p>
@@ -1164,7 +1164,7 @@
                                                   </div>
                                                 </div>
                                                 <div class="col-xs-12 col-sm-12 col-md-12">
-                                                  <div class="icon-box media bg-deep p-10 mb-10"> <a class="media-left pull-left flip" href="coming-soon.html"> <i class="fa fa-map-marker text-theme-color-2 mt-5"></i></a>
+                                                  <div class="icon-box media bg-deep p-10 mb-10"> <a class="media-left pull-left flip" href="coming-soon.php"> <i class="fa fa-map-marker text-theme-color-2 mt-5"></i></a>
                                                     <div class="media-body">
                                                       <h5 class="mt-0">Location:</h5>
                                                       <p>Anywhere</p>
@@ -1172,7 +1172,7 @@
                                                   </div>
                                                 </div>
                                                 <div class="col-xs-12 col-sm-12 col-md-12">
-                                                  <div class="icon-box media bg-deep p-10 mb-10"> <a class="media-left pull-left flip" href="coming-soon.html"> <i class="fa fa-user text-theme-color-2"></i></a>
+                                                  <div class="icon-box media bg-deep p-10 mb-10"> <a class="media-left pull-left flip" href="coming-soon.php"> <i class="fa fa-user text-theme-color-2"></i></a>
                                                     <div class="media-body">
                                                       <h5 class="mt-0">Job Title:</h5>
                                                       <p>Finance Manager</p>
@@ -1180,7 +1180,7 @@
                                                   </div>
                                                 </div>
                                                 <div class="col-xs-12 col-sm-12 col-md-12">
-                                                  <div class="icon-box media bg-deep p-10 mb-10"> <a class="media-left pull-left flip" href="coming-soon.html"> <i class="fa fa-skype text-theme-color-2"></i></a>
+                                                  <div class="icon-box media bg-deep p-10 mb-10"> <a class="media-left pull-left flip" href="coming-soon.php"> <i class="fa fa-skype text-theme-color-2"></i></a>
                                                     <div class="media-body">
                                                       <h5 class="mt-0">Salary:</h5>
                                                       <p>$10000 - 13000</p>
@@ -1191,7 +1191,7 @@
                                             </div>
                                             <div class="col-md-8">
                                               <div class="icon-box mb-0 p-0">
-                                                <a href="coming-soon.html" class="icon icon-gray pull-left mb-0 mr-10">
+                                                <a href="coming-soon.php" class="icon icon-gray pull-left mb-0 mr-10">
                                                   <i class="pe-7s-users theme-color-2"></i>
                                                 </a>
                                                 <h3 class="icon-box-title pt-15 mt-0 mb-40">Job Description</h3>
@@ -1284,16 +1284,16 @@
                                                       var form_result_div = '#form-result';
                                                       $(form_result_div).remove();
                                                       form_btn.before('<div id="form-result" class="alert alert-success" role="alert" style="display: none;"></div>');
-                                                      var form_btn_old_msg = form_btn.html();
-                                                      form_btn.html(form_btn.prop('disabled', true).data("loading-text"));
+                                                      var form_btn_old_msg = form_btn.php();
+                                                      form_btn.php(form_btn.prop('disabled', true).data("loading-text"));
                                                       $(form).ajaxSubmit({
                                                         dataType:  'json',
                                                         success: function(data) {
                                                           if( data.status == 'true' ) {
                                                             $(form).find('.form-control').val('');
                                                           }
-                                                          form_btn.prop('disabled', false).html(form_btn_old_msg);
-                                                          $(form_result_div).html(data.message).fadeIn('slow');
+                                                          form_btn.prop('disabled', false).php(form_btn_old_msg);
+                                                          $(form_result_div).php(data.message).fadeIn('slow');
                                                           setTimeout(function(){ $(form_result_div).fadeOut('slow') }, 6000);
                                                         }
                                                       });
@@ -1405,32 +1405,32 @@
               <div class="col-xs-12 col-sm-6 col-md-2 mb-sm-20">
                 <i class="fa fa-meh-o faa-pulse animated-hover text-white font-36 pull-left flip mt-15 mr-15"></i>
                 <h4 class="text-white font-16 font-weight-600">Most Current Publication</h4>
-                <p class="text-white font-11"><a href="research-event-detail.html" class="btn  btn-circled btn-theme-colored btn-xs mt-5 pull-center text-white border-left-theme-color-1-4px"> Download <i class="fa fa-download font-16 ml-10"></i></a></p>
+                <p class="text-white font-11"><a href="research-event-detail.php" class="btn  btn-circled btn-theme-colored btn-xs mt-5 pull-center text-white border-left-theme-color-1-4px"> Download <i class="fa fa-download font-16 ml-10"></i></a></p>
               </div>
               <div class="col-xs-12 col-sm-6 col-md-2 mb-sm-20">
                 <i class="fa fa-certificate faa-pulse animated-hover text-white font-36 pull-left flip mt-15 mr-20"></i>
                 <h4 class="text-white font-16 font-weight-600">Research Strategic Plan</h4>
-                <p class="text-white font-11"><a href="research-event-detail.html" class="btn  btn-circled btn-theme-colored btn-xs mt-5 pull-center text-white border-left-theme-color-1-4px"> Download <i class="fa fa-download font-16 ml-10"></i></a></p>
+                <p class="text-white font-11"><a href="research-event-detail.php" class="btn  btn-circled btn-theme-colored btn-xs mt-5 pull-center text-white border-left-theme-color-1-4px"> Download <i class="fa fa-download font-16 ml-10"></i></a></p>
               </div>
               <div class="col-xs-12 col-sm-6 col-md-2 mb-sm-20">
                 <i class="fa fa-diamond faa-pulse animated-hover  text-white font-36 pull-left flip mt-15 mr-20"></i>
                 <h4 class="font-16 text-white font-weight-600">Research Policy</h4>
-                <p class="text-white font-11"><a href="research-event-details.html" class="btn  btn-circled btn-theme-colored btn-xs mt-5 pull-center text-white border-left-theme-color-1-4px"> Download <i class="fa fa-download font-16 ml-10"></i></a></p>
+                <p class="text-white font-11"><a href="research-event-details.php" class="btn  btn-circled btn-theme-colored btn-xs mt-5 pull-center text-white border-left-theme-color-1-4px"> Download <i class="fa fa-download font-16 ml-10"></i></a></p>
               </div>
               <div class="col-xs-12 col-sm-6 col-md-2 mb-sm-20">
                 <i class="fa fa-clock-o faa-pulse animated-hover text-white font-36 pull-left flip mt-15 mr-20"></i>
                 <h4 class="font-16 text-white font-weight-600">Timetable!</h4><br>
-                <p class="text-white font-11"><a href="coming-soon.html" class="btn  btn-circled btn-theme-colored btn-xs mt-5 pull-center text-white border-left-theme-color-1-4px"> Download <i class="fa fa-download font-16 ml-10"></i></a></p>
+                <p class="text-white font-11"><a href="coming-soon.php" class="btn  btn-circled btn-theme-colored btn-xs mt-5 pull-center text-white border-left-theme-color-1-4px"> Download <i class="fa fa-download font-16 ml-10"></i></a></p>
               </div>
               <div class="col-xs-12 col-sm-6 col-md-2 mb-sm-20">
                 <i class="fa fa-dollar faa-pulse animated-hover text-white font-36 pull-left flip mt-15 mr-20"></i>
                 <h4 class="font-16 text-white font-weight-600">More Downloads</h4>
-                <p class="text-white font-11"><a href="coming-soon.html" class="btn  btn-circled btn-theme-colored btn-xs mt-5 pull-center text-white border-left-theme-color-1-4px"> Download <i class="fa fa-download font-16 ml-10"></i></a></p>
+                <p class="text-white font-11"><a href="coming-soon.php" class="btn  btn-circled btn-theme-colored btn-xs mt-5 pull-center text-white border-left-theme-color-1-4px"> Download <i class="fa fa-download font-16 ml-10"></i></a></p>
               </div>
               <div class="col-xs-12 col-sm-6 col-md-2 mb-sm-20">
                 <i class="fa fa-database faa-pulse animated-hover text-white font-36 pull-left flip mt-15 mr-20"></i>
                 <h4 class="font-16 text-white font-weight-600">More Downloads</h4>
-                <p class="text-white font-11"><a href="coming-soon.html" class="btn  btn-circled btn-theme-colored btn-xs mt-5 pull-center text-white border-left-theme-color-1-4px"> Download <i class="fa fa-download font-16 ml-10"></i></a></p>
+                <p class="text-white font-11"><a href="coming-soon.php" class="btn  btn-circled btn-theme-colored btn-xs mt-5 pull-center text-white border-left-theme-color-1-4px"> Download <i class="fa fa-download font-16 ml-10"></i></a></p>
               </div>
             </div>
           </div>
@@ -1756,7 +1756,7 @@
                                       <div class="event-details p-15 mt-20">
                                         <h4 class="media-heading text-uppercase font-weight-500">“I hear and I forget. I see and I believe. I do and I understand”</h4>
                                         <p>Confucius, a Chinese teacher, editor, politician, and philosopher is quoted as having said “I hear and I ...</p>
-                                        <a href="coming-soon.html" class="btn btn-flat btn-dark btn-theme-colored btn-sm">Details <i class="fa fa-angle-double-right"></i></a>
+                                        <a href="coming-soon.php" class="btn btn-flat btn-dark btn-theme-colored btn-sm">Details <i class="fa fa-angle-double-right"></i></a>
                                       </div>
                                     </div>
                                     <div class="col-sm-5">
@@ -1908,7 +1908,7 @@
                       <div class="news_scroll-title">
                       News and Updates<br>
                       </div>
-                      <iframe name="NewsIFrame" src="news_scroll.html" frameborder="0" scrolling="no"></iframe>
+                      <iframe name="NewsIFrame" src="news_scroll.php" frameborder="0" scrolling="no"></iframe>
                     </div>
                     <!-- END SCROLLING NEWS WINDOW SAMPLE -->
 
@@ -1918,7 +1918,7 @@
                       <div class="news_scroll-title">
                       Scroll Feed Example<br>
                       </div>
-                      <iframe name="NewsIFrame" src="news_scroll-feed.html" frameborder="0" scrolling="no"></iframe>
+                      <iframe name="NewsIFrame" src="news_scroll-feed.php" frameborder="0" scrolling="no"></iframe>
                     </div> -->
                     <!-- END SCROLLING NEWS WINDOW SAMPLE -->
 

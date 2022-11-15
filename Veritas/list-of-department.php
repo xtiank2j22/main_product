@@ -175,10 +175,10 @@
             <div class="widget">
               <h4 class="widget-title line-bottom text-bolder text-deepgreen">Programmes</h4>
               <ul class="list angle-double-right ">
-                <li><a href="page-about-style1.html" class="text-black text-bold">A-Z Programmes</a></li>
-                <li><a href="page-course-list.html" class="text-black text-bold">Full Time Programmes</a></li>
-                <li><a href="page-pricing-style1.html" class="text-black text-bold">Part Time Programmes</a></li>
-                <li><a href="page-gallery-3col.html" class="text-black text-bold">External Programmes</a></li>
+                <li><a href="page-about-style1.php" class="text-black text-bold">A-Z Programmes</a></li>
+                <li><a href="page-course-list.php" class="text-black text-bold">Full Time Programmes</a></li>
+                <li><a href="page-pricing-style1.php" class="text-black text-bold">Part Time Programmes</a></li>
+                <li><a href="page-gallery-3col.php" class="text-black text-bold">External Programmes</a></li>
               </ul>
             </div>
           </div>

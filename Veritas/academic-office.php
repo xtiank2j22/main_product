@@ -83,8 +83,8 @@
                   <div class="col-md-12">
                     <h2 class="title text-white text-bolder">Academic Office</h2>
                     <ol class="breadcrumb text-left text-black mt-10">
-                      <li><a href="homeindex.html" class="text-white text-bolder text-format">Welcome you</a></li>
-                      <li><a href="homeindex.html" class="text-white text-bolder text-format"> to Veritas University Abuja, Nigeria.</a></li>
+                      <li><a href="homeindex.php" class="text-white text-bolder text-format">Welcome you</a></li>
+                      <li><a href="homeindex.php" class="text-white text-bolder text-format"> to Veritas University Abuja, Nigeria.</a></li>
                     </ol>
                   </div>
                 </div>
@@ -115,7 +115,7 @@
                                 to the content of the education, research and collaboration pursued at the Faculty
                           </p>
                         </div>
-                        <a class="btn btn-theme-colored btn-flat btn-lg mt-10 mb-sm-30" href="personal-profile.html">Know More →</a>
+                        <a class="btn btn-theme-colored btn-flat btn-lg mt-10 mb-sm-30" href="personal-profile.php">Know More →</a>
                       </div>
                     </div>
                   </div>
@@ -155,12 +155,12 @@
                             <tr>
                               <th scope="row">Dr. Emmanuel Mkpojiogu</th>
                               <td>Admission Office</td>
-                              <td><a class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" href="personal-profile.html">Read more</a></td>
+                              <td><a class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" href="personal-profile.php">Read more</a></td>
                             </tr>
                             <tr>
                               <th scope="row">Mr. Ikechukwu Izegbu</th>
                               <td>Admission Office</td>
-                              <td><a class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" href="personal-profile.html">Read more</a></td>
+                              <td><a class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" href="personal-profile.php">Read more</a></td>
                             </tr>
                             <tr>
                               <th scope="row">Mr. Dako Apaleohkai Dickson</th>
@@ -170,22 +170,22 @@
                             <tr>
                               <th scope="row">Mr. Usoh Ikouwen Ufort</th>
                               <td>Exams and Records</td>
-                              <td><a class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" href="personal-profile.html">Read more</a></td>
+                              <td><a class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" href="personal-profile.php">Read more</a></td>
                             </tr>
                             <tr>
                               <th scope="row">Ms kama mary</th>
                               <td>Admission Office</td>
-                              <td><a class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" href="personal-profile.html">Read more</a></td>
+                              <td><a class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" href="personal-profile.php">Read more</a></td>
                             </tr>
                             <tr>
                               <th scope="row">Mr. Oladayo Tosin Akinwande</th>
                               <td>Exams and Record</td>
-                              <td><a class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" href="personal-profile.html">Read more</a></td>
+                              <td><a class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" href="personal-profile.php">Read more</a></td>
                             </tr>
                             <tr>
                               <th scope="row">Mrs. Agubata Chidimma</th>
                               <td>Admission Office</td>
-                              <td><a class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" href="personal-profile.html">Read more</a></td>
+                              <td><a class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" href="personal-profile.php">Read more</a></td>
                             </tr>
                           </tbody>
                         </table>
@@ -206,12 +206,12 @@
                             <tr>
                               <th scope="row">Mr. Bakpo Francis</th>
                               <td class="">Secretary Addmissions Office</td>
-                              <td><a class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" href="personal-profile.html">Read more</a></td>
+                              <td><a class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" href="personal-profile.php">Read more</a></td>
                             </tr>
                             <tr>
                               <th scope="row">Miss. Francisca Okonkwo</th>
                               <td>Assist. Sec Addmissions Office</td>
-                              <td><a class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" href="personal-profile.html">Read more</a></td>
+                              <td><a class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" href="personal-profile.php">Read more</a></td>
                             </tr>
                           </tbody>
                         </table>
@@ -238,17 +238,17 @@
                             <tr>
                               <th scope="row">Mr. Christian</th>
                               <td>Admission Office</td>
-                              <td><a class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" href="personal-profile.html">Read more</a></td>
+                              <td><a class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" href="personal-profile.php">Read more</a></td>
                             </tr>
                             <tr>
                               <th scope="row">Mr. Pius</th>
                               <td>Admission Office</td>
-                              <td><a class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" href="personal-profile.html">Read more</a></td>
+                              <td><a class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" href="personal-profile.php">Read more</a></td>
                             </tr>
                             <tr>
                               <th scope="row">Miss Nelly</th>
                               <td>Exams and Record</td>
-                              <td><a class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" href="personal-profile.html">Read more</a></td>
+                              <td><a class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" href="personal-profile.php">Read more</a></td>
                             </tr>
                           </tbody>
                         </table>
@@ -268,17 +268,17 @@
                             <tr>
                               <th scope="row">Mr. Christian</th>
                               <td>Admission Office</td>
-                              <td><a class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" href="personal-profile.html">Read more</a></td>
+                              <td><a class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" href="personal-profile.php">Read more</a></td>
                             </tr>
                             <tr>
                               <th scope="row">Mr. Pius</th>
                               <td>Exams and Records</td>
-                              <td><a class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" href="personal-profile.html">Read more</a></td>
+                              <td><a class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" href="personal-profile.php">Read more</a></td>
                             </tr>
                             <tr>
                               <th scope="row">Miss Nelly</th>
                               <td>Admission Office</td>
-                              <td><a class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" href="dse-personal-profile.html">Read more</a></td>
+                              <td><a class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" href="dse-personal-profile.php">Read more</a></td>
                             </tr>
                           </tbody>
                         </table>
@@ -353,7 +353,7 @@
                           For more news and updats on faculty meetings and
                           events contact the faculty association head
                         </p>
-                            <a class="btn btn-dark btn-theme-colored btn-sm text-uppercase mt-10" href="exams-and-records.html">Visit Page</a>
+                            <a class="btn btn-dark btn-theme-colored btn-sm text-uppercase mt-10" href="exams-and-records.php">Visit Page</a>
                           </div>
                         </div>
                       </div>
@@ -369,7 +369,7 @@
                           For more news and updats on faculty meetings and
                           events contact the faculty association head
                         </p>
-                            <a class="btn btn-dark btn-theme-colored btn-sm text-uppercase mt-10" href="admission.html">Visit Page</a>
+                            <a class="btn btn-dark btn-theme-colored btn-sm text-uppercase mt-10" href="admission.php">Visit Page</a>
                           </div>
                         </div>
                       </div>
@@ -385,12 +385,12 @@
                     </table>
                   <div class="widget">
                       <ul class="list list-border angle-double-left">
-                        <li class="libtab"><a href="academic-office.html">Academic Calendar</a></li>
+                        <li class="libtab"><a href="academic-office.php">Academic Calendar</a></li>
                         <li class="libtab"><a href="#">Statement of Result</a></li>
-                        <li class="libtab"><a href="exams-and-record.html">exams and records</a></li>
+                        <li class="libtab"><a href="exams-and-record.php">exams and records</a></li>
                         <li class="libtab"><a href="#">English Proficiency</a></li>
-                        <li class="libtab"><a href="admission.html">Admissions</a></li>
-                        <li class="libtab"><a href="Admission-process.html">How to Apply</a></li>
+                        <li class="libtab"><a href="admission.php">Admissions</a></li>
+                        <li class="libtab"><a href="Admission-process.php">How to Apply</a></li>
                         <li class="libtab"><a href="#">Transcript</a></li>
                         <li class="libtab"><a href="#">Complaints</a></li>
                         <li class="libtab"><a href="#">Suggestion box</a></li>
@@ -489,8 +489,8 @@
                             form_btn.before(
                               '<div id="form-result" class="alert alert-success" role="alert" style="display: none;"></div>'
                             )
-                            var form_btn_old_msg = form_btn.html()
-                            form_btn.html(
+                            var form_btn_old_msg = form_btn.php()
+                            form_btn.php(
                               form_btn.prop('disabled', true).data('loading-text')
                             )
                             $(form).ajaxSubmit({
@@ -501,8 +501,8 @@
                                 }
                                 form_btn
                                   .prop('disabled', false)
-                                  .html(form_btn_old_msg)
-                                $(form_result_div).html(data.message).fadeIn('slow')
+                                  .php(form_btn_old_msg)
+                                $(form_result_div).php(data.message).fadeIn('slow')
                                 setTimeout(function () {
                                   $(form_result_div).fadeOut('slow')
                                 }, 6000)

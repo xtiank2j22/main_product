@@ -88,28 +88,28 @@
                 <div class="item shodow5 ovaflow latestnews ml-10 height-50" >
                   <article class="post media-post clearfix pb-0 ">
                     <div class="post-right .ovaflow mt-10">
-                      <p class="text-black text-bolder ovaflow mr-10"> <a class="mb-0 font-13 text-black readthumb" href="newsview.html">Resumption of new student and Lectures is on 10th August, 2022</a>  <i class="text-green fa fa-arrow-right"></i></p>
+                      <p class="text-black text-bolder ovaflow mr-10"> <a class="mb-0 font-13 text-black readthumb" href="newsview.php">Resumption of new student and Lectures is on 10th August, 2022</a>  <i class="text-green fa fa-arrow-right"></i></p>
                     </div>
                   </article>
                 </div>
                 <div class="item shodow5 ovaflow latestnews ml-10" >
                   <article class="post media-post clearfix pb-0">
                     <div class="post-right .ovaflow mt-10">
-                      <p class="text-black text-bolder ovaflow mr-10"> <a class="mb-0 font-13 text-black readthumb" href="newsview.html">The old students are advice to make payment of their hostel via online portal and their hostel will be automatically selected </a>  <i class="text-green fa fa-arrow-right"></i></p>
+                      <p class="text-black text-bolder ovaflow mr-10"> <a class="mb-0 font-13 text-black readthumb" href="newsview.php">The old students are advice to make payment of their hostel via online portal and their hostel will be automatically selected </a>  <i class="text-green fa fa-arrow-right"></i></p>
                     </div>
                   </article>
                 </div>
                 <div class="item shodow5 ovaflow latestnews ml-10" >
                   <article class="post media-post clearfix pb-0">
                     <div class="post-right .ovaflow mt-10">
-                      <p class="text-black text-bolder ovaflow mr-10"> <a class="mb-0 font-13 text-black readthumb" href="newsview.html">There will be orientation of new students and Lectures on 23rd October, 2022</a>  <i class="text-green fa fa-arrow-right"></i></p>
+                      <p class="text-black text-bolder ovaflow mr-10"> <a class="mb-0 font-13 text-black readthumb" href="newsview.php">There will be orientation of new students and Lectures on 23rd October, 2022</a>  <i class="text-green fa fa-arrow-right"></i></p>
                     </div>
                   </article>
                 </div>
                 <div class="item shodow5 ovaflow latestnews ml-10" >
                   <article class="post media-post clearfix pb-0">
                     <div class="post-right .ovaflow mt-10">
-                      <p class="text-black text-bolder ovaflow mr-10"> <a class="mb-0 font-13 text-black readthumb" href="newsview.html">lectures and all academic activities stars immidiately at resumption</a>  <i class="text-green fa fa-arrow-right"></i></p>
+                      <p class="text-black text-bolder ovaflow mr-10"> <a class="mb-0 font-13 text-black readthumb" href="newsview.php">lectures and all academic activities stars immidiately at resumption</a>  <i class="text-green fa fa-arrow-right"></i></p>
                     </div>
                   </article>
                 </div>
@@ -146,7 +146,7 @@
                        Take the next step and APPLY NOW!!, We offer a very flexible application process tailored
                         to meet the needs different categories of candidates. Click the link Below to apply
                        </p>
-                       <a class="btn btn-bg-color btn-flat btn-lg mt-10 mb-sm-30 text-bolder" href="newsview.html"> Vieew More →</a>
+                       <a class="btn btn-bg-color btn-flat btn-lg mt-10 mb-sm-30 text-bolder" href="newsview.php"> Vieew More →</a>
                      </div>
                  </div>
                </div>
@@ -166,7 +166,7 @@
                      Take the next step and APPLY NOW!!, We offer a very flexible application process tailored
                       to meet the needs different categories of candidates. Click the link Below to apply
                      </p>
-                     <a class="btn btn-bg-color btn-flat btn-lg mt-10 mb-sm-30 text-bolder" href="newsview.html"> Vieew More →</a>
+                     <a class="btn btn-bg-color btn-flat btn-lg mt-10 mb-sm-30 text-bolder" href="newsview.php"> Vieew More →</a>
                    </div>
                </div>
              </div>
@@ -186,7 +186,7 @@
                    Take the next step and APPLY NOW!!, We offer a very flexible application process tailored
                     to meet the needs different categories of candidates. Click the link Below to apply
                    </p>
-                   <a class="btn btn-bg-color btn-flat btn-lg mt-10 mb-sm-30 text-bolder" href="newsview.html"> Vieew More →</a>
+                   <a class="btn btn-bg-color btn-flat btn-lg mt-10 mb-sm-30 text-bolder" href="newsview.php"> Vieew More →</a>
                  </div>
              </div>
            </div>
@@ -206,7 +206,7 @@
                  Take the next step and APPLY NOW!!, We offer a very flexible application process tailored
                   to meet the needs different categories of candidates. Click the link Below to apply
                  </p>
-                 <a class="btn btn-bg-color btn-flat btn-lg mt-10 mb-sm-30 text-bolder" href="newsview.html"> Vieew More →</a>
+                 <a class="btn btn-bg-color btn-flat btn-lg mt-10 mb-sm-30 text-bolder" href="newsview.php"> Vieew More →</a>
                </div>
            </div>
          </div>

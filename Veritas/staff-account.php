@@ -8,7 +8,6 @@
 <meta name="description" content="StudyPress | Education & Courses HTML Template" />
 <meta name="keywords" content="academy, course, education, education html theme, elearning, learning," />
 <meta name="author" content="ThemeMascot" />
-
 <!-- Page Title -->
 <title>Staff Account</title>
 
@@ -217,13 +216,13 @@
                     </table>
                   <div class="widget">
                       <ul class="list list-border angle-double-left">
-                    <li class="libtab"><a href="bursar.html" class="text-navy text-blod">Busary Home</a></li>
-                    <li class="libtab"><a href="Students-account.html" class="text-navy text-blod">Students Account</a></li>
-                    <li class="libtab"><a href="staff-account.html" class="text-navy text-blod">Staff Account</a></li>
-                    <li class="libtab"><a href="procurment-unit.html" class="text-navy text-blod">Procurment Unit</a></li>
-                    <li class="libtab"><a href="final-account.html" class="text-navy text-blod">Final Account</a></li>
-                    <li class="libtab"><a href="asset.html" class="text-navy text-blod">Assets</a></li>
-                    <li class="libtab"><a href="audit.html" class="text-navy text-blod">Audit</a></li>
+                    <li class="libtab"><a href="bursar.php" class="text-navy text-blod">Busary Home</a></li>
+                    <li class="libtab"><a href="Students-account.php" class="text-navy text-blod">Students Account</a></li>
+                    <li class="libtab"><a href="staff-account.php" class="text-navy text-blod">Staff Account</a></li>
+                    <li class="libtab"><a href="procurment-unit.php" class="text-navy text-blod">Procurment Unit</a></li>
+                    <li class="libtab"><a href="final-account.php" class="text-navy text-blod">Final Account</a></li>
+                    <li class="libtab"><a href="asset.php" class="text-navy text-blod">Assets</a></li>
+                    <li class="libtab"><a href="audit.php" class="text-navy text-blod">Audit</a></li>
                   </ul>
               </div>
             </div>
@@ -253,7 +252,7 @@
                         <p class="line-bottom mb-0 text-black text-bolder">Unit Head</p>
                         <p class=" mt-0 mb-2 text-navy">Staff Account Unit</p>
                         <p class="ovaflow text-deepgreen text-bolder">Mr. Nwanagba Christian </p>
-                        <a class="btn btn-dark btn-theme-colored btn-sm text-uppercase mt-10" href="page-courses-accounting-technologies.html">view details</a>
+                        <a class="btn btn-dark btn-theme-colored btn-sm text-uppercase mt-10" href="page-courses-accounting-technologies.php">view details</a>
                       </div>
                     </div>
                   </div>
@@ -267,7 +266,7 @@
                         <p class="line-bottom mb-0 text-black text-bolder">Unit Secretary </p>
                         <p class=" mt-0 mb-2 text-navy">Staff Account Unit</p>
                         <p class="ovaflow text-deepgreen text-bolder">Mrs. Nelly Ibe </p>
-                        <a class="btn btn-dark btn-theme-colored btn-sm text-uppercase mt-10" href="page-courses-accounting-technologies.html">view details</a>
+                        <a class="btn btn-dark btn-theme-colored btn-sm text-uppercase mt-10" href="page-courses-accounting-technologies.php">view details</a>
                       </div>
                     </div>
                   </div>
@@ -281,7 +280,7 @@
                         <p class="line-bottom mb-0 text-black text-bolder">Clearical Officer </p>
                         <p class=" mt-0 mb-2 text-navy">Staff Account Unit</p>
                         <p class="ovaflow text-deepgreen text-bolder">Mrs. Effiong Oko </p>
-                        <a class="btn btn-dark btn-theme-colored btn-sm text-uppercase mt-10" href="page-courses-accounting-technologies.html">view details</a>
+                        <a class="btn btn-dark btn-theme-colored btn-sm text-uppercase mt-10" href="page-courses-accounting-technologies.php">view details</a>
                       </div>
                     </div>
                   </div>
@@ -296,15 +295,15 @@
                 </table>
               <div class="widget">
                   <ul class="list list-border angle-double-left">
-                    <li class="libtab"><a href="page-courses-accounting-technologies.html">Departments</a></li>
-                    <li class="libtab"><a href="page-courses-chemical-engineering.html">Using Our library</a></li>
-                    <li class="libtab"><a href="page-courses-computer-technologies.html">New projects</a></li>
-                    <li class="libtab"><a href="page-courses-development-studies.html">Social Activities</a></li>
-                    <li class="libtab"><a href="page-courses-accounting-technologies.html">Admissions</a></li>
-                    <li class="libtab"><a href="page-courses-chemical-engineering.html">How to Apply</a></li>
-                    <li class="libtab"><a href="page-courses-computer-technologies.html">Help & Support</a></li>
-                    <li class="libtab"><a href="page-courses-development-studies.html"></a>Faculties</li>
-                    <li class="libtab"><a href="page-courses-electrical-electronic.html">News & Events</a></li>
+                    <li class="libtab"><a href="page-courses-accounting-technologies.php">Departments</a></li>
+                    <li class="libtab"><a href="page-courses-chemical-engineering.php">Using Our library</a></li>
+                    <li class="libtab"><a href="page-courses-computer-technologies.php">New projects</a></li>
+                    <li class="libtab"><a href="page-courses-development-studies.php">Social Activities</a></li>
+                    <li class="libtab"><a href="page-courses-accounting-technologies.php">Admissions</a></li>
+                    <li class="libtab"><a href="page-courses-chemical-engineering.php">How to Apply</a></li>
+                    <li class="libtab"><a href="page-courses-computer-technologies.php">Help & Support</a></li>
+                    <li class="libtab"><a href="page-courses-development-studies.php"></a>Faculties</li>
+                    <li class="libtab"><a href="page-courses-electrical-electronic.php">News & Events</a></li>
                   </ul>
               </div>
             </div>
@@ -424,8 +423,8 @@
                         form_btn.before(
                           '<div id="form-result" class="alert alert-success" role="alert" style="display: none;"></div>'
                         )
-                        var form_btn_old_msg = form_btn.html()
-                        form_btn.html(
+                        var form_btn_old_msg = form_btn.php()
+                        form_btn.php(
                           form_btn.prop('disabled', true).data('loading-text')
                         )
                         $(form).ajaxSubmit({
@@ -436,8 +435,8 @@
                             }
                             form_btn
                               .prop('disabled', false)
-                              .html(form_btn_old_msg)
-                            $(form_result_div).html(data.message).fadeIn('slow')
+                              .php(form_btn_old_msg)
+                            $(form_result_div).php(data.message).fadeIn('slow')
                             setTimeout(function () {
                               $(form_result_div).fadeOut('slow')
                             }, 6000)

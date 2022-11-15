@@ -69,9 +69,9 @@
               <div class="col-xs-12 col-sm-12 col-md-12 bg-white-transperent">
                 <h4 class="title text-navy text-bolder">Office of University Audit Unit <i class="text-bold text-deepgreen">Busary Department</i></h4>
                 <ol class="breadcrumb text-left text-black mt-10">
-                  <li class="text-bolder text-deepgreen font-16"><a href="homeindex.html" class="text-navy text-bolder">Welcome you</a> to Veritas University Abuja, Nigeria.</li>
+                  <li class="text-bolder text-deepgreen font-16"><a href="homeindex.php" class="text-navy text-bolder">Welcome you</a> to Veritas University Abuja, Nigeria.</li>
                 </ol>
-                <a href="students-account.html" class="btn btn-flat btn-theme-colored text-uppercase mt-5 mb-15 border-left-theme-color-2-4px text-bolder pull-right" >Student Account</a>
+                <a href="students-account.php" class="btn btn-flat btn-theme-colored text-uppercase mt-5 mb-15 border-left-theme-color-2-4px text-bolder pull-right" >Student Account</a>
               </div>
             </div>
           </div>
@@ -185,13 +185,13 @@
                     </table>
                 <div class="widget">
                   <ul class="list list-border angle-double-left">
-                    <li class="libtab"><a href="bursar.html" class="text-navy text-blod">Busary Home</a></li>
-                    <li class="libtab"><a href="students-account.html" class="text-navy text-blod">Student Account</a></li>
-                    <li class="libtab"><a href="staff-account.html" class="text-navy text-blod">Staff Account</a></li>
-                    <li class="libtab"><a href="procurment-unit.html" class="text-navy text-blod">Procurment Unit</a></li>
-                    <li class="libtab"><a href="final-account.html" class="text-navy text-blod">Final Account</a></li>
-                    <li class="libtab"><a href="asset.html" class="text-navy text-blod">Assets</a></li>
-                    <li class="libtab"><a href="audit.html" class="text-navy text-blod">Audit</a></li>
+                    <li class="libtab"><a href="bursar.php" class="text-navy text-blod">Busary Home</a></li>
+                    <li class="libtab"><a href="students-account.php" class="text-navy text-blod">Student Account</a></li>
+                    <li class="libtab"><a href="staff-account.php" class="text-navy text-blod">Staff Account</a></li>
+                    <li class="libtab"><a href="procurment-unit.php" class="text-navy text-blod">Procurment Unit</a></li>
+                    <li class="libtab"><a href="final-account.php" class="text-navy text-blod">Final Account</a></li>
+                    <li class="libtab"><a href="asset.php" class="text-navy text-blod">Assets</a></li>
+                    <li class="libtab"><a href="audit.php" class="text-navy text-blod">Audit</a></li>
                   </ul>
               </div>
             </div>
@@ -221,7 +221,7 @@
                         <p class="line-bottom mb-0 text-black text-bolder">Unit Head</p>
                         <p class=" mt-0 mb-2 text-navy">Audit Unit</p>
                         <p class="ovaflow text-deepgreen text-bolder">Mr. Nwanagba Christian </p>
-                        <a class="btn btn-dark btn-theme-colored btn-sm text-uppercase mt-10" href="personal-profile.html">view details</a>
+                        <a class="btn btn-dark btn-theme-colored btn-sm text-uppercase mt-10" href="personal-profile.php">view details</a>
                       </div>
                     </div>
                   </div>
@@ -235,7 +235,7 @@
                         <p class="line-bottom mb-0 text-black text-bolder">Unit Secretary </p>
                         <p class=" mt-0 mb-2 text-navy">Audit Unit</p>
                         <p class="ovaflow text-deepgreen text-bolder">Mrs. Nelly Ibe </p>
-                        <a class="btn btn-dark btn-theme-colored btn-sm text-uppercase mt-10" href="personal-profile.html">view details</a>
+                        <a class="btn btn-dark btn-theme-colored btn-sm text-uppercase mt-10" href="personal-profile.php">view details</a>
                       </div>
                     </div>
                   </div>
@@ -249,7 +249,7 @@
                         <p class="line-bottom mb-0 text-black text-bolder">Clearical Officer </p>
                         <p class=" mt-0 mb-2 text-navy">Auditt Unit</p>
                         <p class="ovaflow text-deepgreen text-bolder">Mrs. Effiong Oko </p>
-                        <a class="btn btn-dark btn-theme-colored btn-sm text-uppercase mt-10" href="personal-profile.html">view details</a>
+                        <a class="btn btn-dark btn-theme-colored btn-sm text-uppercase mt-10" href="personal-profile.php">view details</a>
                       </div>
                     </div>
                   </div>
@@ -264,15 +264,15 @@
                 </table>
               <div class="widget">
                   <ul class="list list-border angle-double-left">
-                    <li class="libtab"><a href="list-of-department.html">Departments</a></li>
-                    <li class="libtab"><a href="librar.html">Using Our library</a></li>
-                    <li class="libtab"><a href="galllery.html">New projects</a></li>
-                    <li class="libtab"><a href="student-union.html">Social Activities</a></li>
-                    <li class="libtab"><a href="admission.html">Admissions</a></li>
-                    <li class="libtab"><a href="Admission-process.html">How to Apply</a></li>
-                    <li class="libtab"><a href="contact.html">Help & Support</a></li>
-                    <li class="libtab"><a href="list-of-faculties.html"></a>Faculties</li>
-                    <li class="libtab"><a href="news.html">News & Events</a></li>
+                    <li class="libtab"><a href="list-of-department.php">Departments</a></li>
+                    <li class="libtab"><a href="librar.php">Using Our library</a></li>
+                    <li class="libtab"><a href="galllery.php">New projects</a></li>
+                    <li class="libtab"><a href="student-union.php">Social Activities</a></li>
+                    <li class="libtab"><a href="admission.php">Admissions</a></li>
+                    <li class="libtab"><a href="Admission-process.php">How to Apply</a></li>
+                    <li class="libtab"><a href="contact.php">Help & Support</a></li>
+                    <li class="libtab"><a href="list-of-faculties.php"></a>Faculties</li>
+                    <li class="libtab"><a href="news.php">News & Events</a></li>
                   </ul>
               </div>
             </div>
@@ -392,8 +392,8 @@
                         form_btn.before(
                           '<div id="form-result" class="alert alert-success" role="alert" style="display: none;"></div>'
                         )
-                        var form_btn_old_msg = form_btn.html()
-                        form_btn.html(
+                        var form_btn_old_msg = form_btn.php()
+                        form_btn.php(
                           form_btn.prop('disabled', true).data('loading-text')
                         )
                         $(form).ajaxSubmit({
@@ -404,8 +404,8 @@
                             }
                             form_btn
                               .prop('disabled', false)
-                              .html(form_btn_old_msg)
-                            $(form_result_div).html(data.message).fadeIn('slow')
+                              .php(form_btn_old_msg)
+                            $(form_result_div).php(data.message).fadeIn('slow')
                             setTimeout(function () {
                               $(form_result_div).fadeOut('slow')
                             }, 6000)

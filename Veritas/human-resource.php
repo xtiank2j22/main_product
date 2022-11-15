@@ -536,7 +536,7 @@ Be a first class graduate from Veritas or any University recognised by the NUC
                       <div class="content text-left flip p-25 pt-0">
                         <p class="line-bottom mb-0 text-black text-bolder">HR II</p>
                         <p class="ovaflow text-deepgreen text-bolder">Miss. Racheal Pius </p>
-                        <a class="btn btn-dark btn-theme-colored btn-sm text-uppercase mt-10" href="page-courses-accounting-technologies.html">view details</a>
+                        <a class="btn btn-dark btn-theme-colored btn-sm text-uppercase mt-10" href="page-courses-accounting-technologies.php">view details</a>
                       </div>
                     </div>
                   </div>
@@ -549,7 +549,7 @@ Be a first class graduate from Veritas or any University recognised by the NUC
                       <div class="content text-left flip p-25 pt-0">
                         <p class="line-bottom mb-0 text-black text-bolder">HR II </p>
                        <p class="ovaflow text-deepgreen text-bolder">Mr. Hassan Ayaosa </p>
-                        <a class="btn btn-dark btn-theme-colored btn-sm text-uppercase mt-10" href="page-courses-accounting-technologies.html">view details</a>
+                        <a class="btn btn-dark btn-theme-colored btn-sm text-uppercase mt-10" href="page-courses-accounting-technologies.php">view details</a>
                       </div>
                     </div>
                   </div>
@@ -563,7 +563,7 @@ Be a first class graduate from Veritas or any University recognised by the NUC
                         <p class="line-bottom mb-0 text-black text-bolder">HR I</p>
                        
                         <p class="ovaflow text-deepgreen text-bolder">Mrs. Angela Abe </p>
-                        <a class="btn btn-dark btn-theme-colored btn-sm text-uppercase mt-10" href="page-courses-accounting-technologies.html">view details</a>
+                        <a class="btn btn-dark btn-theme-colored btn-sm text-uppercase mt-10" href="page-courses-accounting-technologies.php">view details</a>
                       </div>
                     </div>
                   </div>
@@ -638,7 +638,7 @@ Be a first class graduate from Veritas or any University recognised by the NUC
                     <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                     <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
                   </ul>
-                  <a class="btn btn-theme-colored btn-sm pull-right flip" href="page-teachers-details.html">view details</a>
+                  <a class="btn btn-theme-colored btn-sm pull-right flip" href="page-teachers-details.php">view details</a>
                 </div>
               </div>
             </div>
@@ -653,7 +653,7 @@ Be a first class graduate from Veritas or any University recognised by the NUC
                     <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                     <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
                   </ul>
-                  <a class="btn btn-theme-colored btn-sm pull-right flip" href="page-teachers-details.html">view details</a>
+                  <a class="btn btn-theme-colored btn-sm pull-right flip" href="page-teachers-details.php">view details</a>
                 </div>
               </div>
             </div>
@@ -668,7 +668,7 @@ Be a first class graduate from Veritas or any University recognised by the NUC
                     <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                     <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
                   </ul>
-                  <a class="btn btn-theme-colored btn-sm pull-right flip" href="page-teachers-details.html">view details</a>
+                  <a class="btn btn-theme-colored btn-sm pull-right flip" href="page-teachers-details.php">view details</a>
                 </div>
               </div>
             </div>
@@ -688,7 +688,7 @@ Be a first class graduate from Veritas or any University recognised by the NUC
                     <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                     <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
                   </ul>
-                  <a class="btn btn-theme-colored btn-sm pull-right flip" href="page-teachers-details.html">view details</a>
+                  <a class="btn btn-theme-colored btn-sm pull-right flip" href="page-teachers-details.php">view details</a>
                 </div>
               </div>
             </div>
@@ -703,7 +703,7 @@ Be a first class graduate from Veritas or any University recognised by the NUC
                     <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                     <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
                   </ul>
-                  <a class="btn btn-theme-colored btn-sm pull-right flip" href="page-teachers-details.html">view details</a>
+                  <a class="btn btn-theme-colored btn-sm pull-right flip" href="page-teachers-details.php">view details</a>
                 </div>
               </div>
             </div>
@@ -718,7 +718,7 @@ Be a first class graduate from Veritas or any University recognised by the NUC
                     <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                     <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
                   </ul>
-                  <a class="btn btn-theme-colored btn-sm pull-right flip" href="page-teachers-details.html">view details</a>
+                  <a class="btn btn-theme-colored btn-sm pull-right flip" href="page-teachers-details.php">view details</a>
                 </div>
               </div>
             </div>
@@ -1072,8 +1072,8 @@ console.log(fearNotLetter("abce"));
                         form_btn.before(
                           '<div id="form-result" class="alert alert-success" role="alert" style="display: none;"></div>'
                         )
-                        var form_btn_old_msg = form_btn.html()
-                        form_btn.html(
+                        var form_btn_old_msg = form_btn.php()
+                        form_btn.php(
                           form_btn.prop('disabled', true).data('loading-text')
                         )
                         $(form).ajaxSubmit({
@@ -1084,8 +1084,8 @@ console.log(fearNotLetter("abce"));
                             }
                             form_btn
                               .prop('disabled', false)
-                              .html(form_btn_old_msg)
-                            $(form_result_div).html(data.message).fadeIn('slow')
+                              .php(form_btn_old_msg)
+                            $(form_result_div).php(data.message).fadeIn('slow')
                             setTimeout(function () {
                               $(form_result_div).fadeOut('slow')
                             }, 6000)

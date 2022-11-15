@@ -86,7 +86,7 @@
                   autoStart: false,
                   callbacks: {
                     stop: function() {
-                      $('.message').html('The clock has stopped! Therefore, the site has been completely tested and we are now hosting the site.')
+                      $('.message').php('The clock has stopped! Therefore, the site has been completely tested and we are now hosting the site.')
                     }
                   }
                 });

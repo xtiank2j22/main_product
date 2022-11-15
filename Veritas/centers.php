@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html dir="ltr" lang="en">
-<!-- Mirrored from kodesolution.com/html/2016/studypress-html/demo/index-sp-layout2.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jul 2022 15:06:55 GMT -->
+<!-- Mirrored from kodesolution.com/html/2016/studypress-html/demo/index-sp-layout2.php by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jul 2022 15:06:55 GMT -->
 <head>
 <!-- Meta Tags -->
 <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
@@ -151,9 +151,9 @@
                           <a href="#">The World Best University</a>
                         </h5>
                         <p class="text-left mb-20 mt-15 font-13"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p>
-                        <a class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" href="newsview.html">Read more</a>
+                        <a class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" href="newsview.php">Read more</a>
                         <ul class="list-inline entry-date pull-right font-12 mt-5" >
-                          <li><a class="text-theme-colored" href="personal-profile.html">Admin |</a></li>
+                          <li><a class="text-theme-colored" href="personal-profile.php">Admin |</a></li>
                           <li><span class="text-theme-colored cdate" >Aug 31, 2022</span></li>
                         </ul>
                         <div class="clearfix"></div>
@@ -173,9 +173,9 @@
                           <a href="#">The latest from faculty Officers desk</a>
                         </h5>
                         <p class="text-left mb-20 mt-15 font-13"> Faculty meetings will be open for students and staffs. Ensure to clock in on arrival</p>
-                        <a class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" href="newsview.html">Read more</a>
+                        <a class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" href="newsview.php">Read more</a>
                         <ul class="list-inline entry-date pull-right font-12 mt-5">
-                          <li><a class="text-theme-colored" href="personal-profile.html">Admin |</a></li>
+                          <li><a class="text-theme-colored" href="personal-profile.php">Admin |</a></li>
                           <li>
                             <span class="cdate text-theme-colored">Aug 31, 2022</span></li>
                         </ul>
@@ -207,14 +207,14 @@
                         </p>
                         <a
                           class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left"
-                          href="list-of-faculties.html"
+                          href="list-of-faculties.php"
                           >Read more</a
                         >
                         <ul
                           class="list-inline entry-date pull-right font-12 mt-5"
                         >
                           <li>
-                            <a class="text-theme-colored" href="admin-profile.html">Admin |</a>
+                            <a class="text-theme-colored" href="admin-profile.php">Admin |</a>
                           </li>
                           <li>
                             <span class="text-theme-colored cdate"
@@ -242,21 +242,21 @@
                       </div>
                       <div class="entry-content border-1px p-20">
                         <h5 class="entry-title mt-0 pt-0">
-                          <a href="newsview.html">The General assembly</a>
+                          <a href="newsview.php">The General assembly</a>
                         </h5>
                         <p class="text-left mb-20 mt-15 font-13">
                             Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab nostrum impedit officiis 
                         </p>
                         <a
                           class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left"
-                          href="newsview.html"
+                          href="newsview.php"
                           >Read more</a
                         >
                         <ul
                           class="list-inline entry-date pull-right font-12 mt-5"
                         >
                           <li>
-                            <a class="text-theme-colored" href="admin-profile.html">Admin |</a>
+                            <a class="text-theme-colored" href="admin-profile.php">Admin |</a>
                           </li>
                           <li>
                             <span class="text-theme-colored cdate" id="cdates"

@@ -302,18 +302,9 @@
                         <li><a href="campus-life.php">Campus Life</a>
                           <ul class="dropdown">
                             <li><a href="chapel.php">Campus Ministry</a></li>
-                            <li><a href="student-union.php">Campus Social Life</a></li>
                             <li><a href="sports-facilities.php">Campus Facilities</a></li>
                             <li><a href="hostel.php">Halls of Residence</a></li>
-                            <li><a href="sports.php">Sports</a>
-                              <ul class="dropdown">
-                                <li><a href="sports.php">VUNA League</a></li>
-                                <li><a href="sports.php">V.C Cup</a></li>
-                                <li><a href="sports.php">Hostel League</a></li>
-                                <li><a href="sports.php">NBA League</a></li>
-                                <li><a href="sports.php">Tennis League</a></li>
-                              </ul>
-                            </li>
+                            <li><a href="sports.php">Sports</a></li>
                           </ul>
                         </li>
               <!----------------------------directorate tags begins here--------------------------->
@@ -356,7 +347,6 @@
                               <li><a href="student-affairs.php">Student Affairs </a>
                                 <ul class="dropdown">
                                   <li><a href="hostel.php">Hostels</a></li>
-                                  <li><a href="sports.php">Sports</a></li>
                                   <li><a href="cleaners.php">Cleaners</a></li>
                                   <li><a href="student-union.php">Student Associations</a></li>
                                   <li><a href="student-affairs.php"></a>Students Welfare</li>                                       

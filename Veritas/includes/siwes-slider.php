@@ -1,20 +1,17 @@
-<section id="home">
-                      <div class="container-fluid p-0">
+                <section id="home">
+                      <div class="container-fluid p-0 height-500px" >
                         <!-- Slider Revolution Start -->
-                        <div class="rev_slider_wrapper">
-                          <div class="rev_slider" data-version="5.0">
+                        <div class="rev_slider_wrapper" >
+                          <div class="rev_slider" data-version="5.0" >
                             <ul>
-
                               <!-- SLIDE 1 -->
                               <li data-index="rs-1" data-transition="slidingoverlayhorizontal" data-slotamount="default" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="images/siWes/images/slider/slider1.png" data-rotate="0" data-saveperformance="off" data-title="Slide 1" data-description="">
                                 <!-- MAIN IMAGE -->
                                 <img src="images/siwes/images/slider/slider1.png"  alt=""  data-bgposition="center 10%" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg img-responsive" data-bgparallax="10" data-no-retina>
                                 <!-- LAYERS -->
-
                                 <!-- LAYER NR. 1 -->
                                 <div class="tp-caption tp-resizeme text-uppercase mt-10 text-white font-raleway bg-theme-colored-transparent "
                                   id="rs-1-layer-1"
-
                                   data-x="['left']"
                                   data-hoffset="['30']"
                                   data-y="['middle']"

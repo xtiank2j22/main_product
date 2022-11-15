@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html dir="ltr" lang="en">
-  <!-- Mirrored from kodesolution.com/html/2016/studypress-html/demo/index-sp-layout2.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jul 2022 15:06:55 GMT -->
+  <!-- Mirrored from kodesolution.com/html/2016/studypress-html/demo/index-sp-layout2.php by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jul 2022 15:06:55 GMT -->
   <head>
     <!-- Meta Tags -->
     <meta name="viewport" content="width=device-width,initial-scale=1.0" />
@@ -136,7 +136,7 @@
                 class="menuzord bg-theme-colored pull-left flip menuzord-responsive"
               >
                 <ul class="menuzord-menu">
-                  <li class="active"><a href="homeindex.html">Home</a></li>
+                  <li class="active"><a href="homeindex.php">Home</a></li>
                   <li><a href="#">About</a></li>
                   <li><a href="#">Courses</a></li>
                   <li><a href="#">Staffs</a></li>
@@ -153,7 +153,7 @@
                       class="btn btn-colored btn-flat bg-theme-color-2 text-white font-14 font-14 bs-modal-ajax-load mt-0 p-25 pr-15 pl-15"
                       data-toggle="modal"
                       data-target="#BSParentModal"
-                      href="ajax-load/reservation-form.html"
+                      href="ajax-load/reservation-form.php"
                       >e-Campus</a
                     >
                     <!-- Modal: donate now End -->
@@ -276,16 +276,16 @@
                     var form_result_div = '#form-result';
                     $(form_result_div).remove();
                     form_btn.before('<div id="form-result" class="alert alert-success" role="alert" style="display: none;"></div>');
-                    var form_btn_old_msg = form_btn.html();
-                    form_btn.html(form_btn.prop('disabled', true).data("loading-text"));
+                    var form_btn_old_msg = form_btn.php();
+                    form_btn.php(form_btn.prop('disabled', true).data("loading-text"));
                     $(form).ajaxSubmit({
                       dataType:  'json',
                       success: function(data) {
                         if( data.status == 'true' ) {
                           $(form).find('.form-control').val('');
                         }
-                        form_btn.prop('disabled', false).html(form_btn_old_msg);
-                        $(form_result_div).html(data.message).fadeIn('slow');
+                        form_btn.prop('disabled', false).php(form_btn_old_msg);
+                        $(form_result_div).php(data.message).fadeIn('slow');
                         setTimeout(function(){ $(form_result_div).fadeOut('slow') }, 6000);
                       }
                     });
@@ -368,11 +368,11 @@ M.Sc. holders with CGPA of less than 4 points can apply for a fresh M.Sc. in a d
               <div class="widget dark">
                 <h4 class="widget-title">Useful Links</h4>
                 <ul class="list angle-double-right list-border">
-                  <li><a href="page-about-style1.html">About Us</a></li>
-                  <li><a href="page-course-list.html">Our Courses</a></li>
-                  <li><a href="page-pricing-style1.html">Our staffs</a></li>
-                  <li><a href="page-gallery-3col.html">Gallery</a></li>
-                  <li><a href="shop-category.html">News</a></li>
+                  <li><a href="page-about-style1.php">About Us</a></li>
+                  <li><a href="page-course-list.php">Our Courses</a></li>
+                  <li><a href="page-pricing-style1.php">Our staffs</a></li>
+                  <li><a href="page-gallery-3col.php">Gallery</a></li>
+                  <li><a href="shop-category.php">News</a></li>
                 </ul>
               </div>
             </div>
@@ -592,5 +592,5 @@ M.Sc. holders with CGPA of less than 4 points can apply for a fresh M.Sc. in a d
     ></script>
   </body>
 
-  <!-- Mirrored from kodesolution.com/html/2016/studypress-html/demo/index-sp-layout2.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jul 2022 15:06:55 GMT -->
+  <!-- Mirrored from kodesolution.com/html/2016/studypress-html/demo/index-sp-layout2.php by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jul 2022 15:06:55 GMT -->
 </html>

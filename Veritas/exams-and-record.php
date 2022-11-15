@@ -124,7 +124,7 @@
                             <p> The Examinations and Records Division headed by the Deputy Registrar is a division of the University Registry that is charged with the responsibility of providing support services in the University relating to Students’ Academic records in the course of their studies and upon graduation.
                                  The Examinations and Records office remains relevant from the point of students’ enrolment to graduation and as long as the University’s certificate is used for the purpose of further academic pursuits, employment and other endeavours.</p>
                             </div>
-                          <a class="btn btn-theme-colored btn-flat btn-lg mt-10 mb-sm-30" href="newsview.html">Know More →</a>
+                          <a class="btn btn-theme-colored btn-flat btn-lg mt-10 mb-sm-30" href="newsview.php">Know More →</a>
                         </div>
 
                     </div>
@@ -158,7 +158,7 @@
                         An Official and Complete Copy of Students' Academic Records
                         </p> 
                         <hr>
-                         <a href="coming-soon.html" class="font-18">Apply</a>
+                         <a href="coming-soon.php" class="font-18">Apply</a>
                       </div>
                     </div>
                   </div>
@@ -170,13 +170,13 @@
                       </div>
                        <div class="entry-content border-1px p-20">
                         <h5 class="entry-title mt-0 pt-0">
-                          <a class="font-16" href="coming-soon.html"><b>Certificate</b></a>
+                          <a class="font-16" href="coming-soon.php"><b>Certificate</b></a>
                         </h5>
                         <p class="text-left mb-20 mt-15 font-16 ovaflow">
                          Academic Document signed by the Vice Chancellor and the Registrar confirming the completion of an academic programme
                         </p> 
                         <hr>
-                         <a href="coming-soon.html" class="font-18">Apply</a>
+                         <a href="coming-soon.php" class="font-18">Apply</a>
                       </div>
                     </div>
                   </div>
@@ -188,7 +188,7 @@
                       </div>
                        <div class="entry-content border-1px p-20">
                         <h5 class="entry-title mt-0 pt-0">
-                          <a href="coming-soon.html" class="font-18"><b>Correction Certificate</b></a>
+                          <a href="coming-soon.php" class="font-18"><b>Correction Certificate</b></a>
                         </h5>
                         <p class="text-left mb-20 mt-15 font-16 ovaflow">
                          This Entails Processing of Requests for Correction of Name for approval of Senate
@@ -196,7 +196,7 @@
                         <hr>
                      
                         <div class="clearfix"></div>
-                         <a href="coming-soon.html" class="font-18">Apply</a>
+                         <a href="coming-soon.php" class="font-18">Apply</a>
 
                       </div>
                     </div>
@@ -212,7 +212,7 @@
                       </div>
                        <div class="entry-content border-1px p-20">
                         <h5 class="entry-title mt-0 pt-0">
-                          <a class="font-16" href="coming-soon.html"><b>Letter in lieu of lost Certificate</b></a>
+                          <a class="font-16" href="coming-soon.php"><b>Letter in lieu of lost Certificate</b></a>
                         </h5>
                         <p class="text-left mb-20 mt-15 font-16 ovaflow">
                          Letter Issued To Graduates that have lost their Original Academic Certificate and to be Signed by the Vice Chancellor & Registrar
@@ -231,14 +231,14 @@
                       </div>
                        <div class="entry-content border-1px p-20">
                         <h5 class="entry-title mt-0 pt-0">
-                          <a class="font-16" href="coming-soon.html"><b>Notification of Result</b></a>
+                          <a class="font-16" href="coming-soon.php"><b>Notification of Result</b></a>
                         </h5>
                         <p class="text-left mb-20 mt-15 font-16 ovaflow">
                          Summary Of Students Final Grade, signed & stamped by the Registrar
                         </p>
                         <hr>
                         <div class="clearfix"></div>
-                         <a href="coming-soon.html" class="font-18">Apply</a>
+                         <a href="coming-soon.php" class="font-18">Apply</a>
                       </div>
                     </div>
                   </div>
@@ -250,14 +250,14 @@
                       </div>
                        <div class="entry-content border-1px p-20">
                         <h5 class="entry-title mt-0 pt-0">
-                          <a href="coming-soon.html" class="font-16"><b>English Proficiency</b></a>
+                          <a href="coming-soon.php" class="font-16"><b>English Proficiency</b></a>
                         </h5>
                         <p class="text-left mb-20 mt-15 font-16 ovaflow">
                       Letter written & signed by the Registrar confirming English Language as the medium of instruction in the University
                         </p>
                      <hr>
                         <div class="clearfix"></div>
-                         <a href="coming-soon.html" class="font-18">Apply now</a>
+                         <a href="coming-soon.php" class="font-18">Apply now</a>
                       </div>
                     </div>
                   </div>
@@ -277,7 +277,7 @@
                          Academic Document signed by the Vice Chancellor and the Registrar confirming the completion of an academic programme
                         </p> 
                         <hr>
-                         <a href="coming-soon.html" class="font-18">Apply</a>
+                         <a href="coming-soon.php" class="font-18">Apply</a>
                       </div>
                     </div>
                   </div>
@@ -295,7 +295,7 @@
                           Academic Document Re-issued to graduates whose Notification of Result are no longer valid
                         </p>   
                         <hr>
-                         <a href="coming-soon.html" class="font-18">Apply</a>
+                         <a href="coming-soon.php" class="font-18">Apply</a>
                       </div>
                     </div>
                   </div>
@@ -307,14 +307,14 @@
                       </div>
                        <div class="entry-content border-1px p-20">
                         <h5 class="entry-title mt-0 pt-0">
-                          <a href="coming-soon.html" class="font-18"><b>Reference letter</b></a>
+                          <a href="coming-soon.php" class="font-18"><b>Reference letter</b></a>
                         </h5>
                         <p class="text-left mb-20 mt-15 font-16 ovaflow">
                  Letter written & signed by the Registrar confirming the studentship status and making recommendations in support of a student/graduate's pursuits
                         </p>
                      
                         <hr>
-                         <a href="coming-soon.html" class="font-18">Apply</a>
+                         <a href="coming-soon.php" class="font-18">Apply</a>
                       </div>
                     </div>
                   </div>
@@ -328,13 +328,13 @@
                       </div>
                        <div class="entry-content border-1px p-20">
                         <h5 class="entry-title mt-0 pt-0">
-                          <a class="font-16" href="coming-soon.html"><b>Verification of Academic Result (International)</b></a>
+                          <a class="font-16" href="coming-soon.php"><b>Verification of Academic Result (International)</b></a>
                         </h5>
                         <p class="text-left mb-20 mt-15 font-16 ovaflow">
                           Letter written and signed by the Registrar confirming the authenticity of academic documents issued to students/graduates by the University
                         </p> 
                         <hr>
-                         <a href="coming-soon.html" class="font-18">Apply</a>
+                         <a href="coming-soon.php" class="font-18">Apply</a>
                       </div>
                     </div>
                   </div>
@@ -346,13 +346,13 @@
                       </div>
                        <div class="entry-content border-1px p-20">
                         <h5 class="entry-title mt-0 pt-0">
-                          <a class="font-16" href="coming-soon.html"><b>Verification of Academic Result (Local)</b></a>
+                          <a class="font-16" href="coming-soon.php"><b>Verification of Academic Result (Local)</b></a>
                         </h5>
                         <p class="text-left mb-20 mt-15 font-16 ovaflow">
                          Letter written and signed by the Registrar confirming the authenticity of academic documents issued to students/graduates by the University
                         </p>  
                         <hr>
-                         <a href="coming-soon.html" class="font-18">Apply</a>
+                         <a href="coming-soon.php" class="font-18">Apply</a>
                       </div>
                     </div>
                   </div>
@@ -364,14 +364,14 @@
                       </div>
                        <div class="entry-content border-1px p-20">
                         <h5 class="entry-title mt-0 pt-0">
-                          <a href="coming-soon.html" class="font-18"><b>Instant Transcript</b></a>
+                          <a href="coming-soon.php" class="font-18"><b>Instant Transcript</b></a>
                         </h5>
                         <p class="text-left mb-20 mt-15 font-16 ovaflow">
                          An Official and Complete Copy of Students' Academic Records
                         </p>
                      <hr>
                         <div class="clearfix"></div>
-                         <a href="coming-soon.html" class="font-18">Apply</a>
+                         <a href="coming-soon.php" class="font-18">Apply</a>
                       </div>
                     </div>
                   </div>

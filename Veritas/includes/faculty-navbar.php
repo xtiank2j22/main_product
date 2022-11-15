@@ -50,7 +50,7 @@
                       class="btn btn-colored btn-flat bg-theme-color-2 text-white font-14 font-14 bs-modal-ajax-load mt-0 p-25 pr-15 pl-15"
                       data-toggle="modal"
                       data-target="#BSParentModal"
-                      href="ajax-load/reservation-form.html"
+                      href="ajax-load/reservation-form.php"
                       >e-Campus</a
                     >
                     <!-- Modal: donate now End -->

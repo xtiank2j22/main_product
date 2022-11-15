@@ -235,8 +235,8 @@
                       form_btn.before(
                         '<div id="form-result" class="alert alert-success" role="alert" style="display: none;"></div>'
                       )
-                      var form_btn_old_msg = form_btn.html()
-                      form_btn.html(
+                      var form_btn_old_msg = form_btn.php()
+                      form_btn.php(
                         form_btn.prop('disabled', true).data('loading-text')
                       )
                       $(form).ajaxSubmit({
@@ -247,8 +247,8 @@
                           }
                           form_btn
                             .prop('disabled', false)
-                            .html(form_btn_old_msg)
-                          $(form_result_div).html(data.message).fadeIn('slow')
+                            .php(form_btn_old_msg)
+                          $(form_result_div).php(data.message).fadeIn('slow')
                           setTimeout(function () {
                             $(form_result_div).fadeOut('slow')
                           }, 6000)

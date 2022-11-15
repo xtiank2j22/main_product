@@ -151,14 +151,14 @@
                 <h4 class="widget-title line-bottom">Courses <span class="text-theme-color-2">List</span></h4>
                 <div class="services-list">
                   <ul class="list list-border angle-double-right">
-                    <li><a href="page-courses-accounting-technologies.html">Accounting Technologies</a></li>
-                    <li><a href="page-courses-chemical-engineering.html">Chemical Engineering</a></li>
-                    <li><a href="page-courses-computer-technologies.html">Computer Technologies</a></li>
-                    <li><a href="page-courses-development-studies.html">Development Studies</a></li>
-                    <li><a href="page-courses-electrical-electronic.html">Electrical & Electronic</a></li>
-                    <li><a href="page-courses-modern-languages.html">Modern Languages</a></li>
-                    <li class="active"><a href="page-courses-modern-technologies.html">Modern Technologies</a></li>
-                    <li><a href="page-courses-software-engineering.html">Software Engineering</a></li>
+                    <li><a href="page-courses-accounting-technologies.php">Accounting Technologies</a></li>
+                    <li><a href="page-courses-chemical-engineering.php">Chemical Engineering</a></li>
+                    <li><a href="page-courses-computer-technologies.php">Computer Technologies</a></li>
+                    <li><a href="page-courses-development-studies.php">Development Studies</a></li>
+                    <li><a href="page-courses-electrical-electronic.php">Electrical & Electronic</a></li>
+                    <li><a href="page-courses-modern-languages.php">Modern Languages</a></li>
+                    <li class="active"><a href="page-courses-modern-technologies.php">Modern Technologies</a></li>
+                    <li><a href="page-courses-software-engineering.php">Software Engineering</a></li>
                   </ul>
                 </div>
               </div>
@@ -204,16 +204,16 @@
                       var form_result_div = '#form-result';
                       $(form_result_div).remove();
                       form_btn.before('<div id="form-result" class="alert alert-success" role="alert" style="display: none;"></div>');
-                      var form_btn_old_msg = form_btn.html();
-                      form_btn.html(form_btn.prop('disabled', true).data("loading-text"));
+                      var form_btn_old_msg = form_btn.php();
+                      form_btn.php(form_btn.prop('disabled', true).data("loading-text"));
                       $(form).ajaxSubmit({
                         dataType:  'json',
                         success: function(data) {
                           if( data.status == 'true' ) {
                             $(form).find('.form-control').val('');
                           }
-                          form_btn.prop('disabled', false).html(form_btn_old_msg);
-                          $(form_result_div).html(data.message).fadeIn('slow');
+                          form_btn.prop('disabled', false).php(form_btn_old_msg);
+                          $(form_result_div).php(data.message).fadeIn('slow');
                           setTimeout(function(){ $(form_result_div).fadeOut('slow') }, 6000);
                         }
                       });

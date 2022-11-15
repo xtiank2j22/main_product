@@ -80,8 +80,8 @@
             <div class="col-md-5">
               <h4 class="text-theme-colored">The Centre of Excellence & Innovation!</h4>
               <p class="more text-justify">Upon admission, you become a member of a vast academic community representing a gathering of talent and smart minds in Veritas. Our staff members are fully committed to serve you and to ensure that your dreams come true. Together, we help build a better future, create capacity that resonates accross the globe</p>
-              <a href="dsecurrenthodspeech.html" class="btn btn-theme-colored btn-flat btn-lg mt-15 mr-15 border-left-theme-color-2-4px">Read more</a>
-              <a href="dsecontactus.html" class="btn btn-default btn-flat btn-lg mt-15 border-left-theme-color-2-4px">Contact Us</a>
+              <a href="dsecurrenthodspeech.php" class="btn btn-theme-colored btn-flat btn-lg mt-15 mr-15 border-left-theme-color-2-4px">Read more</a>
+              <a href="dsecontactus.php" class="btn btn-default btn-flat btn-lg mt-15 border-left-theme-color-2-4px">Contact Us</a>
             </div>
             <div class="col-md-7">
               <div class="row">
@@ -91,7 +91,7 @@
                   </div>
                   <h4 class="text-theme-color-2">Theoritical Foundation</h4>
                   <p class="mb-5">Our work with students is grounded in theory, by a dedicated professional<!--  Academic Staff with the best practices promoted within the department.. --></p>
-                  <a class="btn btn-xs btn-block btn-theme-colored font-weight-600 font-11 pull-left flip mt-10 border-left-theme-color-2-4px" href="dsetheoreticalfoundation.html">View Details <i class="fa fa-angle-double-right font-16 ml-10"></i></a>
+                  <a class="btn btn-xs btn-block btn-theme-colored font-weight-600 font-11 pull-left flip mt-10 border-left-theme-color-2-4px" href="dsetheoreticalfoundation.php">View Details <i class="fa fa-angle-double-right font-16 ml-10"></i></a>
                 </div>
                 <div class="col-md-4 col-sm-6">
                   <div class="mt-sm-40">
@@ -99,7 +99,7 @@
                   </div>
                   <h4 class="text-theme-color-2">Laboratory Experience</h4>
                   <p class="mb-5">Teachers' motivation and commitment are therefore at the core of professional<!--  development, as well as gaining experiential evidence of effects on students' learning. --></p>
-                  <a class="btn btn-xs btn-block btn-theme-colored font-weight-600 font-11 pull-left flip mt-10 border-left-theme-color-2-4px" href="dselabexperience.html">View Details <i class="fa fa-angle-double-right font-16 ml-10"></i></a>
+                  <a class="btn btn-xs btn-block btn-theme-colored font-weight-600 font-11 pull-left flip mt-10 border-left-theme-color-2-4px" href="dselabexperience.php">View Details <i class="fa fa-angle-double-right font-16 ml-10"></i></a>
                 </div>
                 <div class="col-md-4 col-sm-6">
                     <div class="mt-sm-40">
@@ -107,7 +107,7 @@
                     </div>
                     <h4 class="text-theme-color-2">Industrial Exposure</h4>
                     <p class="mb-5">Student exposure combines both academic instruction & industry-based service <!-- in a professional context. Industry motivation and commitment are therefore at the core of student's professional development --></p>
-                    <a class="btn btn-xs btn-block btn-theme-colored font-weight-600 font-11 pull-left flip mt-10 border-left-theme-color-2-4px" href="dsesiwesexperience.html">View Details <i class="fa fa-angle-double-right font-16 ml-10"></i></a>
+                    <a class="btn btn-xs btn-block btn-theme-colored font-weight-600 font-11 pull-left flip mt-10 border-left-theme-color-2-4px" href="dsesiwesexperience.php">View Details <i class="fa fa-angle-double-right font-16 ml-10"></i></a>
                 </div>
               </div>
             </div>
@@ -155,7 +155,7 @@
           </div>
         </div>
         <div class="row">
-          <a class="btn btn-lg btn-block btn-theme-colored font-weight-600 font-11 pull-left flip mt-10 border-left-theme-color-2-4px" href="dsesiwesexperience.html">Read Full About Us <i class="fa fa-angle-double-right font-16 ml-10"></i></a>
+          <a class="btn btn-lg btn-block btn-theme-colored font-weight-600 font-11 pull-left flip mt-10 border-left-theme-color-2-4px" href="dsesiwesexperience.php">Read Full About Us <i class="fa fa-angle-double-right font-16 ml-10"></i></a>
         </div>
       </div>
     </section>
@@ -327,7 +327,7 @@
         <div class="section-title mb-10">
           <div class="row">
             <div class="col-md-12">
-              <h2 class="text-uppercase text-theme-colored title line-bottom line-height-1 mb-0">Our <span class="text-theme-color-2 font-weight-400">People</span><a class="btn btn-flat btn-theme-colored btn-lg mt-5 pull-right text-white border-left-theme-color-2-4px" href="people.html">View All<i class="fa fa-angle-double-right font-16 ml-10"></i></a>  </h2>
+              <h2 class="text-uppercase text-theme-colored title line-bottom line-height-1 mb-0">Our <span class="text-theme-color-2 font-weight-400">People</span><a class="btn btn-flat btn-theme-colored btn-lg mt-5 pull-right text-white border-left-theme-color-2-4px" href="people.php">View All<i class="fa fa-angle-double-right font-16 ml-10"></i></a>  </h2>
             </div>
           </div>
         </div>

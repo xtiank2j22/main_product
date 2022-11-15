@@ -33,7 +33,7 @@
           <ul class="pull-right flip hidden-sm hidden-xs">
             <li>
               <!-- Modal: donate now Starts -->
-              <a class="btn btn-colored btn-flat bg-theme-color-2 text-white font-14 font-14 bs-modal-ajax-load mt-0 p-25 pr-15 pl-15" data-toggle="modal" data-target="#BSParentModal" href="ajax-load/reservation-form.html">Book Now</a>
+              <a class="btn btn-colored btn-flat bg-theme-color-2 text-white font-14 font-14 bs-modal-ajax-load mt-0 p-25 pr-15 pl-15" data-toggle="modal" data-target="#BSParentModal" href="ajax-load/reservation-form.php">Book Now</a>
               <!-- Modal: donate now End -->
             </li>
           </ul>

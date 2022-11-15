@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html dir="ltr" lang="en">
 
-<!-- Mirrored from kodesolution.com/html/2016/studypress-html/demo/page-teachers-details.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jul 2022 15:08:33 GMT -->
+<!-- Mirrored from kodesolution.com/html/2016/studypress-html/demo/page-teachers-details.php by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jul 2022 15:08:33 GMT -->
 <head>
 
 <!-- Meta Tags -->

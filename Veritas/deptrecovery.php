@@ -114,7 +114,7 @@
                                 to the content of the education, research and collaboration pursued at the Faculty
                           </p>
                         </div>
-                        <a class="btn btn-theme-colored btn-flat btn-lg mt-10 mb-sm-30" href="dse-personal-profile.html">Know More →</a>
+                        <a class="btn btn-theme-colored btn-flat btn-lg mt-10 mb-sm-30" href="dse-personal-profile.php">Know More →</a>
                       </div>
                     </div>
                   </div>
@@ -281,7 +281,7 @@
                             <p class="line-bottom mb-0 text-black text-bolder">Supervisor</p>
                             <p class=" mt-0 mb-2 text-navy">Debt Recovery Office</p>
                             <p class="ovaflow text-deepgreen text-bolder">Mrs. Udo Abe </p>
-                            <a class="btn btn-dark btn-theme-colored btn-sm text-uppercase mt-10" href="personal-profile.html">view details</a>
+                            <a class="btn btn-dark btn-theme-colored btn-sm text-uppercase mt-10" href="personal-profile.php">view details</a>
                           </div>
                         </div>
                       </div>
@@ -295,7 +295,7 @@
                             <p class="line-bottom mb-0 text-black text-bolder">Planning ADVISER </p>
                             <p class=" mt-0 mb-2 text-navy">Debt Recovery Office</p>
                             <p class="ovaflow text-deepgreen text-bolder">Mrs. Udo Abe </p>
-                            <a class="btn btn-dark btn-theme-colored btn-sm text-uppercase mt-10" href="personal-profile.html">view details</a>
+                            <a class="btn btn-dark btn-theme-colored btn-sm text-uppercase mt-10" href="personal-profile.php">view details</a>
                           </div>
                         </div>
                       </div>
@@ -309,7 +309,7 @@
                             <p class="line-bottom mb-0 text-black text-bolder">Instructor </p>
                             <p class=" mt-0 mb-2 text-navy">Debt Recovery Office</p>
                             <p class="ovaflow text-deepgreen text-bolder">Mrs. Udo Abe </p>
-                            <a class="btn btn-dark btn-theme-colored btn-sm text-uppercase mt-10" href="personal-profile.html">view details</a>
+                            <a class="btn btn-dark btn-theme-colored btn-sm text-uppercase mt-10" href="personal-profile.php">view details</a>
                           </div>
                         </div>
                       </div>
@@ -324,15 +324,15 @@
                     </table>
                   <div class="widget">
                     <ul class="list list-border angle-double-left">
-                      <li class="libtab"><a href="list-of-department.html">Departments</a></li>
-                      <li class="libtab"><a href="librar.html">Using Our library</a></li>
-                      <li class="libtab"><a href="development-office.html">New projects</a></li>
-                      <li class="libtab"><a href="student-union.html">Social Activities</a></li>
-                      <li class="libtab"><a href="admission.html">Admissions</a></li>
-                      <li class="libtab"><a href="Admission-process.html">How to Apply</a></li>
-                      <li class="libtab"><a href="contact.html">Help & Support</a></li>
-                      <li class="libtab"><a href="list-of-faculties.html"></a>Faculties</li>
-                      <li class="libtab"><a href="news.html">News & Events</a></li>
+                      <li class="libtab"><a href="list-of-department.php">Departments</a></li>
+                      <li class="libtab"><a href="librar.php">Using Our library</a></li>
+                      <li class="libtab"><a href="development-office.php">New projects</a></li>
+                      <li class="libtab"><a href="student-union.php">Social Activities</a></li>
+                      <li class="libtab"><a href="admission.php">Admissions</a></li>
+                      <li class="libtab"><a href="Admission-process.php">How to Apply</a></li>
+                      <li class="libtab"><a href="contact.php">Help & Support</a></li>
+                      <li class="libtab"><a href="list-of-faculties.php"></a>Faculties</li>
+                      <li class="libtab"><a href="news.php">News & Events</a></li>
                     </ul>
                   </div>
                 </div>
@@ -452,8 +452,8 @@
                             form_btn.before(
                               '<div id="form-result" class="alert alert-success" role="alert" style="display: none;"></div>'
                             )
-                            var form_btn_old_msg = form_btn.html()
-                            form_btn.html(
+                            var form_btn_old_msg = form_btn.php()
+                            form_btn.php(
                               form_btn.prop('disabled', true).data('loading-text')
                             )
                             $(form).ajaxSubmit({
@@ -464,8 +464,8 @@
                                 }
                                 form_btn
                                   .prop('disabled', false)
-                                  .html(form_btn_old_msg)
-                                $(form_result_div).html(data.message).fadeIn('slow')
+                                  .php(form_btn_old_msg)
+                                $(form_result_div).php(data.message).fadeIn('slow')
                                 setTimeout(function () {
                                   $(form_result_div).fadeOut('slow')
                                 }, 6000)

@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html dir="ltr" lang="en">
-  <!-- Mirrored from kodesolution.com/html/2016/studypress-html/demo/index-sp-layout2.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jul 2022 15:06:55 GMT -->
+  <!-- Mirrored from kodesolution.com/html/2016/studypress-html/demo/index-sp-layout2.php by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jul 2022 15:06:55 GMT -->
   <head>
     <!-- Meta Tags -->
     <meta name="viewport" content="width=device-width,initial-scale=1.0" />
@@ -726,16 +726,16 @@
                     var form_result_div = '#form-result';
                     $(form_result_div).remove();
                     form_btn.before('<div id="form-result" class="alert alert-success" role="alert" style="display: none;"></div>');
-                    var form_btn_old_msg = form_btn.html();
-                    form_btn.html(form_btn.prop('disabled', true).data("loading-text"));
+                    var form_btn_old_msg = form_btn.php();
+                    form_btn.php(form_btn.prop('disabled', true).data("loading-text"));
                     $(form).ajaxSubmit({
                       dataType:  'json',
                       success: function(data) {
                         if( data.status == 'true' ) {
                           $(form).find('.form-control').val('');
                         }
-                        form_btn.prop('disabled', false).html(form_btn_old_msg);
-                        $(form_result_div).html(data.message).fadeIn('slow');
+                        form_btn.prop('disabled', false).php(form_btn_old_msg);
+                        $(form_result_div).php(data.message).fadeIn('slow');
                         setTimeout(function(){ $(form_result_div).fadeOut('slow') }, 6000);
                       }
                     });
@@ -1432,8 +1432,8 @@
                         form_btn.before(
                           '<div id="form-result" class="alert alert-success" role="alert" style="display: none;"></div>'
                         )
-                        var form_btn_old_msg = form_btn.html()
-                        form_btn.html(
+                        var form_btn_old_msg = form_btn.php()
+                        form_btn.php(
                           form_btn.prop('disabled', true).data('loading-text')
                         )
                         $(form).ajaxSubmit({
@@ -1444,8 +1444,8 @@
                             }
                             form_btn
                               .prop('disabled', false)
-                              .html(form_btn_old_msg)
-                            $(form_result_div).html(data.message).fadeIn('slow')
+                              .php(form_btn_old_msg)
+                            $(form_result_div).php(data.message).fadeIn('slow')
                             setTimeout(function () {
                               $(form_result_div).fadeOut('slow')
                             }, 6000)
@@ -1511,5 +1511,5 @@
     ></script>
   </body>
 
-  <!-- Mirrored from kodesolution.com/html/2016/studypress-html/demo/index-sp-layout2.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jul 2022 15:06:55 GMT -->
+  <!-- Mirrored from kodesolution.com/html/2016/studypress-html/demo/index-sp-layout2.php by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jul 2022 15:06:55 GMT -->
 </html>

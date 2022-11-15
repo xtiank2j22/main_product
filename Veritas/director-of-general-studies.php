@@ -92,28 +92,28 @@
                 <div class="item shodow5 ovaflow latestnews ml-10 height-50" >
                   <article class="post media-post clearfix pb-0 ">
                     <div class="post-right .ovaflow mt-10">
-                      <p class="text-black text-bolder ovaflow mr-10"> <a class="mb-0 font-13 text-black readthumb" href="newsview.html">Resumption of new student and Lectures is on 10th August, 2022</a>  <i class="text-green fa fa-arrow-right"></i></p>
+                      <p class="text-black text-bolder ovaflow mr-10"> <a class="mb-0 font-13 text-black readthumb" href="newsview.php">Resumption of new student and Lectures is on 10th August, 2022</a>  <i class="text-green fa fa-arrow-right"></i></p>
                     </div>
                   </article>
                 </div>
                 <div class="item shodow5 ovaflow latestnews ml-10" >
                   <article class="post media-post clearfix pb-0">
                     <div class="post-right .ovaflow mt-10">
-                      <p class="text-black text-bolder ovaflow mr-10"> <a class="mb-0 font-13 text-black readthumb" href="newsview.html">The old students are advice to make payment of their hostel via online portal and their hostel will be automatically selected </a>  <i class="text-green fa fa-arrow-right"></i></p>
+                      <p class="text-black text-bolder ovaflow mr-10"> <a class="mb-0 font-13 text-black readthumb" href="newsview.php">The old students are advice to make payment of their hostel via online portal and their hostel will be automatically selected </a>  <i class="text-green fa fa-arrow-right"></i></p>
                     </div>
                   </article>
                 </div>
                 <div class="item shodow5 ovaflow latestnews ml-10" >
                   <article class="post media-post clearfix pb-0">
                     <div class="post-right .ovaflow mt-10">
-                      <p class="text-black text-bolder ovaflow mr-10"> <a class="mb-0 font-13 text-black readthumb" href="newsview.html">There will be orientation of new students and Lectures on 23rd October, 2022</a>  <i class="text-green fa fa-arrow-right"></i></p>
+                      <p class="text-black text-bolder ovaflow mr-10"> <a class="mb-0 font-13 text-black readthumb" href="newsview.php">There will be orientation of new students and Lectures on 23rd October, 2022</a>  <i class="text-green fa fa-arrow-right"></i></p>
                     </div>
                   </article>
                 </div>
                 <div class="item shodow5 ovaflow latestnews ml-10" >
                   <article class="post media-post clearfix pb-0">
                     <div class="post-right .ovaflow mt-10">
-                      <p class="text-black text-bolder ovaflow mr-10"> <a class="mb-0 font-13 text-black readthumb" href="newsview.html">lectures and all academic activities stars immidiately at resumption</a>  <i class="text-green fa fa-arrow-right"></i></p>
+                      <p class="text-black text-bolder ovaflow mr-10"> <a class="mb-0 font-13 text-black readthumb" href="newsview.php">lectures and all academic activities stars immidiately at resumption</a>  <i class="text-green fa fa-arrow-right"></i></p>
                     </div>
                   </article>
                 </div>
@@ -152,7 +152,7 @@
                         Nsukka where he obtained a BSc degree in Economics in 1998. He was awarded the Scholarship of the Government of Sweden
                     </p>
                     </div>
-                    <a class="btn btn-theme-colored btn-flat btn-lg mt-10 mb-sm-30" href="dse-personal-profile.html">Know More →</a>
+                    <a class="btn btn-theme-colored btn-flat btn-lg mt-10 mb-sm-30" href="dse-personal-profile.php">Know More →</a>
                   </div>
             </div>
           </div>
@@ -177,7 +177,7 @@
               creative and procreative humanities and social sciences components of the university academic curriculum in order to produce highly skilled, 
               self-sustaining and sound oriented graduates that will provide solutions to the numerous problems of Nigeria and Africa in a globalized world.
                 </p>
-                <a href="newsview.html" class="btn bg-theme-colored text-bolder text-white">Read More</a>
+                <a href="newsview.php" class="btn bg-theme-colored text-bolder text-white">Read More</a>
               </div>
           <div class="col-md-4 bg-color-white border-radius-10px shadow5">
             <div class="icon-box p-10 pl-0 mb-20">
@@ -193,7 +193,7 @@
              creative and procreative humanities and social sciences components of the university academic curriculum in order to produce highly skilled, 
              self-sustaining and sound oriented graduates that will provide solutions to the numerous problems of Nigeria and Africa in a globalized world.
                </p>
-               <a href="newsview.html" class="btn bg-theme-colored text-bolder text-white">Read More</a>
+               <a href="newsview.php" class="btn bg-theme-colored text-bolder text-white">Read More</a>
          </div>
           <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 vclink mt-5 p-15 bg-color-white">
             <table class="table table-bordered"> 
@@ -247,12 +247,12 @@
                             <tr>
                               <th scope="row">Dr. Emmanuel Mkpojiogu</th>
                               <td>Area of Specialization</td>
-                              <td><a class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" href="admin-profile.html">Read more</a></td>
+                              <td><a class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" href="admin-profile.php">Read more</a></td>
                             </tr>
                             <tr>
                               <th scope="row">Mr. Ikechukwu Izegbu</th>
                               <td>Area of Specialization</td>
-                              <td><a class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" href="admin-profile.html">Read more</a></td>
+                              <td><a class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" href="admin-profile.php">Read more</a></td>
                             </tr>
                           </tbody>
                         </table>
@@ -272,7 +272,7 @@
                             <tr>
                               <th scope="row">Miss. Francisca Okonkwo</th>
                               <td>Departmental Secretary</td>
-                              <td><a class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" href="admin-profile.html">Read more</a></td>
+                              <td><a class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" href="admin-profile.php">Read more</a></td>
                             </tr>
                           </tbody>
                         </table>
@@ -291,17 +291,17 @@
                             <tr>
                               <th scope="row">The Use of English Unit</th>
                               <td>GSS 001</td>
-                              <td><a class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" href="coming-soon.html">Read more</a></td>
+                              <td><a class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" href="coming-soon.php">Read more</a></td>
                             </tr>
                             <tr>
                               <th scope="row">The Philosophy Unit</th>
                               <td>GSS 002</td>
-                              <td><a class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" href="coming-soon.html">Read more</a></td>
+                              <td><a class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" href="coming-soon.php">Read more</a></td>
                             </tr>
                             <tr>
                               <th scope="row">The Social Sciences Unit</th>
                               <td>GSS 003</td>
-                              <td><a class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" href="coming-soon.html">Read more</a></td>
+                              <td><a class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" href="coming-soon.php">Read more</a></td>
                             </tr>
                           </tbody>
                         </table>
@@ -347,7 +347,7 @@
                             <p class="text-white ovaflowtopdirflip text-bold">
                         		  It is the responsibility of the Directorate to ensure that Veritas undergraduates are well equipped in the humanities and social 
                               sciences to enable them make meaningful contributions to the development of Nigeria upon graduation.   </p>
-                            <a href="coming-soon.html" class="btn bg-colorbtndir text-bolder mt-10 font-16"> Read More </a>
+                            <a href="coming-soon.php" class="btn bg-colorbtndir text-bolder mt-10 font-16"> Read More </a>
                           </div>
                         </div>
                     </div>
@@ -381,7 +381,7 @@
                             <h3 class="text-white text-bolder">Acheivemeent</h3>
                             <p class="text-white ovaflowtopdirflip"> The Directorate publishes journals, hosts conferences,
                                public lectures and most recently the Veritas hosted a programme about religious cohibility and was approved by the V.C</p>
-                            <a href="coming-soon.html" class="btn bg-colorbtndir text-bolder mt-10 font-16"> Read More </a>
+                            <a href="coming-soon.php" class="btn bg-colorbtndir text-bolder mt-10 font-16"> Read More </a>
                           </div>
                         </div>
                     </div>
@@ -416,7 +416,7 @@
                             <p class="text-white ovaflowtopdirflip">  The Directorate of General Studies is housed 
                               in a two-story building and consists of offices for the Director and other staff.
                                The Directorate also has a well-equipped library, a conference room and classrooms.                            </p>
-                            <a href="coming-soon.html" class="btn bg-colorbtndir text-bolder mt-10 font-16"> Read More </a>
+                            <a href="coming-soon.php" class="btn bg-colorbtndir text-bolder mt-10 font-16"> Read More </a>
                           </div>
                         </div>
                     </div>

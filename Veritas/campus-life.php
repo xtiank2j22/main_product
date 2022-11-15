@@ -54,6 +54,12 @@
   <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
   <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
 <![endif]-->
+<style>
+    .card-horizontal {
+    display: flex;
+    flex: 1 1 auto;
+}
+</style>
 </head>
 <body class="bg-color-lightblue">
 <div id="wrapper" class="clearfix">
@@ -107,518 +113,485 @@
       </div>
     </section>
     <!------the begining of activities display----->
-<section class="mt-15 bg-color-white">
-<div class="container p-0 bg-color-white pl-10 pr-10">
-  <div class="row">
-    <div class="col-sm-12 col-md-12">
-    <h2 class=" font-weight-600 mt-0 pt-15 font-16 line-bottom text-navy">Campus Chapel</h2>
-            <div class="row mt-15 bg-grey">
-                <div class="col-md-5">
-                    <div class="entry-header">
-                       <img src="images/event/newimages/Veritas_University.Chapel.jpg" alt="" class="img-fullwidth adimg" > 
-                   </div>
-               </div>
-               <div class="col-md-7"><div class="vl"></div>
-                 <div class="media-body pl-15">
-                   <div class="event-content pull-left flip">
-                     <p class="entry-title text-black  m-0 mt-5 text-justify pr-15 text-format">
-                       Application is open for student that will love to study at Veritas University and you meet the eligibility criteria as outlined above, 
-                       Take the next step and APPLY NOW!!, We offer a very flexible application process tailored
-                        to meet the needs different categories of candidates. Click the link Below to apply
-                        Application is open for student that will love to study at Veritas University and you meet the eligibility criteria as outlined above, 
-                       Take the next step and APPLY NOW!!, We offer a very flexible application process tailored
-                        to meet the needs different categories of candidates. Click the link Below to apply
-                       </p>
-                       <a class="btn btn-bg-color btn-flat btn-lg mt-10 mb-sm-30 text-bolder" href="chapel.php"> Vieew More →</a>
-                    </div>
-               </div>
-           </div>
-        </div><br>
-        <h2 class=" font-weight-600 mt-0 pt-15 font-16 line-bottom text-navy">Sports Arena</h2>
-            <div class="row mt-15 bg-grey">
-               <div class="col-md-7"><div class="vl"></div>
-                 <div class="media-body pl-15">
-                   <div class="event-content pull-left flip">
-                     <p class="entry-title text-black  m-0 mt-5 text-justify pr-15 text-format">
-                       Application is open for student that will love to study at Veritas University and you meet the eligibility criteria as outlined above, 
-                       Take the next step and APPLY NOW!!, We offer a very flexible application process tailored
-                        to meet the needs different categories of candidates. Click the link Below to apply
-                        Application is open for student that will love to study at Veritas University and you meet the eligibility criteria as outlined above, 
-                       Take the next step and APPLY NOW!!, We offer a very flexible application process tailored
-                        to meet the needs different categories of candidates. Click the link Below to apply
-                       </p>
-                       <a class="btn btn-bg-color btn-flat btn-lg mt-10 mb-sm-30 text-bolder" href="sports-facilities.php"> Vieew More →</a>
-                    </div>
-               </div>
-           </div>
-           <div class="col-md-5">
-                    <div class="entry-header">
-                       <img src="images/event/newimages/b-ball.jpg" alt="" class="img-fullwidth adimg" > 
-                   </div>
-               </div>
-        </div><br>
-        <div class="col-sm-12 col-md-12">
-    <h2 class=" font-weight-600 mt-0 pt-15 font-16 line-bottom text-navy">Cafeteria</h2>
-            <div class="row mt-15 bg-grey">
-                <div class="col-md-5">
-                    <div class="entry-header">
-                       <img src="images/event/newimages/Veritas_University.Cafeteria_3.jpg" alt="" class="img-fullwidth adimg" > 
-                   </div>
-               </div>
-               <div class="col-md-7"><div class="vl"></div>
-                 <div class="media-body pl-15">
-                   <div class="event-content pull-left flip">
-                     <p class="entry-title text-black  m-0 mt-5 text-justify pr-15 text-format">
-                       Application is open for student that will love to study at Veritas University and you meet the eligibility criteria as outlined above, 
-                       Take the next step and APPLY NOW!!, We offer a very flexible application process tailored
-                        to meet the needs different categories of candidates. Click the link Below to apply
-                        Application is open for student that will love to study at Veritas University and you meet the eligibility criteria as outlined above, 
-                       Take the next step and APPLY NOW!!, We offer a very flexible application process tailored
-                        to meet the needs different categories of candidates. Click the link Below to apply
-                       </p>
-                       <a class="btn btn-bg-color btn-flat btn-lg mt-10 mb-sm-30 text-bolder" href="cafe.php"> Vieew More →</a>
-                    </div>
-               </div>
-           </div>
-        </div><br>
-        <h2 class=" font-weight-600 mt-0 pt-15 font-16 line-bottom text-navy">Hostels</h2>
-            <div class="row mt-15 bg-grey">
-               <div class="col-md-7"><div class="vl"></div>
-                 <div class="media-body pl-15">
-                   <div class="event-content pull-left flip">
-                     <p class="entry-title text-black  m-0 mt-5 text-justify pr-15 text-format">
-                       Application is open for student that will love to study at Veritas University and you meet the eligibility criteria as outlined above, 
-                       Take the next step and APPLY NOW!!, We offer a very flexible application process tailored
-                        to meet the needs different categories of candidates. Click the link Below to apply
-                        Application is open for student that will love to study at Veritas University and you meet the eligibility criteria as outlined above, 
-                       Take the next step and APPLY NOW!!, We offer a very flexible application process tailored
-                        to meet the needs different categories of candidates. Click the link Below to apply
-                       </p>
-                       <a class="btn btn-bg-color btn-flat btn-lg mt-10 mb-sm-30 text-bolder" href="hostel.php"> Vieew More →</a>
-                    </div>
-               </div>
-           </div>
-           <div class="col-md-5">
-                    <div class="entry-header">
-                       <img src="images/event/newimages/Veritas_University.Chapel.jpg" alt="" class="img-fullwidth adimg" > 
-                   </div>
-               </div>
-        </div><br>
-    </div>     
-  </div>
-</div>
-</section>
- <!-- Section: Gallery -->
- <section id="gallery" class="bg-lighter">
-     <div class="container">
-        <div class="section-title mb-10">
-          <div class="row">
-            <div class="col-md-12">
-              <h2 class="mt-0 text-uppercase text-theme-colored title line-bottom line-height-1">Campus<span class="text-theme-color-2 font-weight-400"> Gallery</span></h2>
-            </div>
-          </div>
-        </div>
-        <div class="section-content">
-          <div class="row">
-            <div class="col-md-12">
-              <!-- Works Filter -->
-              <div class="portfolio-filter font-alt align-center">
-                <a href="#" class="active" data-filter="*">All</a>
-                <a href="#select1" class="" data-filter=".select1">Chapel</a>
-                <a href="#select2" class="" data-filter=".select2">Sports</a>
-                <a href="#select3" class="" data-filter=".select3">Cafeteria</a>
-                <a href="#select4" class="" data-filter=".select4">hostels</a>
-              </div>
-              <!-- End Works Filter -->
-              <!-- Portfolio Gallery Grid -->
-              <div id="grid" class="gallery-isotope grid-4 gutter clearfix">
-                <!-- Portfolio Item Start -->
-                <div class="gallery-item select1">
-                  <div class="thumb">
-                    <img class="img-fullwidth" src="images/event/newimages/chapel.jpg" alt="project">
-                    <div class="overlay-shade"></div>
-                    <div class="icons-holder">
-                      <div class="icons-holder-inner">
-                        <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                          <a data-lightbox="image" href="images/event/newimages/Veritas_University.Chapel.jpg"><i class="fa fa-plus"></i></a>
-                          <a href="#"><i class="fa fa-link"></i></a>
-                        </div>
-                      </div>
-                    </div>
-                    <a class="hover-link" data-lightbox="image" href="#">View more</a>
-                  </div>
-                </div>
-                <!-- Portfolio Item End -->
-                 <!-- Portfolio Item Start -->
-                 <div class="gallery-item select1">
-                  <div class="thumb">
-                    <img class="img-fullwidth" src="images/event/newimages/Veritas_University.Chapel.jpg" alt="project">
-                    <div class="overlay-shade"></div>
-                    <div class="icons-holder">
-                      <div class="icons-holder-inner">
-                        <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                          <a data-lightbox="image" href="images/event/newimages/Veritas_University.Chapel.jpg"><i class="fa fa-plus"></i></a>
-                          <a href="#"><i class="fa fa-link"></i></a>
-                        </div>
-                      </div>
-                    </div>
-                    <a class="hover-link" data-lightbox="image" href="#">View more</a>
-                  </div>
-                </div>
-                <!-- Portfolio Item End -->
-                 <!-- Portfolio Item Start -->
-                 <div class="gallery-item select1">
-                  <div class="thumb">
-                    <img class="img-fullwidth" src="images/event/newimages/Veritas_University.Chapel.jpg" alt="project">
-                    <div class="overlay-shade"></div>
-                    <div class="icons-holder">
-                      <div class="icons-holder-inner">
-                        <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                          <a data-lightbox="image" href="images/event/newimages/Veritas_University.Chapel.jpg"><i class="fa fa-plus"></i></a>
-                          <a href="#"><i class="fa fa-link"></i></a>
-                        </div>
-                      </div>
-                    </div>
-                    <a class="hover-link" data-lightbox="image" href="#">View more</a>
-                  </div>
-                </div>
-                <!-- Portfolio Item End -->
-                 <!-- Portfolio Item Start -->
-                 <div class="gallery-item select1">
-                  <div class="thumb">
-                    <img class="img-fullwidth" src="images/event/newimages/Veritas_University.Chapel.jpg" alt="project">
-                    <div class="overlay-shade"></div>
-                    <div class="icons-holder">
-                      <div class="icons-holder-inner">
-                        <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                          <a data-lightbox="image" href="images/event/newimages/Veritas_University.Chapel.jpg"><i class="fa fa-plus"></i></a>
-                          <a href="#"><i class="fa fa-link"></i></a>
-                        </div>
-                      </div>
-                    </div>
-                    <a class="hover-link" data-lightbox="image" href="#">View more</a>
-                  </div>
-                </div>
-                <!-- Portfolio Item End -->
-                <!-- Portfolio Item Start -->
-                <div class="gallery-item select2">
-                  <div class="thumb">
-                    <img class="img-fullwidth" src="images/event/newimages/b-ball.jpg" alt="project">
-                    <div class="overlay-shade"></div>
-                    <div class="icons-holder">
-                      <div class="icons-holder-inner">
-                        <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                          <a data-lightbox="image" href="images/event/newimages/b-ball.jpg"><i class="fa fa-plus"></i></a>
-                          <a href="#"><i class="fa fa-link"></i></a>
-                        </div>
-                      </div>
-                    </div>
-                    <a class="hover-link" data-lightbox="image" href="#">View more</a>
-                  </div>
-                </div>
-                <!-- Portfolio Item End -->
-                 <!-- Portfolio Item Start -->
-                 <div class="gallery-item select2">
-                  <div class="thumb">
-                    <img class="img-fullwidth" src="images/event/newimages/Veritas_University.Basketball_Court.jpg" alt="project">
-                    <div class="overlay-shade"></div>
-                    <div class="icons-holder">
-                      <div class="icons-holder-inner">
-                        <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                          <a data-lightbox="image" href="images/event/newimages/b-ball.jpg"><i class="fa fa-plus"></i></a>
-                          <a href="#"><i class="fa fa-link"></i></a>
-                        </div>
-                      </div>
-                    </div>
-                    <a class="hover-link" data-lightbox="image" href="#">View more</a>
-                  </div>
-                </div>
-                <!-- Portfolio Item End -->
-                 <!-- Portfolio Item Start -->
-                 <div class="gallery-item select2">
-                  <div class="thumb">
-                    <img class="img-fullwidth" src="images/event/newimages/volleyball.jpg" alt="project">
-                    <div class="overlay-shade"></div>
-                    <div class="icons-holder">
-                      <div class="icons-holder-inner">
-                        <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                          <a data-lightbox="image" href="images/event/newimages/volleyball.jpg"><i class="fa fa-plus"></i></a>
-                          <a href="#"><i class="fa fa-link"></i></a>
-                        </div>
-                      </div>
-                    </div>
-                    <a class="hover-link" data-lightbox="image" href="#">View more</a>
-                  </div>
-                </div>
-                <!-- Portfolio Item End -->
-                 <!-- Portfolio Item Start -->
-                 <div class="gallery-item select2">
-                  <div class="thumb">
-                    <img class="img-fullwidth" src="images/event/newimages/basketball.jpg" alt="project">
-                    <div class="overlay-shade"></div>
-                    <div class="icons-holder">
-                      <div class="icons-holder-inner">
-                        <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                          <a data-lightbox="image" href="images/event/newimages/basketball.jpg"><i class="fa fa-plus"></i></a>
-                          <a href="#"><i class="fa fa-link"></i></a>
-                        </div>
-                      </div>
-                    </div>
-                    <a class="hover-link" data-lightbox="image" href="#">View more</a>
-                  </div>
-                </div>
-                <!-- Portfolio Item End -->
-
-                <!-- Portfolio Item Start -->
-                <div class="gallery-item select3">
-                  <div class="thumb">
-                    <img class="img-fullwidth" src="images/event/newimages/Veritas_University.Cafeteria_3.jpg" alt="project">
-                    <div class="overlay-shade"></div>
-                    <div class="icons-holder">
-                      <div class="icons-holder-inner">
-                        <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                          <a data-lightbox="image" href="images/event/newimages/Veritas_University.Chapel.jpg"><i class="fa fa-plus"></i></a>
-                          <a href="#"><i class="fa fa-link"></i></a>
-                        </div>
-                      </div>
-                    </div>
-                    <a class="hover-link" data-lightbox="image" href="#">View more</a>
-                  </div>
-                </div>
-                <!-- Portfolio Item Start -->
-                 <!-- Portfolio Item Start -->
-                 <div class="gallery-item select3">
-                  <div class="thumb">
-                    <img class="img-fullwidth" src="images/event/newimages/Veritas_University.Cafeteria_3.jpg" alt="project">
-                    <div class="overlay-shade"></div>
-                    <div class="icons-holder">
-                      <div class="icons-holder-inner">
-                        <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                          <a data-lightbox="image" href="images/event/newimages/Veritas_University.Chapel.jpg"><i class="fa fa-plus"></i></a>
-                          <a href="#"><i class="fa fa-link"></i></a>
-                        </div>
-                      </div>
-                    </div>
-                    <a class="hover-link" data-lightbox="image" href="#">View more</a>
-                  </div>
-                </div>
-                <!-- Portfolio Item Start -->
-                 <!-- Portfolio Item Start -->
-                 <div class="gallery-item select3">
-                  <div class="thumb">
-                    <img class="img-fullwidth" src="images/event/newimages/Veritas_University.Cafeteria_3.jpg" alt="project">
-                    <div class="overlay-shade"></div>
-                    <div class="icons-holder">
-                      <div class="icons-holder-inner">
-                        <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                          <a data-lightbox="image" href="images/event/newimages/Veritas_University.Chapel.jpg"><i class="fa fa-plus"></i></a>
-                          <a href="#"><i class="fa fa-link"></i></a>
-                        </div>
-                      </div>
-                    </div>
-                    <a class="hover-link" data-lightbox="image" href="#">View more</a>
-                  </div>
-                </div>
-                <!-- Portfolio Item Start -->
-                 <!-- Portfolio Item Start -->
-                 <div class="gallery-item select3">
-                  <div class="thumb">
-                    <img class="img-fullwidth" src="images/event/newimages/Veritas_University.Cafeteria_3.jpg" alt="project">
-                    <div class="overlay-shade"></div>
-                    <div class="icons-holder">
-                      <div class="icons-holder-inner">
-                        <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                          <a data-lightbox="image" href="images/event/newimages/Veritas_University.Chapel.jpg"><i class="fa fa-plus"></i></a>
-                          <a href="#"><i class="fa fa-link"></i></a>
-                        </div>
-                      </div>
-                    </div>
-                    <a class="hover-link" data-lightbox="image" href="#">View more</a>
-                  </div>
-                </div>
-                <!-- Portfolio Item Start -->
-                <div class="gallery-item select4">
-                  <div class="thumb">
-                    <img class="img-fullwidth" src="images/event/newimages/7.jpg" alt="project">
-                    <div class="overlay-shade"></div>
-                    <div class="icons-holder">
-                      <div class="icons-holder-inner">
-                        <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                          <a data-lightbox="image" href="images/event/newimages/7.jpg"><i class="fa fa-plus"></i></a>
-                          <a href="#"><i class="fa fa-link"></i></a>
-                        </div>
-                      </div>
-                    </div>
-                    <a class="hover-link" data-lightbox="image" href="#">View more</a>
-                  </div>
-                </div>
-                <!-- Portfolio Item End -->
-                <!-- Portfolio Item Start -->
-                <div class="gallery-item select4">
-                  <div class="thumb">
-                    <img class="img-fullwidth" src="images/event/newimages/5.JPG" alt="project">
-                    <div class="overlay-shade"></div>
-                    <div class="icons-holder">
-                      <div class="icons-holder-inner">
-                        <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                          <a data-lightbox="image" href="images/event/newimages/5.JPG"><i class="fa fa-plus"></i></a>
-                          <a href="#"><i class="fa fa-link"></i></a>
-                        </div>
-                      </div>
-                    </div>
-                    <a class="hover-link" data-lightbox="image" href="#">View more</a>
-                  </div>
-                </div>
-                <!-- Portfolio Item End -->
-                 <!-- Portfolio Item Start -->
-                 <div class="gallery-item select4">
-                  <div class="thumb">
-                    <img class="img-fullwidth" src="images/event/newimages/6.JPG" alt="project">
-                    <div class="overlay-shade"></div>
-                    <div class="icons-holder">
-                      <div class="icons-holder-inner">
-                        <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                          <a data-lightbox="image" href="images/event/newimages/6.JPG"><i class="fa fa-plus"></i></a>
-                          <a href="#"><i class="fa fa-link"></i></a>
-                        </div>
-                      </div>
-                    </div>
-                    <a class="hover-link" data-lightbox="image" href="images/gallery/7.jpg">View more</a>
-                  </div>
-                </div>
-                <!-- Portfolio Item End -->
-                 <!-- Portfolio Item Start -->
-                 <div class="gallery-item select4">
-                  <div class="thumb">
-                    <img class="img-fullwidth" src="images/event/newimages/4.JPG" alt="project">
-                    <div class="overlay-shade"></div>
-                    <div class="icons-holder">
-                      <div class="icons-holder-inner">
-                        <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                          <a data-lightbox="image" href="images/event/newimages/4.JPG"><i class="fa fa-plus"></i></a>
-                          <a href="#"><i class="fa fa-link"></i></a>
-                        </div>
-                      </div>
-                    </div>
-                    <a class="hover-link" data-lightbox="image" href="images/gallery/7.jpg">View more</a>
-                  </div>
-                </div>
-                <!-- Portfolio Item End -->
-              </div>
-              <!-- End Portfolio Gallery Grid -->
-            </div>
-          </div>
-        </div>
-      </div >
-    </section>
-    <section class="mt-10 bg-color-white">
-            <div class="container ">
+     <!---------------studies and support------------>
+     <section class="mt-10 center">
+            <div class="container bg-lightest">
                 <div class="section-title mb-5">
                     <div class="row">
-                      <div class="col-xs-12 col-sm-12 col-md-12">
-                        <div><h2 class="mt-0 font-28 line-bottom line-height-1">Clubs & Activities</h2></div>
-                        <div></div>
-                      </div>
+                        <div class="col-xs-12 col-sm-12 col-md-12">
+                            <div><h2 class="mt-0 text-uppercase font-28 line-bottom line-height-1">activities</h2></div>
+                        </div>
                     </div>
-                  </div>
-                  <div class="col-md-12">
                     <div class="row">
-                      <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 col-xl-4">
-                        <article class="post clearfix mb-30 pb-30 shodow5">
-                          <div class="entry-header">
-                            <div class="post-thumb thumb"> 
-                              <img src="images/event/lesspre1.jpg" alt="" class="img-responsive img-fullwidth"> 
-                            </div>
-                          </div>
-                          <div class="entry-content border-1px p-20 pr-10">
-                            <div class="entry-meta media mt-0 no-bg no-border">
-                              <div class="entry-date media-left text-center flip bg-theme-colored pt-5 pr-15 pb-5 pl-15">
-                                <ul>
-                                  <li class="font-16 text-white font-weight-600">28</li>
-                                  <li class="font-12 text-white text-uppercase">Dec</li>
-                                </ul>
-                              </div>
-                              <div class="media-body pl-15">
-                                <div class="event-content pull-left flip">
-                                  <h5 class="entry-title text-white text-uppercase m-0 mt-5 ovaflow text-format">
-                                    <a href="newsview.html">Visting the less previlage home for support by Veritas Students</a>
-                                  </h5>
-                                  <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-commenting-o mr-5 text-theme-colored"></i> 214 Comments</span>                       
-                                  <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-heart-o mr-5 text-theme-colored"></i> 895 Likes</span>
+                        <div class=" col-sm-6 col-md-4">
+                            <div class="cardi" >
+                                <img src="images/siwes/images/newimages/veritas-church.jpg" class="img-responsive">
+                                <div class="card-body " data-margin-top="-70px" style="margin-top: -70px;">
+                                    <a class="btn bg-colorbtnlib  btn-flat btn-xl  text-bolder" href="#">
+                                        <p class="text-uppercase">CAMPUS CHAPEL</p>
+                                    </a>
                                 </div>
                               </div>
-                            </div>
-                            <a href="newsview.html" class="btn-read-more">Read more</a>
-                            <div class="clearfix"></div>
-                          </div>
-                        </article>
-                      </div>
-                      <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 col-xl-4">
-                        <article class="post clearfix mb-30 pb-30 shodow5">
-                          <div class="entry-header">
-                            <div class="post-thumb thumb"> 
-                              <img src="images/event/girlchild1.jpg" alt="" class="img-responsive img-fullwidth"> 
-                            </div>
-                          </div>
-                          <div class="entry-content border-1px p-20 pr-10">
-                            <div class="entry-meta media mt-0 no-bg no-border">
-                              <div class="entry-date media-left text-center flip bg-theme-colored pt-5 pr-15 pb-5 pl-15">
-                                <ul>
-                                  <li class="font-16 text-white font-weight-600">28</li>
-                                  <li class="font-12 text-white text-uppercase">Feb</li>
-                                </ul>
-                              </div>
-                              <div class="media-body pl-15">
-                                <div class="event-content pull-left flip">
-                                  <h5 class="entry-title text-white text-uppercase m-0 mt-5 ovaflow text-format">
-                                    <a href="newsview.html">Welfare Event of Educating the female child and gender equality</a>
-                                  </h5>
-                                  <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-commenting-o mr-5 text-theme-colored"></i> 214 Comments</span>                       
-                                  <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-heart-o mr-5 text-theme-colored"></i> 895 Likes</span>
+                              <div class="cardi" >
+                                <img src="images/siwes/images/newimages/campus/res1.jpeg" class="img-responsive">
+                                <div class="card-body " data-margin-top="-70px" style="margin-top: -70px;">
+                                    <a class="btn bg-colorbtnlib  btn-flat btn-xl  text-bolder" href="#">
+                                        <p class="text-uppercase">HALL OF RESIDENCE</p>
+                                    </a>
                                 </div>
                               </div>
-                            </div>
-                            <a href="newsview.html" class="btn-read-more">Read more</a>
-                            <div class="clearfix"></div>
-                          </div>
-                        </article>
-                      </div>
-                      <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 col-xl-4">
-                        <article class="post clearfix mb-30 pb-30 shodow5">
-                          <div class="entry-header">
-                            <div class="post-thumb thumb"> 
-                              <img src="images/event/girlchild1.jpg" alt="" class="img-responsive img-fullwidth"> 
-                            </div>
-                          </div>
-                          <div class="entry-content border-1px p-20 pr-10">
-                            <div class="entry-meta media mt-0 no-bg no-border">
-                              <div class="entry-date media-left text-center flip bg-theme-colored pt-5 pr-15 pb-5 pl-15">
-                                <ul>
-                                  <li class="font-16 text-white font-weight-600">28</li>
-                                  <li class="font-12 text-white text-uppercase">Feb</li>
-                                </ul>
-                              </div>
-                              <div class="media-body pl-15">
-                                <div class="event-content pull-left flip">
-                                  <h5 class="entry-title text-white text-uppercase m-0 mt-5 ovaflow text-format">
-                                    <a href="newsview.html">Welfare Event of Educating the female child and gender equality</a>
-                                  </h5>
-                                  <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-commenting-o mr-5 text-theme-colored"></i> 214 Comments</span>                       
-                                  <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-heart-o mr-5 text-theme-colored"></i> 895 Likes</span>
+                        </div>
+                        <div class="col-sm-6 col-md-4">
+                            <div class="cardi" >
+                                <img src="images/siwes/images/newimages/campus/faci.jpg" class="img-responsive">
+                                <div class="card-body " data-margin-top="-70px" style="margin-top: -70px;">
+                                    <a class="btn bg-colorbtnlib  btn-flat btn-xl  text-bolder" href="#">
+                                        <p class="text-uppercase">CAMPUS facilities</p>
+                                    </a>
                                 </div>
                               </div>
-                            </div>
-                            <a href="newsview.html" class="btn-read-more">Read more</a>
-                            <div class="clearfix"></div>
-                          </div>
-                        </article>
-                      </div>
-                    </div><!--------veritas news ends here---->
-                  </div><!--Event center starts here-->
-                  <!--right advert starts here starts here-->
-                  </div>
-              </div>
+                              <div class="cardi" >
+                                <img src="images/siwes/images/newimages/campus/food1.jpg" class="img-responsive">
+                                <div class="card-body " data-margin-top="-70px" style="margin-top: -70px;">
+                                    <a class="btn bg-colorbtnlib  btn-flat btn-xl  text-bolder" href="#">
+                                        <p class="text-uppercase">Cafeteria</p>
+                                    </a>
+                                </div>
+                              </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="cardi">
+                                <img src="images/event/reding3.jpg" class="img-responsive">
+                                <div class="card-body " data-margin-top="-70px" style="margin-top: -70px;">
+                                    <a class="btn bg-colorbtnlib  btn-flat btn-xl  text-bolder" href="#">
+                                        <p class="text-uppercase ">Help & Support</p>
+                                    </a>
+                                </div>
+                              </div>
+                              <div class="cardi">
+                                <img src="images/siwes/images/newimages/campus/sport.jpeg" class="img-responsive">
+                                <div class="card-body " data-margin-top="-70px" style="margin-top: -70px;">
+                                    <a class="btn bg-colorbtnlib  btn-flat btn-xl  text-bolder" href="#">
+                                        <p class="text-uppercase">SPORTS</p>
+                                    </a>
+                                </div>
+                              </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </section>
+      <!-- Section: Gallery -->
+      <section id="gallery" class="bg-lighter">
+          <div class="container">
+              <div class="section-title mb-10">
+                <div class="row">
+                  <div class="col-md-12">
+                    <h2 class="mt-0 text-uppercase text-theme-colored title line-bottom line-height-1">Campus<span class="text-theme-color-2 font-weight-400"> Gallery</span></h2>
+                  </div>
+                </div>
+              </div>
+              <div class="section-content">
+                <div class="row">
+                  <div class="col-md-12">
+                    <!-- Works Filter -->
+                    <div class="portfolio-filter font-alt align-center">
+                      <a href="#" class="active" data-filter="*">All</a>
+                      <a href="#select1" class="" data-filter=".select1">Chapel</a>
+                      <a href="#select2" class="" data-filter=".select2">Sports</a>
+                      <a href="#select3" class="" data-filter=".select3">Cafeteria</a>
+                      <a href="#select4" class="" data-filter=".select4">hostels</a>
+                    </div>
+                    <!-- End Works Filter -->
+                    <!-- Portfolio Gallery Grid -->
+                    <div id="grid" class="gallery-isotope grid-4 gutter clearfix">
+                      <!-- Portfolio Item Start -->
+                      <div class="gallery-item select1">
+                        <div class="thumb">
+                          <img class="img-fullwidth" src="images/event/newimages/Veritas_University.Chapel.jpg" alt="project">
+                          <div class="overlay-shade"></div>
+                          <div class="icons-holder">
+                            <div class="icons-holder-inner">
+                              <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
+                                <a data-lightbox="image" href="images/event/newimages/Veritas_University.Chapel.jpg"><i class="fa fa-plus"></i></a>
+                                <a href="#"><i class="fa fa-link"></i></a>
+                              </div>
+                            </div>
+                          </div>
+                          <a class="hover-link" data-lightbox="image" href="#">View more</a>
+                        </div>
+                      </div>
+                      <!-- Portfolio Item End -->
+                      <!-- Portfolio Item Start -->
+                      <div class="gallery-item select1">
+                        <div class="thumb">
+                          <img class="img-fullwidth" src="images/event/newimages/Veritas_University.Chapel.jpg" alt="project">
+                          <div class="overlay-shade"></div>
+                          <div class="icons-holder">
+                            <div class="icons-holder-inner">
+                              <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
+                                <a data-lightbox="image" href="images/event/newimages/Veritas_University.Chapel.jpg"><i class="fa fa-plus"></i></a>
+                                <a href="#"><i class="fa fa-link"></i></a>
+                              </div>
+                            </div>
+                          </div>
+                          <a class="hover-link" data-lightbox="image" href="#">View more</a>
+                        </div>
+                      </div>
+                      <!-- Portfolio Item End -->
+                      <!-- Portfolio Item Start -->
+                      <div class="gallery-item select1">
+                        <div class="thumb">
+                          <img class="img-fullwidth" src="images/event/newimages/Veritas_University.Chapel.jpg" alt="project">
+                          <div class="overlay-shade"></div>
+                          <div class="icons-holder">
+                            <div class="icons-holder-inner">
+                              <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
+                                <a data-lightbox="image" href="images/event/newimages/Veritas_University.Chapel.jpg"><i class="fa fa-plus"></i></a>
+                                <a href="#"><i class="fa fa-link"></i></a>
+                              </div>
+                            </div>
+                          </div>
+                          <a class="hover-link" data-lightbox="image" href="#">View more</a>
+                        </div>
+                      </div>
+                      <!-- Portfolio Item End -->
+                      <!-- Portfolio Item Start -->
+                      <div class="gallery-item select1">
+                        <div class="thumb">
+                          <img class="img-fullwidth" src="images/event/newimages/Veritas_University.Chapel.jpg" alt="project">
+                          <div class="overlay-shade"></div>
+                          <div class="icons-holder">
+                            <div class="icons-holder-inner">
+                              <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
+                                <a data-lightbox="image" href="images/event/newimages/Veritas_University.Chapel.jpg"><i class="fa fa-plus"></i></a>
+                                <a href="#"><i class="fa fa-link"></i></a>
+                              </div>
+                            </div>
+                          </div>
+                          <a class="hover-link" data-lightbox="image" href="#">View more</a>
+                        </div>
+                      </div>
+                      <!-- Portfolio Item End -->
+                      <!-- Portfolio Item Start -->
+                      <div class="gallery-item select2">
+                        <div class="thumb">
+                          <img class="img-fullwidth" src="images/event/newimages/b-ball.jpg" alt="project">
+                          <div class="overlay-shade"></div>
+                          <div class="icons-holder">
+                            <div class="icons-holder-inner">
+                              <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
+                                <a data-lightbox="image" href="images/event/newimages/b-ball.jpg"><i class="fa fa-plus"></i></a>
+                                <a href="#"><i class="fa fa-link"></i></a>
+                              </div>
+                            </div>
+                          </div>
+                          <a class="hover-link" data-lightbox="image" href="#">View more</a>
+                        </div>
+                      </div>
+                      <!-- Portfolio Item End -->
+                      <!-- Portfolio Item Start -->
+                      <div class="gallery-item select2">
+                        <div class="thumb">
+                          <img class="img-fullwidth" src="images/event/newimages/Veritas_University.Basketball_Court.jpg" alt="project">
+                          <div class="overlay-shade"></div>
+                          <div class="icons-holder">
+                            <div class="icons-holder-inner">
+                              <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
+                                <a data-lightbox="image" href="images/event/newimages/b-ball.jpg"><i class="fa fa-plus"></i></a>
+                                <a href="#"><i class="fa fa-link"></i></a>
+                              </div>
+                            </div>
+                          </div>
+                          <a class="hover-link" data-lightbox="image" href="#">View more</a>
+                        </div>
+                      </div>
+                      <!-- Portfolio Item End -->
+                      <!-- Portfolio Item Start -->
+                      <div class="gallery-item select2">
+                        <div class="thumb">
+                          <img class="img-fullwidth" src="images/event/newimages/volleyball.jpg" alt="project">
+                          <div class="overlay-shade"></div>
+                          <div class="icons-holder">
+                            <div class="icons-holder-inner">
+                              <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
+                                <a data-lightbox="image" href="images/event/newimages/volleyball.jpg"><i class="fa fa-plus"></i></a>
+                                <a href="#"><i class="fa fa-link"></i></a>
+                              </div>
+                            </div>
+                          </div>
+                          <a class="hover-link" data-lightbox="image" href="#">View more</a>
+                        </div>
+                      </div>
+                      <!-- Portfolio Item End -->
+                      <!-- Portfolio Item Start -->
+                      <div class="gallery-item select2">
+                        <div class="thumb">
+                          <img class="img-fullwidth" src="images/event/newimages/basketball.jpg" alt="project">
+                          <div class="overlay-shade"></div>
+                          <div class="icons-holder">
+                            <div class="icons-holder-inner">
+                              <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
+                                <a data-lightbox="image" href="images/event/newimages/basketball.jpg"><i class="fa fa-plus"></i></a>
+                                <a href="#"><i class="fa fa-link"></i></a>
+                              </div>
+                            </div>
+                          </div>
+                          <a class="hover-link" data-lightbox="image" href="#">View more</a>
+                        </div>
+                      </div>
+                      <!-- Portfolio Item End -->
+
+                      <!-- Portfolio Item Start -->
+                      <div class="gallery-item select3">
+                        <div class="thumb">
+                          <img class="img-fullwidth" src="images/event/newimages/Veritas_University.Cafeteria_3.jpg" alt="project">
+                          <div class="overlay-shade"></div>
+                          <div class="icons-holder">
+                            <div class="icons-holder-inner">
+                              <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
+                                <a data-lightbox="image" href="images/event/newimages/Veritas_University.Chapel.jpg"><i class="fa fa-plus"></i></a>
+                                <a href="#"><i class="fa fa-link"></i></a>
+                              </div>
+                            </div>
+                          </div>
+                          <a class="hover-link" data-lightbox="image" href="#">View more</a>
+                        </div>
+                      </div>
+                      <!-- Portfolio Item Start -->
+                      <!-- Portfolio Item Start -->
+                      <div class="gallery-item select3">
+                        <div class="thumb">
+                          <img class="img-fullwidth" src="images/event/newimages/Veritas_University.Cafeteria_3.jpg" alt="project">
+                          <div class="overlay-shade"></div>
+                          <div class="icons-holder">
+                            <div class="icons-holder-inner">
+                              <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
+                                <a data-lightbox="image" href="images/event/newimages/Veritas_University.Chapel.jpg"><i class="fa fa-plus"></i></a>
+                                <a href="#"><i class="fa fa-link"></i></a>
+                              </div>
+                            </div>
+                          </div>
+                          <a class="hover-link" data-lightbox="image" href="#">View more</a>
+                        </div>
+                      </div>
+                      <!-- Portfolio Item Start -->
+                      <!-- Portfolio Item Start -->
+                      <div class="gallery-item select3">
+                        <div class="thumb">
+                          <img class="img-fullwidth" src="images/event/newimages/Veritas_University.Cafeteria_3.jpg" alt="project">
+                          <div class="overlay-shade"></div>
+                          <div class="icons-holder">
+                            <div class="icons-holder-inner">
+                              <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
+                                <a data-lightbox="image" href="images/event/newimages/Veritas_University.Chapel.jpg"><i class="fa fa-plus"></i></a>
+                                <a href="#"><i class="fa fa-link"></i></a>
+                              </div>
+                            </div>
+                          </div>
+                          <a class="hover-link" data-lightbox="image" href="#">View more</a>
+                        </div>
+                      </div>
+                      <!-- Portfolio Item Start -->
+                      <!-- Portfolio Item Start -->
+                      <div class="gallery-item select3">
+                        <div class="thumb">
+                          <img class="img-fullwidth" src="images/event/newimages/Veritas_University.Cafeteria_3.jpg" alt="project">
+                          <div class="overlay-shade"></div>
+                          <div class="icons-holder">
+                            <div class="icons-holder-inner">
+                              <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
+                                <a data-lightbox="image" href="images/event/newimages/Veritas_University.Chapel.jpg"><i class="fa fa-plus"></i></a>
+                                <a href="#"><i class="fa fa-link"></i></a>
+                              </div>
+                            </div>
+                          </div>
+                          <a class="hover-link" data-lightbox="image" href="#">View more</a>
+                        </div>
+                      </div>
+                      <!-- Portfolio Item Start -->
+                      <div class="gallery-item select4">
+                        <div class="thumb">
+                          <img class="img-fullwidth" src="images/event/newimages/7.jpg" alt="project">
+                          <div class="overlay-shade"></div>
+                          <div class="icons-holder">
+                            <div class="icons-holder-inner">
+                              <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
+                                <a data-lightbox="image" href="images/event/newimages/7.jpg"><i class="fa fa-plus"></i></a>
+                                <a href="#"><i class="fa fa-link"></i></a>
+                              </div>
+                            </div>
+                          </div>
+                          <a class="hover-link" data-lightbox="image" href="#">View more</a>
+                        </div>
+                      </div>
+                      <!-- Portfolio Item End -->
+                      <!-- Portfolio Item Start -->
+                      <div class="gallery-item select4">
+                        <div class="thumb">
+                          <img class="img-fullwidth" src="images/event/newimages/5.JPG" alt="project">
+                          <div class="overlay-shade"></div>
+                          <div class="icons-holder">
+                            <div class="icons-holder-inner">
+                              <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
+                                <a data-lightbox="image" href="images/event/newimages/5.JPG"><i class="fa fa-plus"></i></a>
+                                <a href="#"><i class="fa fa-link"></i></a>
+                              </div>
+                            </div>
+                          </div>
+                          <a class="hover-link" data-lightbox="image" href="#">View more</a>
+                        </div>
+                      </div>
+                      <!-- Portfolio Item End -->
+                      <!-- Portfolio Item Start -->
+                      <div class="gallery-item select4">
+                        <div class="thumb">
+                          <img class="img-fullwidth" src="images/event/newimages/6.JPG" alt="project">
+                          <div class="overlay-shade"></div>
+                          <div class="icons-holder">
+                            <div class="icons-holder-inner">
+                              <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
+                                <a data-lightbox="image" href="images/event/newimages/6.JPG"><i class="fa fa-plus"></i></a>
+                                <a href="#"><i class="fa fa-link"></i></a>
+                              </div>
+                            </div>
+                          </div>
+                          <a class="hover-link" data-lightbox="image" href="images/gallery/7.jpg">View more</a>
+                        </div>
+                      </div>
+                      <!-- Portfolio Item End -->
+                      <!-- Portfolio Item Start -->
+                      <div class="gallery-item select4">
+                        <div class="thumb">
+                          <img class="img-fullwidth" src="images/event/newimages/4.JPG" alt="project">
+                          <div class="overlay-shade"></div>
+                          <div class="icons-holder">
+                            <div class="icons-holder-inner">
+                              <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
+                                <a data-lightbox="image" href="images/event/newimages/4.JPG"><i class="fa fa-plus"></i></a>
+                                <a href="#"><i class="fa fa-link"></i></a>
+                              </div>
+                            </div>
+                          </div>
+                          <a class="hover-link" data-lightbox="image" href="images/gallery/7.jpg">View more</a>
+                        </div>
+                      </div>
+                      <!-- Portfolio Item End -->
+                    </div>
+                    <!-- End Portfolio Gallery Grid -->
+                  </div>
+                </div>
+              </div>
+            </div >
+          </section>
+          <section class="mt-10 bg-color-white">
+                  <div class="container ">
+                      <div class="section-title mb-5">
+                          <div class="row">
+                            <div class="col-xs-12 col-sm-12 col-md-12">
+                              <div><h2 class="mt-0 font-28 line-bottom line-height-1">Clubs & Activities</h2></div>
+                              <div></div>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="col-md-12">
+                          <div class="row">
+                            <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 col-xl-4">
+                              <article class="post clearfix mb-30 pb-30 shodow5">
+                                <div class="entry-header">
+                                  <div class="post-thumb thumb"> 
+                                    <img src="images/event/lesspre1.jpg" alt="" class="img-responsive img-fullwidth"> 
+                                  </div>
+                                </div>
+                                <div class="entry-content border-1px p-20 pr-10">
+                                  <div class="entry-meta media mt-0 no-bg no-border">
+                                    <div class="entry-date media-left text-center flip bg-theme-colored pt-5 pr-15 pb-5 pl-15">
+                                      <ul>
+                                        <li class="font-16 text-white font-weight-600">28</li>
+                                        <li class="font-12 text-white text-uppercase">Dec</li>
+                                      </ul>
+                                    </div>
+                                    <div class="media-body pl-15">
+                                      <div class="event-content pull-left flip">
+                                        <h5 class="entry-title text-white text-uppercase m-0 mt-5 ovaflow text-format">
+                                          <a href="newsview.php">Visting the less previlage home for support by Veritas Students</a>
+                                        </h5>
+                                        <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-commenting-o mr-5 text-theme-colored"></i> 214 Comments</span>                       
+                                        <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-heart-o mr-5 text-theme-colored"></i> 895 Likes</span>
+                                      </div>
+                                    </div>
+                                  </div>
+                                  <a href="newsview.php" class="btn-read-more">Read more</a>
+                                  <div class="clearfix"></div>
+                                </div>
+                              </article>
+                            </div>
+                            <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 col-xl-4">
+                              <article class="post clearfix mb-30 pb-30 shodow5">
+                                <div class="entry-header">
+                                  <div class="post-thumb thumb"> 
+                                    <img src="images/event/girlchild1.jpg" alt="" class="img-responsive img-fullwidth"> 
+                                  </div>
+                                </div>
+                                <div class="entry-content border-1px p-20 pr-10">
+                                  <div class="entry-meta media mt-0 no-bg no-border">
+                                    <div class="entry-date media-left text-center flip bg-theme-colored pt-5 pr-15 pb-5 pl-15">
+                                      <ul>
+                                        <li class="font-16 text-white font-weight-600">28</li>
+                                        <li class="font-12 text-white text-uppercase">Feb</li>
+                                      </ul>
+                                    </div>
+                                    <div class="media-body pl-15">
+                                      <div class="event-content pull-left flip">
+                                        <h5 class="entry-title text-white text-uppercase m-0 mt-5 ovaflow text-format">
+                                          <a href="newsview.php">Welfare Event of Educating the female child and gender equality</a>
+                                        </h5>
+                                        <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-commenting-o mr-5 text-theme-colored"></i> 214 Comments</span>                       
+                                        <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-heart-o mr-5 text-theme-colored"></i> 895 Likes</span>
+                                      </div>
+                                    </div>
+                                  </div>
+                                  <a href="newsview.php" class="btn-read-more">Read more</a>
+                                  <div class="clearfix"></div>
+                                </div>
+                              </article>
+                            </div>
+                            <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 col-xl-4">
+                              <article class="post clearfix mb-30 pb-30 shodow5">
+                                <div class="entry-header">
+                                  <div class="post-thumb thumb"> 
+                                    <img src="images/event/girlchild1.jpg" alt="" class="img-responsive img-fullwidth"> 
+                                  </div>
+                                </div>
+                                <div class="entry-content border-1px p-20 pr-10">
+                                  <div class="entry-meta media mt-0 no-bg no-border">
+                                    <div class="entry-date media-left text-center flip bg-theme-colored pt-5 pr-15 pb-5 pl-15">
+                                      <ul>
+                                        <li class="font-16 text-white font-weight-600">28</li>
+                                        <li class="font-12 text-white text-uppercase">Feb</li>
+                                      </ul>
+                                    </div>
+                                    <div class="media-body pl-15">
+                                      <div class="event-content pull-left flip">
+                                        <h5 class="entry-title text-white text-uppercase m-0 mt-5 ovaflow text-format">
+                                          <a href="newsview.php">Welfare Event of Educating the female child and gender equality</a>
+                                        </h5>
+                                        <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-commenting-o mr-5 text-theme-colored"></i> 214 Comments</span>                       
+                                        <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-heart-o mr-5 text-theme-colored"></i> 895 Likes</span>
+                                      </div>
+                                    </div>
+                                  </div>
+                                  <a href="newsview.php" class="btn-read-more">Read more</a>
+                                  <div class="clearfix"></div>
+                                </div>
+                              </article>
+                            </div>
+                          </div><!--------veritas news ends here---->
+                        </div><!--Event center starts here-->
+                        <!--right advert starts here starts here-->
+                        </div>
+                    </div>
+              </section>
     </div><!-- end main-content semi-final -->
   </div><!-- end main-content final -->
   <!-- Footer -->

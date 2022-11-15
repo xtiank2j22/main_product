@@ -78,9 +78,9 @@
               <div class="col-md-6">
                 <div class="widget no-border m-0">
                   <ul class="list-inline font-13 sm-text-center mt-5">
-                    <li ><strong><a href="faq.html" class="post-thumb  text-white mr-5">FAQ</a></span></strong>
+                    <li ><strong><a href="faq.php" class="post-thumb  text-white mr-5">FAQ</a></span></strong>
                     <li ><strong><span class="text-white">|</span></strong></li>
-                    <li ><strong><a href="research.html" class="post-thumb  text-white mr-5">Office of Research</a></span></strong></li>
+                    <li ><strong><a href="research.php" class="post-thumb  text-white mr-5">Office of Research</a></span></strong></li>
                   </ul>
                 </div>
               </div>
@@ -94,13 +94,13 @@
                         <a class="has-dropdown text-white text-hover-theme-colored hvr-grow-shadow"> <i class="fa fa-external-link font-13"></i> Popular Pages</a>
                         <div class="dropdown">
                           <div class="list-group ml-15 mr-10">
-                            <a href="alumni.html" class="list-group-item btn-block hvr-grow"><i class="fa fa-list-ul"></i> Alumni</a>
-                            <a href="admission.html" class="list-group-item btn-block hvr-grow"><i class="fa fa-magic"></i> admission</a>
-                            <a href="bursar.html" class="list-group-item btn-block hvr-grow"><i class="fa fa-link"></i> bursary</a>
-                            <a href="campus-life.html" class="list-group-item btn-block hvr-grow"><i class="fa fa-flag-o"></i> life on Campus</a>
-                            <a href="list-of-faculties.html" class="list-group-item btn-block hvr-grow"><i class="fa fa-external-link"></i> Faculty</a>
-                            <a href="list-of-department.html" class="list-group-item btn-block hvr-grow"><i class="fa fa-calendar"></i> Departments</a>
-                            <a href="hostel.html" class="list-group-item btn-block hvr-grow"><i class="fa fa-calendar"></i> Accommodation</a>
+                            <a href="alumni.php" class="list-group-item btn-block hvr-grow"><i class="fa fa-list-ul"></i> Alumni</a>
+                            <a href="admission.php" class="list-group-item btn-block hvr-grow"><i class="fa fa-magic"></i> admission</a>
+                            <a href="bursar.php" class="list-group-item btn-block hvr-grow"><i class="fa fa-link"></i> bursary</a>
+                            <a href="campus-life.php" class="list-group-item btn-block hvr-grow"><i class="fa fa-flag-o"></i> life on Campus</a>
+                            <a href="list-of-faculties.php" class="list-group-item btn-block hvr-grow"><i class="fa fa-external-link"></i> Faculty</a>
+                            <a href="list-of-department.php" class="list-group-item btn-block hvr-grow"><i class="fa fa-calendar"></i> Departments</a>
+                            <a href="hostel.php" class="list-group-item btn-block hvr-grow"><i class="fa fa-calendar"></i> Accommodation</a>
                           </div>
                         </div>
                       </div>
@@ -136,7 +136,7 @@
                   <ul class="list-inline">
                     <li><i class="fa fa-clock-o text-theme-colored font-36 mt-8 sm-display-block"></i></li>
                     <li>
-                      <a href="contact.html" class="font-12 text-gray text-uppercase">Email Us Now!</a>
+                      <a href="contact.php" class="font-12 text-gray text-uppercase">Email Us Now!</a>
                       <h5 class="font-13 text-black m-0"> dsealumni@veritas.edu.ng</h5>
                     </li>
                   </ul>
@@ -158,28 +158,28 @@
           <div class="container">
             <nav id="menuzord" class="menuzord bg-theme-colored pull-left flip menuzord-responsive">
               <ul class="menuzord-menu">
-                <li class="active"><a class="border-left-theme-color-2-4px" href="homeindex.html">Home</a>
+                <li class="active"><a class="border-left-theme-color-2-4px" href="homeindex.php">Home</a>
                 </li>
-                <li><a href="research.html">Research Facilities</a>
+                <li><a href="research.php">Research Facilities</a>
                 </li>
-                <li><a href="research-podcast.html">Our Journals</a>
+                <li><a href="research-podcast.php">Our Journals</a>
                   <ul class="dropdown mt-0">
-                    <li class="li-navs hvr-wobble-to-top-right"> <a href="under-construction.html"><i class="fa fa-database"> </i> Veritas Journal of Humanities</a></li>
+                    <li class="li-navs hvr-wobble-to-top-right"> <a href="under-construction.php"><i class="fa fa-database"> </i> Veritas Journal of Humanities</a></li>
                   </ul>
                 </li>
-                <li><a href="research-event-detail.html">Research Jobs</a>
+                <li><a href="research-event-detail.php">Research Jobs</a>
                 </li>
-                <li><a href="research-event-detail.html">Impact</a>
+                <li><a href="research-event-detail.php">Impact</a>
                 </li>
-                <li><a href="research-event-detail.html">Research Support</a>
+                <li><a href="research-event-detail.php">Research Support</a>
                 </li>
-                <li><a href="research-event-detail.html">Collaboration</a>
+                <li><a href="research-event-detail.php">Collaboration</a>
                 </li>
               </ul>
               <ul class="pull-right flip hidden-sm hidden-xs">
                 <li>
                   <!-- Modal: Book Now Starts -->
-                  <a class="btn btn-theme-color-2 font-20 text-navy bs-modal-ajax-load" data-toggle="modal" data-target="#BSParentModal" href="admission.html">Apply <span class="ecam text-green text-bolder">Now </span></a>
+                  <a class="btn btn-theme-color-2 font-20 text-navy bs-modal-ajax-load" data-toggle="modal" data-target="#BSParentModal" href="admission.php">Apply <span class="ecam text-green text-bolder">Now </span></a>
 
                   <!-- Modal: Book Now End -->
                 </li>
@@ -210,7 +210,7 @@
               <div class="col-md-12">
                 <h2 class="title text-white">Paypal Recurring Donation</h2>
                 <ol class="breadcrumb text-left text-black mt-10">
-                  <li><a href="homeindex.html">Home</a></li>
+                  <li><a href="homeindex.php">Home</a></li>
                   <li><a href="#">Pages</a></li>
                 </ol>
               </div>
@@ -321,8 +321,8 @@
                       <input type="hidden" name="no_note" value="1">                 
                       <input type="hidden" name="lc" value="US">
                       <input type="hidden" name="bn" value="PP-DonationsBF">
-                      <input type="hidden" name="return" value="http://www.yoursite.com/thankyou.html">
-                      <input type="hidden" name="cancel_return" value="http://www.yoursite.com/paymentcancel.html">
+                      <input type="hidden" name="return" value="http://www.yoursite.com/thankyou.php">
+                      <input type="hidden" name="cancel_return" value="http://www.yoursite.com/paymentcancel.php">
                       <input type="hidden" name="notify_url" value="http://www.yoursite.com/notifypayment.php">                
                       <input type="image" src="../../../../../www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online!">
                       <img alt="" src="../../../../../www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
@@ -421,8 +421,8 @@
                 <input type="hidden" name="tax" value="0">
                 <input type="hidden" name="lc" value="US">
                 <input type="hidden" name="bn" value="PP-DonationsBF">
-                <input type="hidden" name="return" value="http://www.yoursite.com/thankyou.html">
-                <input type="hidden" name="cancel_return" value="http://www.yoursite.com/paymentcancel.html">
+                <input type="hidden" name="return" value="http://www.yoursite.com/thankyou.php">
+                <input type="hidden" name="cancel_return" value="http://www.yoursite.com/paymentcancel.php">
                 <input type="hidden" name="notify_url" value="http://www.yoursite.com/notifypayment.php">              
                 <input type="image" src="www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online!">
                 <img alt="" src="www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">

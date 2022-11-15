@@ -92,7 +92,7 @@
                 </li>
                 <li><a href="coming-soon.php">Our Journals</a>
                   <ul class="dropdown mt-0">
-                    <li class="li-navs hvr-wobble-to-top-right"> <a href="under-construction.html"><i class="fa fa-database"> </i> Veritas Journal of Humanities</a></li>
+                    <li class="li-navs hvr-wobble-to-top-right"> <a href="under-construction.php"><i class="fa fa-database"> </i> Veritas Journal of Humanities</a></li>
                   </ul>
                 </li>
                 <li><a href="coming-soon.php">Research Jobs</a>

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html dir="ltr" lang="en">
 
-<!-- Mirrored from kodesolution.com/html/2016/studypress-html/demo/page-teachers-details.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jul 2022 15:08:33 GMT -->
+<!-- Mirrored from kodesolution.com/html/2016/studypress-html/demo/page-teachers-details.php by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jul 2022 15:08:33 GMT -->
 <head>
 
 <!-- Meta Tags -->
@@ -63,7 +63,7 @@
           <div class="col-md-12">
             <h2 class="title text-white">Vice Chancellor</h2>
             <ol class="breadcrumb text-left text-black mt-10">
-              <li><a href="homeindex.html">Home</a></li>
+              <li><a href="homeindex.php">Home</a></li>
               <li><a href="#">Pages</a></li>
               <li class="active text-gray-silver">PROF. ICHOKU, HYACINTH</li>
             </ol>
@@ -79,7 +79,7 @@
         <div class="col-md-12 bg-color-white mt-0">
           <nav id="menuzord" class="menuzord  pull-left flip menuzord-responsive">
             <ul class="menuzord-menu ">
-              <li class="active"><a href="homeindex.html">Home</a></li>
+              <li class="active"><a href="homeindex.php">Home</a></li>
               <li class="active"><a href="" class="text-black">About</a></li>
               <li class="active"><a href="#">Courses</a></li>
               <li class="active"><a href="#">Staffs</a></li>
@@ -206,5 +206,5 @@
 
 </body>
 
-<!-- Mirrored from kodesolution.com/html/2016/studypress-html/demo/page-teachers-details.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jul 2022 15:08:33 GMT -->
+<!-- Mirrored from kodesolution.com/html/2016/studypress-html/demo/page-teachers-details.php by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jul 2022 15:08:33 GMT -->
 </html>

@@ -164,9 +164,8 @@
                         </div>
                       </div>
                   </section><!--------event all status ends here------->
-                 
                 <!-- Section: blog news section-->
-                <section>
+          <section>
             <div class="container pt-20 pb-20 bg-color-white">
               <div class="row">
                 <div class="col-md-3">
@@ -193,7 +192,7 @@
                         <div class="col-xs-12 col-sm-12 col-md-12 cardi">
                         <img class="pull-left flip pr-20 adimg" width="100%" src="images/siwes/images/newimages/intro.jpg" alt="">
                             <p  class="text-justify text-format text-bolder">
-                            SIWES stands for Students Industrial Work Experience Scheme. It is the accepted skills training program, which forms part of the approved minimum Academic standards in the various degree program for all Nigerian tertiary Universities (N.U.C 1996). SIWES goes a long way inputting to test the level  of   knowledge a student has acquired during   the industrial trainingprogram.</p>
+                              SIWES stands for Students Industrial Work Experience Scheme. It is the accepted skills training program, which forms part of the approved minimum Academic standards in the various degree program for all Nigerian tertiary Universities (N.U.C 1996). SIWES goes a long way inputting to test the level  of   knowledge a student has acquired during   the industrial trainingprogram.</p>
                             <p class="text-justify text-format text-bolder"> It   is   an   effort   to   bridge   the   gap   existing   between   theory   and   other   practice   of architecture, engineering and technology, sciences, agriculture and other professional educational programs in the Nigerian tertiary institutions. It is aimed at exposing students to machines and equipment and professional work methods in industries and other organizations.</p>
                             <p class="text-justify text-format text-bolder">  scheme   is  a   tripartite   program,   involving   the  students,   the   universities   and   the industries (employers of labor). It affords students the opportunity to familiarize and expose themselves to the knowledge and experience needed in handling equipment that is not readily available   in   their   various   institutions.   Before   the   establishment   of   this   scheme,   employers believed that the theoretical education in tertiary institutions were not adequate enough to meet most of the needs of employers of labor.
                             </p>
@@ -448,8 +447,8 @@
                                   form_btn.before(
                                     '<div id="form-result" class="alert alert-success" role="alert" style="display: none;"></div>'
                                   )
-                                  var form_btn_old_msg = form_btn.html()
-                                  form_btn.html(
+                                  var form_btn_old_msg = form_btn.php()
+                                  form_btn.php(
                                     form_btn.prop('disabled', true).data('loading-text')
                                   )
                                   $(form).ajaxSubmit({
@@ -460,8 +459,8 @@
                                       }
                                       form_btn
                                         .prop('disabled', false)
-                                        .html(form_btn_old_msg)
-                                      $(form_result_div).html(data.message).fadeIn('slow')
+                                        .php(form_btn_old_msg)
+                                      $(form_result_div).php(data.message).fadeIn('slow')
                                       setTimeout(function () {
                                         $(form_result_div).fadeOut('slow')
                                       }, 6000)

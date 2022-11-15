@@ -81,15 +81,15 @@
               </div>
               <div class="widget no-border m-0 mr-15 pull-right flip sm-pull-none sm-text-center">
                 <ul class="list-inline font-13 sm-text-center mt-5">
-                  <li ><strong><a href="dse-studenthome.html" class="post-thumb  text-white mr-5">Student</a></strong></li>
+                  <li ><strong><a href="dse-studenthome.php" class="post-thumb  text-white mr-5">Student</a></strong></li>
                   <li ><strong><span class="text-white">|</span></strong></li>
-                  <li ><strong><a href="dse-parenthome.html" class="post-thumb  text-white mr-5">Parents</a></strong></li>
+                  <li ><strong><a href="dse-parenthome.php" class="post-thumb  text-white mr-5">Parents</a></strong></li>
                   <li ><strong><span  class="text-white">|</span></strong></li>
-                  <li ><strong><a href="dse-staffhome.html" class="post-thumb  text-white mr-5">Staff</a></strong></li>
+                  <li ><strong><a href="dse-staffhome.php" class="post-thumb  text-white mr-5">Staff</a></strong></li>
                   <li ><strong><span  class="text-white">|</span></strong></li>
-                  <li ><strong><a href="dse-nacoshome.html" class="post-thumb  text-white mr-5">NACOS</a></strong></li>
+                  <li ><strong><a href="dse-nacoshome.php" class="post-thumb  text-white mr-5">NACOS</a></strong></li>
                   <li ><strong><span  class="text-white">|</span></strong></li>
-                  <li ><strong><a href="dse-alumnihome.html" class="post-thumb  text-white mr-5">Alumni</a></strong></li>
+                  <li ><strong><a href="dse-alumnihome.php" class="post-thumb  text-white mr-5">Alumni</a></strong></li>
                 </ul>
               </div>
             </div>
@@ -150,8 +150,8 @@
                             <h4 class="mt-0 mb-5"><a class="text-theme-colored font-14 font-weight-600" href="staffs.php">Staff</a></h4>
                             <p> 
                               <small>
-                                <a class="text-dark-lightgray font-10 font-weight-600" href="dseteachingstaff.html"> → Academic Staff (Visiting staff & Scholars)</a><br/>
-                                <a class="text-dark-lightgray font-10 font-weight-600" href="dsesupportingstaff.html"> → Non-Academic Staff, (Administrative & Technical staff)</a>
+                                <a class="text-dark-lightgray font-10 font-weight-600" href="dseteachingstaff.php"> → Academic Staff (Visiting staff & Scholars)</a><br/>
+                                <a class="text-dark-lightgray font-10 font-weight-600" href="dsesupportingstaff.php"> → Non-Academic Staff, (Administrative & Technical staff)</a>
                               </small>
                             </p>
                           </div>
@@ -167,8 +167,8 @@
                           <div class="ml-100 "><a class="text-theme-colored font-14 font-weight-600" href="#">Students</a></h4>
                             <p> 
                               <small>
-                                <a class="text-dark-lightgray font-10 font-weight-600" href="dseugstudents.html"> → Undergraduate (Future / Returning Students)</a><br/>
-                                <a class="text-dark-lightgray font-10 font-weight-600" href="dsepgstudents.html"> → Post Graduate (Future / Returning Students)</a>
+                                <a class="text-dark-lightgray font-10 font-weight-600" href="dseugstudents.php"> → Undergraduate (Future / Returning Students)</a><br/>
+                                <a class="text-dark-lightgray font-10 font-weight-600" href="dsepgstudents.php"> → Post Graduate (Future / Returning Students)</a>
                               </small>
                             </p>
                           </div>
@@ -192,8 +192,8 @@
                               <h4 class="mt-0 mb-5"><a class="text-theme-colored font-14 font-weight-600" href="#"> Teaching  (Lecturers)</a></h4>
                               <p> 
                                 <small>
-                                  <a class="text-theme-colored  font-10 font-weight-600" href="dseteachingresources.html"> → Teaching /Mentorship, /Advising /Supervision </a><br/>
-                                  <a class="text-theme-colored  font-10 font-weight-600" href="dseandteaching.html"> → Assessment, Quality Assurance /Talent Dev't  <!-- Resources --></a> 
+                                  <a class="text-theme-colored  font-10 font-weight-600" href="dseteachingresources.php"> → Teaching /Mentorship, /Advising /Supervision </a><br/>
+                                  <a class="text-theme-colored  font-10 font-weight-600" href="dseandteaching.php"> → Assessment, Quality Assurance /Talent Dev't  <!-- Resources --></a> 
                                 </small> 
                               </p>
                             </div>
@@ -210,8 +210,8 @@
                               <h4 class="mt-0 mb-5"><a class="text-theme-colored font-14 font-weight-600" href="#">Learning (Students)</a></h4>
                               <p>
                                 <small>
-                                  <a class="text-theme-colored font-10 font-weight-600" href="dselearningresources.html"> → Study/Assessment Guide, Timetable, Syllabus</a><br />
-                                  <a class="text-theme-colored font-10 font-weight-600" href="dseskillset.html"> → Learning & Talent Dev't, Resources, QA.</a>
+                                  <a class="text-theme-colored font-10 font-weight-600" href="dselearningresources.php"> → Study/Assessment Guide, Timetable, Syllabus</a><br />
+                                  <a class="text-theme-colored font-10 font-weight-600" href="dseskillset.php"> → Learning & Talent Dev't, Resources, QA.</a>
                                 </small>
                               </p>
                             </div>
@@ -228,8 +228,8 @@
                               <h4 class="mt-0 mb-5"><a class="text-theme-colored font-14 font-weight-600" href="#">Internship</a></h4>
                               <p>
                                 <small>
-                                  <a class="text-theme-colored font-10 font-weight-600" href="dseintership.html"> →  Goals & Expectations of Internship.</a><br />
-                                  <a class="text-theme-colored font-10 font-weight-600" href="dseinternshipexperience.html"> →  Internship Report Writing, Experience.</a>
+                                  <a class="text-theme-colored font-10 font-weight-600" href="dseintership.php"> →  Goals & Expectations of Internship.</a><br />
+                                  <a class="text-theme-colored font-10 font-weight-600" href="dseinternshipexperience.php"> →  Internship Report Writing, Experience.</a>
                                 </small>
                               </p>
                             </div>
@@ -248,8 +248,8 @@
                               <h4 class="mt-0 mb-5"><a class="text-theme-colored font-14 font-weight-600" href="#">SIWES</a></h4>
                               <p>
                                 <small>
-                                  <a class="text-theme-colored font-10 font-weight-600" href="dsesiwes.html"> →  Goals & Expectations of SIWES. </a><br />
-                                  <a class="text-theme-colored font-10 font-weight-600" href="siwesexperience.html"> →  SIWES Report Writing, Experience</a>
+                                  <a class="text-theme-colored font-10 font-weight-600" href="dsesiwes.php"> →  Goals & Expectations of SIWES. </a><br />
+                                  <a class="text-theme-colored font-10 font-weight-600" href="siwesexperience.php"> →  SIWES Report Writing, Experience</a>
                                 </small>
                               </p>
                             </div>
@@ -266,8 +266,8 @@
                               <h4 class="mt-0 mb-5"><a class="text-theme-colored font-13 font-weight-600" href="#">Practicum</a></h4>
                               <p>
                                 <small>
-                                  <a class="text-theme-colored font-10 font-weight-600" href="dsepracticumexpectations.html"> →  Goals & Expectations of Practicum. </a><br />
-                                  <a class="text-theme-colored font-10 font-weight-600" href="practicumexperience.html"> →  Practicum Reporting, Experience</a>
+                                  <a class="text-theme-colored font-10 font-weight-600" href="dsepracticumexpectations.php"> →  Goals & Expectations of Practicum. </a><br />
+                                  <a class="text-theme-colored font-10 font-weight-600" href="practicumexperience.php"> →  Practicum Reporting, Experience</a>
                                 </small>
                               </p>
                             </div>
@@ -284,8 +284,8 @@
                               <h4 class="mt-0 mb-5"><a class="text-theme-colored font-14 font-weight-600" href="#">Lab Work</a></h4>
                               <p>
                                 <small>
-                                  <a class="text-theme-colored font-10 font-weight-600" href="computinglabrulesregulations.html"> →  Goals & Expectations of Lab. </a><br />
-                                  <a class="text-theme-colored font-10 font-weight-600" href="computinglabresources.html"> →  Laboratory Reporting, Experience </a>
+                                  <a class="text-theme-colored font-10 font-weight-600" href="computinglabrulesregulations.php"> →  Goals & Expectations of Lab. </a><br />
+                                  <a class="text-theme-colored font-10 font-weight-600" href="computinglabresources.php"> →  Laboratory Reporting, Experience </a>
                                 </small>
                               </p>
                             </div>
@@ -310,8 +310,8 @@
                               <h4 class="mt-0 mb-5"><a class="text-theme-colored font-14 font-weight-600" href="#">UG Project Listing</a></h4>
                               <p> 
                                 <small>
-                                  <a class="text-theme-colored font-10 font-weight-600" href="dseprojectlisting.html"> →  Adopted projects, Student projects (Apply)</a><br />
-                                  <a class="text-theme-colored font-10 font-weight-600" href="dseresearchresources.html"> →  Project Guidelines/Template, </a>
+                                  <a class="text-theme-colored font-10 font-weight-600" href="dseprojectlisting.php"> →  Adopted projects, Student projects (Apply)</a><br />
+                                  <a class="text-theme-colored font-10 font-weight-600" href="dseresearchresources.php"> →  Project Guidelines/Template, </a>
                                 </small>
                               </p>
                             </div>
@@ -328,8 +328,8 @@
                               <h4 class="mt-0 mb-5"><a class="text-theme-colored font-14 font-weight-600" href="#">PG Thesis Listing</a></h4>
                               <p> 
                                 <small>
-                                  <a class="text-theme-colored font-10 font-weight-600" href="dseprojectlisting.html"> →  Adopted projects, Student projects (Apply)</a><br />
-                                  <a class="text-theme-colored font-10 font-weight-600" href="dseresearchresources.html"> →  Project Guidelines/Template,  Research Areas</a>
+                                  <a class="text-theme-colored font-10 font-weight-600" href="dseprojectlisting.php"> →  Adopted projects, Student projects (Apply)</a><br />
+                                  <a class="text-theme-colored font-10 font-weight-600" href="dseresearchresources.php"> →  Project Guidelines/Template,  Research Areas</a>
                                 </small> 
                               </p>
                             </div>
@@ -346,8 +346,8 @@
                               <h4 class="mt-0 mb-5"><a class="text-theme-colored font-14 font-weight-600" href="#">Top Research Showcase</a></h4>
                               <p>
                                 <small>
-                                  <a class="text-theme-colored font-10 font-weight-600" href="dseresearchshowcase.html"> → Forms & Downloads, Ongoig Research </a><br />
-                                  <a class="text-theme-colored font-10 font-weight-600" href="dseresearchinitiatives.html"> → Research Initiatives </a>
+                                  <a class="text-theme-colored font-10 font-weight-600" href="dseresearchshowcase.php"> → Forms & Downloads, Ongoig Research </a><br />
+                                  <a class="text-theme-colored font-10 font-weight-600" href="dseresearchinitiatives.php"> → Research Initiatives </a>
                                 </small>
                               </p>
                             </div>
@@ -366,8 +366,8 @@
                               <h4 class="mt-0 mb-5"><a class="text-theme-colored font-14 font-weight-600" href="#">Research Labs. & Centres</a></h4>
                               <p>
                                 <small>
-                                  <a class="text-theme-colored font-10 font-weight-600" href="computinglab.html"> → Software, Hardware, CBT, & CISCO Labs </a><br />
-                                  <a class="text-theme-colored font-10 font-weight-600" href="researchlab.html"> → Research Centres </a>
+                                  <a class="text-theme-colored font-10 font-weight-600" href="computinglab.php"> → Software, Hardware, CBT, & CISCO Labs </a><br />
+                                  <a class="text-theme-colored font-10 font-weight-600" href="researchlab.php"> → Research Centres </a>
                                 </small>
                               </p>
                             </div>
@@ -384,8 +384,8 @@
                               <h4 class="mt-0 mb-5"><a class="text-theme-colored font-14 font-weight-600" href="#">Journals & Publications</a></h4>
                               <p>
                                 <small>
-                                  <a class="text-theme-colored font-10 font-weight-600" href="dsepeople.html"> → Featured Researchers </a><br />
-                                  <a class="text-theme-colored font-10 font-weight-600" href="dsestrategicplan.html"> → Departmental Strategic Research Plan </a>
+                                  <a class="text-theme-colored font-10 font-weight-600" href="dsepeople.php"> → Featured Researchers </a><br />
+                                  <a class="text-theme-colored font-10 font-weight-600" href="dsestrategicplan.php"> → Departmental Strategic Research Plan </a>
                                 </small>
                               </p>
                             </div>
@@ -402,7 +402,7 @@
                               <h4 class="mt-0 mb-5"><a class="text-theme-colored font-14 font-weight-600" href="#">Industry - University Partnerships</a></h4>
                               <p>
                                 <small>
-                                  <a class="text-theme-colored font-10 font-weight-600" href="dsepartners.html"> → </a><br />
+                                  <a class="text-theme-colored font-10 font-weight-600" href="dsepartners.php"> → </a><br />
                                   <a class="text-theme-colored font-10 font-weight-600" href="#"> → </a>
                                 </small>
                               </p>
@@ -422,7 +422,7 @@
                               <h4 class="mt-0 mb-5"><a class="text-theme-colored font-14 font-weight-600" href="#">Departmental Colloquia</a></h4>
                               <p>
                                 <small>
-                                  <a class="text-theme-colored font-10 font-weight-600" href="dsecolloquia.html"> → Seminars, Webinars, Student's Project Defense</a><br />
+                                  <a class="text-theme-colored font-10 font-weight-600" href="dsecolloquia.php"> → Seminars, Webinars, Student's Project Defense</a><br />
                                   <a class="text-theme-colored font-10 font-weight-600" href="dseresearchnews"> → Latest Research & Innovation News</a>
                                 </small>
                               </p>
@@ -448,7 +448,7 @@
                             <p> 
                               <small>
                                 <a class="text-theme-colored font-10 font-weight-600" href="dsenews"> →  Latest News in Academics, Research, Athletics, Tech, ...</a> <br />
-                                <a class="text-theme-colored font-10 font-weight-600" href="dsenotification.html"> →  Administrative, Faculty & Campus News & Notificatiions <!-- Administrative News, ... --></a> 
+                                <a class="text-theme-colored font-10 font-weight-600" href="dsenotification.php"> →  Administrative, Faculty & Campus News & Notificatiions <!-- Administrative News, ... --></a> 
                               </small>
                             </p>
                           </div>
@@ -465,8 +465,8 @@
                             <h4 class="mt-0 mb-5"><a class="text-theme-colored font-14 font-weight-600" href="#">Events</a></h4>
                             <p> 
                               <small>
-                                <a class="text-theme-colored font-10 font-weight-600" href="dseevents.html">  → Upcoming Departmental Events (Academics, Research, Tech) ... </a> <br />
-                                <a class="text-theme-colored font-10 font-weight-600" href="dseannouncement.html"> →  Announcements, Stay Connected ... </a>
+                                <a class="text-theme-colored font-10 font-weight-600" href="dseevents.php">  → Upcoming Departmental Events (Academics, Research, Tech) ... </a> <br />
+                                <a class="text-theme-colored font-10 font-weight-600" href="dseannouncement.php"> →  Announcements, Stay Connected ... </a>
                                <!--  <div class="connected">
                                   <h4 class="connectedtitle">Stay Connected</h4>
                                   <a href="y" target="_blank" title="Facebook"><img alt="DSE on Facebook" class="social-icon" src="facebook.svg" width="16px" height="16px"/></a> <a href="" target="_blank" title="Twitter"><img alt="DSE on Twitter" class="social-icon" src="/twitter.svg" width="16px" height="16px"/></a> <a href="" target="_blank" title="YouTube"><img alt="DSE on YouTube" class="social-icon" src="" width="16px" height="16px"/></a> <br/><br/>
@@ -496,7 +496,7 @@
                             <h4 class="mt-0 mb-5"><a class="text-theme-colored font-14 font-weight-600" href="#">Computing Books</a></h4>
                             <p> 
                               <small>
-                                <a class="text-theme-colored font-10 font-weight-600" href="dselibrary.html"> → Departmental Library </a>
+                                <a class="text-theme-colored font-10 font-weight-600" href="dselibrary.php"> → Departmental Library </a>
                                 <a class="text-theme-colored font-10 font-weight-600" href="elibrary.veritas.edu.ng"> → Veritas Library </a>
                               </small>
                             </p>
@@ -513,7 +513,7 @@
                           <div class="ml-100 ">
                             <h4 class="mt-0 mb-5"><a class="text-theme-colored font-14 font-weight-600" href="#">Dept. Handbook</a></h4>
                             <p> 
-                              <small><a class="text-theme-colored font-10 font-weight-600" href="dsehandbook.html"> → Departmental Handbook </a></small>
+                              <small><a class="text-theme-colored font-10 font-weight-600" href="dsehandbook.php"> → Departmental Handbook </a></small>
                             </p>
                           </div>
                         </div>
@@ -529,8 +529,8 @@
                             <h4 class="mt-0 mb-5"><a class="text-theme-colored font-14 font-weight-600" href="#">Laboratory Manuals</a></h4>
                             <p>
                               <small>
-                                <a class="text-theme-colored font-10 font-weight-600" href="dselabmanuals.html"> →  Lab. Manual & Instructions</a> <br />
-                                <a class="text-theme-colored font-10 font-weight-600" href="dselabexperience.html"> →  Lab. Experience</a> 
+                                <a class="text-theme-colored font-10 font-weight-600" href="dselabmanuals.php"> →  Lab. Manual & Instructions</a> <br />
+                                <a class="text-theme-colored font-10 font-weight-600" href="dselabexperience.php"> →  Lab. Experience</a> 
                               </small>
                             </p>
                           </div>
@@ -547,8 +547,8 @@
                             <h4 class="mt-0 mb-5"><a class="text-theme-colored font-14 font-weight-600" href="#">Student  Projects</a></h4>
                             <p> 
                               <small>
-                                <a class="text-theme-colored font-10 font-weight-600" href="dseugprojectlisting.html"> →  UG Projects </a> <br/>  
-                                <a class="text-theme-colored font-10 font-weight-600" href="dsepgthesislisting.html"> → Thesis & Disertations</a>
+                                <a class="text-theme-colored font-10 font-weight-600" href="dseugprojectlisting.php"> →  UG Projects </a> <br/>  
+                                <a class="text-theme-colored font-10 font-weight-600" href="dsepgthesislisting.php"> → Thesis & Disertations</a>
                               </small>
                             </p>
                             </p>
@@ -573,8 +573,8 @@
                             <h4 class="mt-0 mb-5"><a class="text-theme-colored font-14 font-weight-600" href="#">Dept. Facilities/Resources</a></h4>
                             <p>
                               <small>
-                                <a class="text-theme-colored font-10 font-weight-600" href="dsefacilities.html"> → field on a mission to improve lives You are a pioneer </a><br />
-                                <a class="text-theme-colored font-10 font-weight-600" href="dsehumanresources.html"> → field on a mission to improve lives You are a pioneer </a>
+                                <a class="text-theme-colored font-10 font-weight-600" href="dsefacilities.php"> → field on a mission to improve lives You are a pioneer </a><br />
+                                <a class="text-theme-colored font-10 font-weight-600" href="dsehumanresources.php"> → field on a mission to improve lives You are a pioneer </a>
                               </small>
                             </p>
                           </div>
@@ -609,7 +609,7 @@
                             <h4 class="mt-0 mb-5"><a class="text-theme-colored font-14 font-weight-600" href="#">Dept. Dressing Code</a></h4>
                             <p>
                               <small>
-                                <a class="text-theme-colored font-10 font-weight-600" href="dsedressingcode.html"> → Departmental Dressing Code </a><br />
+                                <a class="text-theme-colored font-10 font-weight-600" href="dsedressingcode.php"> → Departmental Dressing Code </a><br />
                               </small>
                             </p>
                           </div>
@@ -623,7 +623,7 @@
             <ul class="pull-right flip hidden-sm hidden-xs">
               <li>
                 <!-- Modal: Book Now Starts -->
-                <a class="btn btn-colored btn-flat bg-theme-color-2 text-white font-14 bs-modal-ajax-load mt-0 p-25 pr-15 pl-15 " data-toggle="modal" data-target="#BSParentModal" href="directories.html">Directories</a>
+                <a class="btn btn-colored btn-flat bg-theme-color-2 text-white font-14 bs-modal-ajax-load mt-0 p-25 pr-15 pl-15 " data-toggle="modal" data-target="#BSParentModal" href="directories.php">Directories</a>
                 <!-- Modal: Book Now End -->
               </li>
             </ul>

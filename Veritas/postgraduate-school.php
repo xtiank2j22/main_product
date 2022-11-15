@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html dir="ltr" lang="en">
-  <!-- Mirrored from kodesolution.com/html/2016/studypress-html/demo/index-sp-layout2.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jul 2022 15:06:55 GMT -->
+  <!-- Mirrored from kodesolution.com/html/2016/studypress-html/demo/index-sp-layout2.php by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jul 2022 15:06:55 GMT -->
   <head>
     <!-- Meta Tags -->
     <meta name="viewport" content="width=device-width,initial-scale=1.0" />
@@ -691,7 +691,7 @@
              
               <! Postgraduate application nav bar Start --->
               
-                  <a class="btn bg-colorbtnnavy btn-flat btn-lg  text-bolder "  href="pg-admission-procedures.html"><i class="fas fa-book-open"></i> | Admission Procedures </a>
+                  <a class="btn bg-colorbtnnavy btn-flat btn-lg  text-bolder "  href="pg-admission-procedures.php"><i class="fas fa-book-open"></i> | Admission Procedures </a>
                   <a class="btn bg-colorbtnnavy btn-flat btn-lg  text-bolder "  href="pg-programme duration.php"><i class="fas fa-chalkboard-teacher"></i> | Admission Requirements</a>
                   <a class="btn bg-colorbtnnavy btn-flat btn-lg   text-bolder "  href="pg-programme duration.php"><i class="fas fa-user-graduate"></i> | Programme Duration</a>            
                   <a class="btn bg-colorbtnnavy btn-flat btn-lg  text-bolder "  href="pg-admission-requirements.php"><i class="fas fa-school"></i> | PG Program fees</a>
@@ -1071,5 +1071,5 @@ Mon – Fri 8:00A.M. – 5:00P.M.<br/>
     <script type="text/javascript" src="js/revolution-slider/js/extensions/revolution.extension.slideanims.min.js"></script>
     <script type="text/javascript" src="js/revolution-slider/js/extensions/revolution.extension.video.min.js"></script>
   </body>
-  <!-- Mirrored from kodesolution.com/html/2016/studypress-html/demo/index-sp-layout2.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jul 2022 15:06:55 GMT -->
+  <!-- Mirrored from kodesolution.com/html/2016/studypress-html/demo/index-sp-layout2.php by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jul 2022 15:06:55 GMT -->
 </html>

@@ -100,13 +100,13 @@
                       <div class="top-dropdown-outer pt-5 pb-10">
                         <a class="has-dropdown text-white text-hover-theme-colored"> Popular Pages</a>
                         <ul class="dropdown list-unstyled list-dashed">
-                          <li><a href="shortcode-accordion.html"><i class="fa fa-list-ul"></i> Alumni</a></li>
-                          <li><a href="shortcode-animations.html"><i class="fa fa-magic"></i> admission</a></li>
-                          <li><a href="shortcode-button-groups-and-dropdowns.html"><i class="fa fa-link"></i> bursary</a></li>
-                          <li><a href="shortcode-button-hover-effect.html"><i class="fa fa-flag-o"></i> life on Campus</a></li>
-                          <li><a href="shortcode-buttons.html"><i class="fa fa-external-link"></i> Faculty</a></li>
-                          <li><a href="shortcode-datetime-timepicker.html"><i class="fa fa-calendar"></i> Departments</a></li>
-                          <li><a href="shortcode-datetime-timepicker.html"><i class="fa fa-calendar"></i> Accommodation</a></li>
+                          <li><a href="shortcode-accordion.php"><i class="fa fa-list-ul"></i> Alumni</a></li>
+                          <li><a href="shortcode-animations.php"><i class="fa fa-magic"></i> admission</a></li>
+                          <li><a href="shortcode-button-groups-and-dropdowns.php"><i class="fa fa-link"></i> bursary</a></li>
+                          <li><a href="shortcode-button-hover-effect.php"><i class="fa fa-flag-o"></i> life on Campus</a></li>
+                          <li><a href="shortcode-buttons.php"><i class="fa fa-external-link"></i> Faculty</a></li>
+                          <li><a href="shortcode-datetime-timepicker.php"><i class="fa fa-calendar"></i> Departments</a></li>
+                          <li><a href="shortcode-datetime-timepicker.php"><i class="fa fa-calendar"></i> Accommodation</a></li>
                         </ul>
                       </div>
                     </li>
@@ -168,7 +168,7 @@
           <div class="container">
             <nav id="menuzord" class="menuzord bg-theme-colored pull-left flip menuzord-responsive">
               <ul class="menuzord-menu">
-                <li class="active"><a class="border-left-theme-color-2-4px" href="homeindex.html">Home</a>
+                <li class="active"><a class="border-left-theme-color-2-4px" href="homeindex.php">Home</a>
                 </li>
                 <li><a href="#">Calendar & Timetable</a>
                 </li>
@@ -1183,7 +1183,7 @@
                 <h2 class="text-uppercase line-height-1 font-weight-600 mt-0 font-28 line-bottom">Diversity & Inclusion</h2>
                 <h4 class="text-theme-colored">You and your Ward are about to embark on a life-changing journey.</h4>
                 <p>Our university is open to all. We welcome staff and students of all backgrounds, and connect with our communities and partners, locally, nationally and internationally.  To be successful requires a holistic approach to</p>
-                <a class="text-theme-colored font-13" href="page-about1.html">Read More →</a>
+                <a class="text-theme-colored font-13" href="page-about1.php">Read More →</a>
               </div>
               <div class="col-md-6">
                 <div class="owl-carousel-1col" data-nav="true">

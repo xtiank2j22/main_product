@@ -10,7 +10,7 @@
 <meta name="author" content="ThemeMascot" />
 
 <!-- Page Title -->
-<title>Department of Software Engineering</title>
+<title>Staff</title>
 <!-- Favicon and Touch Icons -->
 <link href="images/favicon.png" rel="shortcut icon" type="image/png">
 <link href="images/apple-touch-icon.png" rel="apple-touch-icon">
@@ -65,15 +65,7 @@
 </head>
 <body class="">
 <div id="wrapper" class="clearfix">
-  <!-- preloader -->
-  <div id="preloader">
-    <div id="spinner">
-      <div class="preloader-dot-loading">
-        <div class="cssload-loading"><i></i><i></i><i></i></div>
-      </div>
-    </div>
-    <div id="disable-preloader" class="btn btn-default btn-sm">Disable Preloader</div>
-  </div>
+ 
 
   <!-- Header -->
 <?php include_once "includes/innerpage-navbar.php" ?>

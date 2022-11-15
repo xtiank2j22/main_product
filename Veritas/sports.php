@@ -250,7 +250,7 @@
           <div class="clearfix"></div>
           <!-- Infinity Loadmore Button -->
           <div id="load-next-posts" class="p-15 pt-0 pb-0">
-            <a href="blog-extra-infinity-scroll-data-2.html" class="btn btn-default btn-lg btn-block">Load more...</a>
+            <a href="blog-extra-infinity-scroll-data-2.php" class="btn btn-default btn-lg btn-block">Load more...</a>
           </div>
           
 

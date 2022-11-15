@@ -171,7 +171,7 @@
         <div class="container">
           <nav id="menuzord" class="menuzord bg-theme-colored pull-left flip menuzord-responsive">
             <ul class="menuzord-menu">
-              <li class="active"><a class="border-left-theme-color-2-4px" href="homeindex.html">Home</a>
+              <li class="active"><a class="border-left-theme-color-2-4px" href="homeindex.php">Home</a>
               </li>
               <li><a href="javascript:void(0)">People</a>
                 <div class="megamenu bg-lighter border-bottom-theme-color-2-6px border-left-theme-color-2-4px border-right-theme-color-2-2px border-radius-20px">
@@ -658,7 +658,7 @@
             <ul class="pull-right flip hidden-sm hidden-xs">
               <li>
                 <!-- Modal: Book Now Starts -->
-                <a class="btn btn-colored btn-flat bg-theme-color-2 text-white font-14 bs-modal-ajax-load mt-0 p-25 pr-15 pl-15 " data-toggle="modal" data-target="#BSParentModal" href="directories.html">Directories</a>
+                <a class="btn btn-colored btn-flat bg-theme-color-2 text-white font-14 bs-modal-ajax-load mt-0 p-25 pr-15 pl-15 " data-toggle="modal" data-target="#BSParentModal" href="directories.php">Directories</a>
                 <!-- Modal: Book Now End -->
               </li>
             </ul>
@@ -1094,13 +1094,13 @@
             <div class="widget dark">
               <h4 class="widget-title text-white">Quick Links</h4>
               <ul class="list angle-double-right list-border">
-                <li><a href="dse-about-us.html">About Us</a></li>
-                <li><a href="dse-course-listing.html">Our Courses</a></li>
-                <li><a href="dse-people.html">People</a></li>
-                <li><a href="dse-contact-us.html">Contact Us</a></li>
-                <li><a href="dse-news-events.html">News & Events</a></li>
-                <li><a href="dse-course-registration.html">Course Registration Process</a></li>
-                <li><a href="dse-parenthome.html">Parents</a></li>
+                <li><a href="dse-about-us.php">About Us</a></li>
+                <li><a href="dse-course-listing.php">Our Courses</a></li>
+                <li><a href="dse-people.php">People</a></li>
+                <li><a href="dse-contact-us.php">Contact Us</a></li>
+                <li><a href="dse-news-events.php">News & Events</a></li>
+                <li><a href="dse-course-registration.php">Course Registration Process</a></li>
+                <li><a href="dse-parenthome.php">Parents</a></li>
               </ul>
             </div>
           </div>
@@ -1108,13 +1108,13 @@
             <div class="widget dark">
               <h4 class="widget-title text-white">Why Software Engineering ?</h4>
               <ul class="list angle-double-right list-border">
-                <li><a href="dse-teaching.html">Teaching</a></li>
-                <li><a href="dse-learning.html">Learning</a></li>
-                <li><a href="dse-research.html">Research</a></li>
-                <li><a href="dse-practicum.html">Practicum</a></li>
-                <li><a href="dse-siwes.html">SIWES</a></li>
-                <li><a href="campus-lifehome.html">Campus Life</a></li>
-                <li><a href="dse-industry-collaboration.html">Industry Collaboration</a></li>
+                <li><a href="dse-teaching.php">Teaching</a></li>
+                <li><a href="dse-learning.php">Learning</a></li>
+                <li><a href="dse-research.php">Research</a></li>
+                <li><a href="dse-practicum.php">Practicum</a></li>
+                <li><a href="dse-siwes.php">SIWES</a></li>
+                <li><a href="campus-lifehome.php">Campus Life</a></li>
+                <li><a href="dse-industry-collaboration.php">Industry Collaboration</a></li>
               </ul>
             </div>
           </div>
@@ -1122,12 +1122,12 @@
             <div class="widget dark">
               <h4 class="widget-title text-white">Resources</h4>
               <ul class="list angle-double-right list-border">
-                <li><a href="dse-laboratories.html">Laboratories</a></li>
-                <li><a href="page-course-list.html">Departmental Library</a></li>
-                <li><a href="page-pricing-style1.html">Departmental Handbook</a></li>
-                <li><a href="ict.html">ICT Facilities</a></li>
-                <li><a href="shop-category.html">NACOS</a></li>
-                <li><a href="shop-category.html">Center of Excellence & Innovation</a></li>              
+                <li><a href="dse-laboratories.php">Laboratories</a></li>
+                <li><a href="page-course-list.php">Departmental Library</a></li>
+                <li><a href="page-pricing-style1.php">Departmental Handbook</a></li>
+                <li><a href="ict.php">ICT Facilities</a></li>
+                <li><a href="shop-category.php">NACOS</a></li>
+                <li><a href="shop-category.php">Center of Excellence & Innovation</a></li>              
               </ul>
             </div>
           </div>
@@ -1278,7 +1278,7 @@
   document.write('<div class="news_scroll-title">');
   document.write('News and Updates<br>');
   document.write('</div>');
-  document.write('<iframe name="NewsIFrame" src="news_scroll.html" frameborder="0" scrolling="no"></iframe>');
+  document.write('<iframe name="NewsIFrame" src="news_scroll.php" frameborder="0" scrolling="no"></iframe>');
   document.write('</div>');
   // END SCROLLING NEWS
   }

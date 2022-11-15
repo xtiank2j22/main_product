@@ -70,8 +70,8 @@
             <div class="col-md-12">
               <h2 class="title text-white text-bolder">Admission page</h2>
               <ol class="breadcrumb text-left text-black mt-10">
-                <li><a href="homeindex.html" class="text-white text-bolder">Welcome</a></li>
-                <li><a href="homeindex.html" class="text-white text-bolder"> to Veritas University Abuja, Nigeria.</a></li>
+                <li><a href="index.php" class="text-white text-bolder">Welcome</a></li>
+                <li><a href="index.php" class="text-white text-bolder"> to Veritas University Abuja, Nigeria.</a></li>
               </ol>
             </div>
           </div>
@@ -90,28 +90,28 @@
                 <div class="item shodow5 ovaflow latestnews ml-10 height-50" >
                   <article class="post media-post clearfix pb-0 ">
                     <div class="post-right .ovaflow mt-10">
-                      <p class="text-black text-bolder ovaflow mr-10"> <a class="mb-0 font-13 text-black readthumb" href="newsview.html">Resumption of new student and Lectures is on 10th August, 2022</a>  <i class="text-green fa fa-arrow-right"></i></p>
+                      <p class="text-black text-bolder ovaflow mr-10"> <a class="mb-0 font-13 text-black readthumb" href="newsview.php">Resumption of new student and Lectures is on 10th August, 2022</a>  <i class="text-green fa fa-arrow-right"></i></p>
                     </div>
                   </article>
                 </div>
                 <div class="item shodow5 ovaflow latestnews ml-10" >
                   <article class="post media-post clearfix pb-0">
                     <div class="post-right .ovaflow mt-10">
-                      <p class="text-black text-bolder ovaflow mr-10"> <a class="mb-0 font-13 text-black readthumb" href="newsview.html">The old students are advice to make payment of their hostel via online portal and their hostel will be automatically selected </a>  <i class="text-green fa fa-arrow-right"></i></p>
+                      <p class="text-black text-bolder ovaflow mr-10"> <a class="mb-0 font-13 text-black readthumb" href="newsview.php">The old students are advice to make payment of their hostel via online portal and their hostel will be automatically selected </a>  <i class="text-green fa fa-arrow-right"></i></p>
                     </div>
                   </article>
                 </div>
                 <div class="item shodow5 ovaflow latestnews ml-10" >
                   <article class="post media-post clearfix pb-0">
                     <div class="post-right .ovaflow mt-10">
-                      <p class="text-black text-bolder ovaflow mr-10"> <a class="mb-0 font-13 text-black readthumb" href="newsview.html">There will be orientation of new students and Lectures on 23rd October, 2022</a>  <i class="text-green fa fa-arrow-right"></i></p>
+                      <p class="text-black text-bolder ovaflow mr-10"> <a class="mb-0 font-13 text-black readthumb" href="newsview.php">There will be orientation of new students and Lectures on 23rd October, 2022</a>  <i class="text-green fa fa-arrow-right"></i></p>
                     </div>
                   </article>
                 </div>
                 <div class="item shodow5 ovaflow latestnews ml-10" >
                   <article class="post media-post clearfix pb-0">
                     <div class="post-right .ovaflow mt-10">
-                      <p class="text-black text-bolder ovaflow mr-10"> <a class="mb-0 font-13 text-black readthumb" href="newsview.html">lectures and all academic activities stars immidiately at resumption</a>  <i class="text-green fa fa-arrow-right"></i></p>
+                      <p class="text-black text-bolder ovaflow mr-10"> <a class="mb-0 font-13 text-black readthumb" href="newsview.php">lectures and all academic activities stars immidiately at resumption</a>  <i class="text-green fa fa-arrow-right"></i></p>
                     </div>
                   </article>
                 </div>
@@ -150,7 +150,7 @@
                         Nsukka where he obtained a BSc degree in Economics in 1998. He was awarded the Scholarship of the Government of Sweden
                     </p>
                     </div>
-                    <a class="btn btn-bg-color btn-flat btn-lg mt-10 mb-sm-30" href="personal-profile.html">Know More →</a>
+                    <a class="btn btn-bg-color btn-flat btn-lg mt-10 mb-sm-30" href="personal-profile.php">Know More →</a>
               </div>
             </div>
           </div>
@@ -174,18 +174,18 @@
                         Take the next step and APPLY NOW!!, We offer a very flexible application process tailored
                          to meet the needs different categories of candidates. Click the link Below to apply
                         </p>
-                        <a class="btn btn-bg-color btn-flat btn-lg mt-10 mb-sm-30 text-bolder" href="admission.html">  UTME  →</a>
-                        <a class="btn btn-bg-color btn-flat btn-lg mt-10 mb-sm-30 text-bolder" href="admission.html">  Direct Entry  →</a>
-                        <a class="btn btn-bg-color btn-flat btn-lg mt-10 mb-sm-30 text-bolder" href="admission.html">  Transfer  →</a>
+                        <a class="btn btn-bg-color btn-flat btn-lg mt-10 mb-sm-30 text-bolder" href="admission.php">  UTME  →</a>
+                        <a class="btn btn-bg-color btn-flat btn-lg mt-10 mb-sm-30 text-bolder" href="admission.php">  Direct Entry  →</a>
+                        <a class="btn btn-bg-color btn-flat btn-lg mt-10 mb-sm-30 text-bolder" href="admission.php">  Transfer  →</a>
                       </div>
                   </div>
                 </div>
                 <div class="col-md-4"><div class="vl"></div>
-                  <a class="btn bg-colorbtnlightgreen btn-flat btn-lg  text-bolder "  href="Admission-process.html"><i class="fas fa-book-open"></i> | Learn More</a>
-                  <a class="btn bg-colorbtnlightgreen btn-flat btn-lg  text-bolder "  href="Admission-process.html"><i class="fas fa-chalkboard-teacher"></i> | How to Apply</a>
-                  <a class="btn bg-colorbtnlightgreen btn-flat btn-lg   text-bolder "  href="Admission-process.html"><i class="fas fa-user-graduate"></i> | Admission Process</a>            
-                  <a class="btn bg-colorbtnlightgreen btn-flat btn-lg  text-bolder "  href="Admission-process.html"><i class="fas fa-school"></i> | Entry Requirement</a>
-                  <a class="btn bg-colorbtnlightgreen btn-flat btn-lg  text-bolder "  href="list-of-department.html"><i class="fas fa-school"></i> | Available Departments</a>
+                  <a class="btn bg-colorbtnlightgreen btn-flat btn-lg  text-bolder "  href="Admission-process.php"><i class="fas fa-book-open"></i> | Learn More</a>
+                  <a class="btn bg-colorbtnlightgreen btn-flat btn-lg  text-bolder "  href="Admission-process.php"><i class="fas fa-chalkboard-teacher"></i> | How to Apply</a>
+                  <a class="btn bg-colorbtnlightgreen btn-flat btn-lg   text-bolder "  href="Admission-process.php"><i class="fas fa-user-graduate"></i> | Admission Process</a>            
+                  <a class="btn bg-colorbtnlightgreen btn-flat btn-lg  text-bolder "  href="Admission-process.php"><i class="fas fa-school"></i> | Entry Requirement</a>
+                  <a class="btn bg-colorbtnlightgreen btn-flat btn-lg  text-bolder "  href="list-of-department.php"><i class="fas fa-school"></i> | Available Departments</a>
                </div>
             </div>
         </div>
@@ -208,16 +208,16 @@
                         Take the next step and APPLY NOW!!, Veritas University offers a very flexible application process tailored
                          to meet the needs different categories of candidates.
                         </p>
-                        <a class="btn btn-bg-color btn-flat btn-lg mt-15 mb-sm-30 text-bolder" href="admission-registration-form.html">Apply here  →</a>
+                        <a class="btn btn-bg-color btn-flat btn-lg mt-15 mb-sm-30 text-bolder" href="admission-registration-form.php">Apply here  →</a>
                       </div>
                   </div>
                 </div>
            <div class="col-md-4"><div class="vl"></div>
-           <a class="btn bg-colorbtnlightgreen btn-flat btn-lg  text-bolder "  href="Admission-process.html"><i class="fas fa-book-open"></i> | Learn More</a>
-           <a class="btn bg-colorbtnlightgreen btn-flat btn-lg  text-bolder "  href="Admission-process.html"><i class="fas fa-chalkboard-teacher"></i> | How to Apply</a>
-           <a class="btn bg-colorbtnlightgreen btn-flat btn-lg   text-bolder "  href="Admission-process.html"><i class="fas fa-user-graduate"></i> | Admission Process</a>            
-           <a class="btn bg-colorbtnlightgreen btn-flat btn-lg  text-bolder "  href="Admission-process.html"><i class="fas fa-school"></i> | Entry Requirement</a>
-           <a class="btn bg-colorbtnlightgreen btn-flat btn-lg  text-bolder "  href="list-of-department.html"><i class="fas fa-school"></i> | Available Departments</a>
+           <a class="btn bg-colorbtnlightgreen btn-flat btn-lg  text-bolder "  href="Admission-process.php"><i class="fas fa-book-open"></i> | Learn More</a>
+           <a class="btn bg-colorbtnlightgreen btn-flat btn-lg  text-bolder "  href="Admission-process.php"><i class="fas fa-chalkboard-teacher"></i> | How to Apply</a>
+           <a class="btn bg-colorbtnlightgreen btn-flat btn-lg   text-bolder "  href="Admission-process.php"><i class="fas fa-user-graduate"></i> | Admission Process</a>            
+           <a class="btn bg-colorbtnlightgreen btn-flat btn-lg  text-bolder "  href="Admission-process.php"><i class="fas fa-school"></i> | Entry Requirement</a>
+           <a class="btn bg-colorbtnlightgreen btn-flat btn-lg  text-bolder "  href="list-of-department.php"><i class="fas fa-school"></i> | Available Departments</a>
         </div>
             </div>
         </div>
@@ -246,11 +246,11 @@
                   </div>
                 </div>
            <div class="col-md-4"><div class="vl"></div>
-           <a class="btn bg-colorbtnlightgreen btn-flat btn-lg  text-bolder "  href="Admission-process.html"><i class="fas fa-book-open"></i> | Learn More</a>
-           <a class="btn bg-colorbtnlightgreen btn-flat btn-lg  text-bolder "  href="Admission-process.html"><i class="fas fa-chalkboard-teacher"></i> | How to Apply</a>
-           <a class="btn bg-colorbtnlightgreen btn-flat btn-lg   text-bolder "  href="Admission-process.html"><i class="fas fa-user-graduate"></i> | Admission Process</a>            
-           <a class="btn bg-colorbtnlightgreen btn-flat btn-lg  text-bolder "  href="Admission-process.html"><i class="fas fa-school"></i> | Entry Requirement</a>
-           <a class="btn bg-colorbtnlightgreen btn-flat btn-lg  text-bolder "  href="Admission-process.html"><i class="fas fa-school"></i> | Available Departments</a>
+           <a class="btn bg-colorbtnlightgreen btn-flat btn-lg  text-bolder "  href="Admission-process.php"><i class="fas fa-book-open"></i> | Learn More</a>
+           <a class="btn bg-colorbtnlightgreen btn-flat btn-lg  text-bolder "  href="Admission-process.php"><i class="fas fa-chalkboard-teacher"></i> | How to Apply</a>
+           <a class="btn bg-colorbtnlightgreen btn-flat btn-lg   text-bolder "  href="Admission-process.php"><i class="fas fa-user-graduate"></i> | Admission Process</a>            
+           <a class="btn bg-colorbtnlightgreen btn-flat btn-lg  text-bolder "  href="Admission-process.php"><i class="fas fa-school"></i> | Entry Requirement</a>
+           <a class="btn bg-colorbtnlightgreen btn-flat btn-lg  text-bolder "  href="Admission-process.php"><i class="fas fa-school"></i> | Available Departments</a>
         </div>
             </div>
         </div>
@@ -273,16 +273,16 @@
                           Take the next step and APPLY NOW!!, Veritas University offers a very flexible application process tailored
                            to meet the needs different categories of candidates.
                           </p>
-                          <a class="btn btn-bg-color btn-flat btn-lg mt-10 mb-sm-30 text-bolder" href="admission-registration-form.html">Apply here  →</a>
+                          <a class="btn btn-bg-color btn-flat btn-lg mt-10 mb-sm-30 text-bolder" href="admission-registration-form.php">Apply here  →</a>
                         </div>
                     </div>
                   </div>
              <div class="col-md-4"><div class="vl"></div>
-             <a class="btn bg-colorbtnlightgreen btn-flat btn-lg  text-bolder "  href="Admission-process.html"><i class="fas fa-book-open"></i> | Learn More</a>
-             <a class="btn bg-colorbtnlightgreen btn-flat btn-lg  text-bolder "  href="Admission-process.html"><i class="fas fa-chalkboard-teacher"></i> | How to Apply</a>
-             <a class="btn bg-colorbtnlightgreen btn-flat btn-lg   text-bolder "  href="Admission-process.html"><i class="fas fa-user-graduate"></i> | Admission Process</a>            
-             <a class="btn bg-colorbtnlightgreen btn-flat btn-lg  text-bolder "  href="Admission-process.html"><i class="fas fa-school"></i> | Entry Requirement</a>
-             <a class="btn bg-colorbtnlightgreen btn-flat btn-lg  text-bolder "  href="list-of-department.html"><i class="fas fa-school"></i> | Available Departments</a>
+             <a class="btn bg-colorbtnlightgreen btn-flat btn-lg  text-bolder "  href="Admission-process.php"><i class="fas fa-book-open"></i> | Learn More</a>
+             <a class="btn bg-colorbtnlightgreen btn-flat btn-lg  text-bolder "  href="Admission-process.php"><i class="fas fa-chalkboard-teacher"></i> | How to Apply</a>
+             <a class="btn bg-colorbtnlightgreen btn-flat btn-lg   text-bolder "  href="Admission-process.php"><i class="fas fa-user-graduate"></i> | Admission Process</a>            
+             <a class="btn bg-colorbtnlightgreen btn-flat btn-lg  text-bolder "  href="Admission-process.php"><i class="fas fa-school"></i> | Entry Requirement</a>
+             <a class="btn bg-colorbtnlightgreen btn-flat btn-lg  text-bolder "  href="list-of-department.php"><i class="fas fa-school"></i> | Available Departments</a>
           </div>
               </div>
           </div>
@@ -305,16 +305,16 @@
                         Take the next step and APPLY NOW!!, Veritas University offers a very flexible application process tailored
                          to meet the needs different categories of candidates.
                         </p>
-                        <a class="btn btn-bg-color btn-flat btn-lg mt-10 mb-sm-30 text-bolder" href="admission-registration-form.html">Apply here  →</a>
+                        <a class="btn btn-bg-color btn-flat btn-lg mt-10 mb-sm-30 text-bolder" href="admission-registration-form.php">Apply here  →</a>
                       </div>
                   </div>
                 </div>
            <div class="col-md-4"><div class="vl"></div>
-           <a class="btn bg-colorbtnlightgreen btn-flat btn-lg  text-bolder "  href="pg-admission-procedures.html"><i class="fas fa-book-open"></i> | Learn More</a>
-           <a class="btn bg-colorbtnlightgreen btn-flat btn-lg  text-bolder "  href="pg-admission-procedures.html"><i class="fas fa-chalkboard-teacher"></i> | How to Apply</a>
-           <a class="btn bg-colorbtnlightgreen btn-flat btn-lg   text-bolder "  href="pg-admission-procedures.html"><i class="fas fa-user-graduate"></i> | Admission Process</a>            
-           <a class="btn bg-colorbtnlightgreen btn-flat btn-lg  text-bolder "  href="pg-admission-requirements.html"><i class="fas fa-school"></i> | Entry Requirement</a>
-           <a class="btn bg-colorbtnlightgreen btn-flat btn-lg  text-bolder "  href="list-of-department.html"><i class="fas fa-school"></i> | Available Departments</a>
+           <a class="btn bg-colorbtnlightgreen btn-flat btn-lg  text-bolder "  href="pg-admission-procedures.php"><i class="fas fa-book-open"></i> | Learn More</a>
+           <a class="btn bg-colorbtnlightgreen btn-flat btn-lg  text-bolder "  href="pg-admission-procedures.php"><i class="fas fa-chalkboard-teacher"></i> | How to Apply</a>
+           <a class="btn bg-colorbtnlightgreen btn-flat btn-lg   text-bolder "  href="pg-admission-procedures.php"><i class="fas fa-user-graduate"></i> | Admission Process</a>            
+           <a class="btn bg-colorbtnlightgreen btn-flat btn-lg  text-bolder "  href="pg-admission-requirements.php"><i class="fas fa-school"></i> | Entry Requirement</a>
+           <a class="btn bg-colorbtnlightgreen btn-flat btn-lg  text-bolder "  href="list-of-department.php"><i class="fas fa-school"></i> | Available Departments</a>
         </div>
             </div>
         </div>
@@ -342,7 +342,7 @@
                     <p class="line-bottom mb-0 text-black text-bolder">Admission One</p>
                     <p class=" mt-0 mb-2 text-navy">Admission Office</p>
                     <p class="ovaflow text-deepgreen text-bolder">Mr. Cifers</p>
-                    <a class="btn btn-dark btn-theme-colored btn-sm text-uppercase mt-10" href="personal-profile.html">view details</a>
+                    <a class="btn btn-dark btn-theme-colored btn-sm text-uppercase mt-10" href="personal-profile.php">view details</a>
                   </div>
                 </div>
               </div>
@@ -356,7 +356,7 @@
                     <p class="line-bottom mb-0 text-black text-bolder">Admission Two </p>
                     <p class=" mt-0 mb-2 text-navy">Admission Office</p>
                     <p class="ovaflow text-deepgreen text-bolder">Mr. Christian </p>
-                    <a class="btn btn-dark btn-theme-colored btn-sm text-uppercase mt-10" href="personal-profile.html">view details</a>
+                    <a class="btn btn-dark btn-theme-colored btn-sm text-uppercase mt-10" href="personal-profile.php">view details</a>
                   </div>
                 </div>
               </div>
@@ -370,7 +370,7 @@
                     <p class="line-bottom mb-0 text-black text-bolder">Admission Three </p>
                     <p class=" mt-0 mb-2 text-navy">Admission Office</p>
                     <p class="ovaflow text-deepgreen text-bolder">Mrs. Udo Abe </p>
-                    <a class="btn btn-dark btn-theme-colored btn-sm text-uppercase mt-10" href="personal-profile.html">view details</a>
+                    <a class="btn btn-dark btn-theme-colored btn-sm text-uppercase mt-10" href="personal-profile.php">view details</a>
                   </div>
                 </div>
               </div>
@@ -385,15 +385,15 @@
             </table>
           <div class="widget">
               <ul class="list list-border angle-double-left">
-                <li class="libtab"><a href="list-of-department.html">Departments</a></li>
-                <li class="libtab"><a href="librar.html">Using Our library</a></li>
-                <li class="libtab"><a href="development-office.html">New projects</a></li>
+                <li class="libtab"><a href="list-of-department.php">Departments</a></li>
+                <li class="libtab"><a href="librar.php">Using Our library</a></li>
+                <li class="libtab"><a href="development-office.php">New projects</a></li>
                 <li class="libtab"><a href="ecampus">Social Activities</a></li>
-                <li class="libtab"><a href="admission.html">Admissions</a></li>
-                <li class="libtab"><a href="Admission-process.html">How to Apply</a></li>
-                <li class="libtab"><a href="help-support.html">Help & Support</a></li>
-                <li class="libtab"><a href="list-of-faculties.html"></a>Faculties</li>
-                <li class="libtab"><a href="newsview.html">News & Events</a></li>
+                <li class="libtab"><a href="admission.php">Admissions</a></li>
+                <li class="libtab"><a href="Admission-process.php">How to Apply</a></li>
+                <li class="libtab"><a href="help-support.php">Help & Support</a></li>
+                <li class="libtab"><a href="list-of-faculties.php"></a>Faculties</li>
+                <li class="libtab"><a href="newsview.php">News & Events</a></li>
               </ul>
           </div>
         </div>
