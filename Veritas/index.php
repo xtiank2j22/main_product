@@ -93,7 +93,6 @@
                     </div>
                   </div>
                 </section><!-- Section: latest news ends here -->
-
                 <!-- Section: board -->
                 <section id="blog" class="noticbrd">
                   <div class="container">

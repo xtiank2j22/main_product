@@ -284,7 +284,7 @@
                                 <li><a href="Admission-process.php">UTME (Jamb)</a></li>
                                 <li><a href="Admission-process.php">Transfer</a></li>
                                 <li><a href="Admission-process.php">Direct Entry (DE)</a></li>
-                                <li><a href="Admission-process.php">SandWich</a></li>
+                                <li><a href="Admission-process.php">Sandwich</a></li>
                                 <li><a href="Admission-process.php">IJMB</a></li>
                                 <li><a href="Admission-process.php">JUPEP</a></li>
                               </ul>
@@ -351,7 +351,7 @@
                           </ul>
                         </li>
                         <!---------------------------Units tags begins here----------------->
-                          <li><a href=",">Units</a>
+                          <li><a href="#">Units</a>
                             <ul class="dropdown">
                               <li><a href="student-affairs.php">Student Affairs </a>
                                 <ul class="dropdown">
@@ -362,7 +362,7 @@
                                   <li><a href="student-affairs.php"></a>Students Welfare</li>                                       
                                 </ul>
                               </li>
-                              <li><a href="coming-soon.php">SIWES</a></li>
+                              <li><a href="siwes.php">SIWES</a></li>
                               <li><a href="coming-soon.php">Works</a></li>
                               <li><a href="coming-soon.php">Physical Planning</a></li>
                               <li><a href="coming-soon.php">Medical Centre</a></li>
@@ -383,7 +383,7 @@
                             <ul class="dropdown">
                             <li><a href="news.php">Veritas News</a> 
                               <li><a href="sports.php">Sports News</a></li>
-                              <li><a href="events.php">Social News</a></li>
+                              <li><a href="events.php">Events</a></li>
                               <li><a href="campustour.php">Campus Tour</a></li>
                               </li>
                             </ul>

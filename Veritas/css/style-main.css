@@ -116,6 +116,12 @@
 }*/
 /* Make the image fully responsive */
 /*department search button*/
+.member-biography h4{
+  color: rgb(2, 2, 29) !important;
+}
+.member-biography h4:hover{
+  color: white !important;
+}
 .text-format{
   font-family: ABeeZee, sans-serif; 
   font-style:normal; 
@@ -157,6 +163,9 @@
 }
 .height-3px{
   height: 3px;;
+}
+.bg-color-grey-foot{
+  background-color: #F3F7F9 !important ;
 }
 /*home page search button*/
 form.example input[type=text] {
@@ -235,6 +244,18 @@ form.example::after {
 }
 .height300px{
   height: 350px;
+}
+.height70px{
+  height: 70px;
+}
+.height30{
+  height: 30px;
+}
+.latestimage{
+  height:150px;
+}
+.bg-litwhite{
+  background-color: #FBFBFB !important;
 }
 .tp-green{
   background: rgba(51, 170, 51, .4)    /*  40% opaque green */
