@@ -13,14 +13,13 @@
 
 <!-- Page Title -->
 <title>Staff</title>
-
 <!-- Favicon and Touch Icons -->
-<link href="images/favicon.png" rel="shortcut icon" type="image/png">
-<link href="images/apple-touch-icon.png" rel="apple-touch-icon">
-<link href="images/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72">
-<link href="images/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="114x114">
-<link href="images/apple-touch-icon-144x144.png" rel="apple-touch-icon" sizes="144x144">
-
+<link href="images/title.png" rel="shortcut icon" type="image/png">
+<link href="images/logo-wide.png" rel="apple-touch-icon">
+<link href="images/logo-wide.png" rel="apple-touch-icon" sizes="72x72">
+<link href="images/logo-wide.png" rel="apple-touch-icon" sizes="114x114">
+<link href="images/logo-wide.png" rel="apple-touch-icon" sizes="144x144">
+<link rel="icon" href="https://www.veritas.edu.ng/images/favicon.ico" type="image/x-icon" />
 <!-- Stylesheet -->
 <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
 <link href="css/jquery-ui.min.css" rel="stylesheet" type="text/css">
@@ -60,7 +59,7 @@
 <div id="wrapper" class="clearfix">
  <?php include_once "includes/innerpage-navbar.php" ?>
   <!-- Section: inner-header -->
-  <section class="inner-header divider parallax layer-overlay overlay-dark-5" data-bg-img="images/bg/bg3.jpg">
+  <section class="inner-header divider parallax layer-overlay overlay-dark-5" data-bg-img="images/siwes/images/newimages/staffs.jpg" style="height: 500px;">
     <div class="container pt-70 pb-20">
       <!-- Section Content -->
       <div class="section-content">
@@ -68,8 +67,6 @@
           <div class="col-md-12">
             <h2 class="title text-white">Staff Details </h2>
             <ol class="breadcrumb text-left text-black mt-10">
-              <li><a href="#">Home</a></li>
-              <li><a href="#">People</a></li>
               <li class="active text-gray-silver">Emmanuel Mkpojiogu</li>
             </ol>
           </div>

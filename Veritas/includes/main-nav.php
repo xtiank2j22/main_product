@@ -173,7 +173,7 @@
                                 <li><a href="development-office.php">Development Office</a></li>
                               </ul>
                             </li>
-                            <li><a href="Registrar.php">Registrar</a>
+                            <li><a href="Registrar.php">Registry</a>
                               <ul class="dropdown">
                                 <li><a href="academic-office.php">Academic Office </a></li>
                                 <li><a href="human-resource.php">Human Resources</a></li>
@@ -190,7 +190,7 @@
                                 <li><a href="audit.php">Audit</a></li>
                               </ul>
                             </li>
-                            <li><a href="librar.php">Librarian</a>
+                            <li><a href="librar.php">Library</a>
                               <ul class="dropdown">
                                 <li><a href="coming-soon.php">Readers Services </a></li>
                                 <li><a href="coming-soon.php">Cataloguing </a></li>

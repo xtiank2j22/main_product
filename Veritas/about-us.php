@@ -85,8 +85,8 @@
           <div class="row">
             <div class="col-xs-12 col-sm-12 col-md-8">
               <h1 class="letter-space-4 text-navy text-uppercase mt-0 mb-0">Veritas University</h1>
-              <h4 class="text-theme-colored">The University is a Universe, and many students expect a life of their own on campus, to be a paradise.</h4>
-              <p class="text-justify text-bold">Veritas University is a private university, located in Abuja. It was founded in March 2002 by the Catholic Church in Nigeria. The Institution received its provisional operation licence in 2007 from the National Universities Commission and commenced admission of students in October 2008, at its take-off campus in Obehie, Abia State, Nigeria.</p>
+              <h4 class="text-theme-colored  text-bolder text-format">The University is a Universe, and many students expect a life of their own on campus, to be a paradise.</h4>
+              <p class="text-justify text-bold text-bolder text-format">Veritas University is a private university, located in Abuja. It was founded in March 2002 by the Catholic Church in Nigeria. The Institution received its provisional operation licence in 2007 from the National Universities Commission and commenced admission of students in October 2008, at its take-off campus in Obehie, Abia State, Nigeria.</p>
             </div>
             <div class="col-xs-12 col-sm-12 col-md-4">
             <img src="images/event/newimages/Veritas_University.Senate.jpg">
@@ -95,77 +95,119 @@
         </div>
       </div>
     </section>
-
+    <!------the mission and vision section------>
     <section  class="mt-0">
       <div class="container bg-color-white">
         <div class="section-content">
           <div class="row">
             <div class="col-xs-12 col-sm-12 col-md-8">
               <h2 class="letter-space-4 text-navy text-uppercase mt-0 mb-0">History</h2>
-              <p class="text-justify text-bold">Veritas University Abuja (VUNA), also known as the Catholic University of Nigeria, was founded by the Catholic Bishops Conference of Nigeria through a resolution given at its March 2002 meeting in Abuja. The initiative was born by the collective desire of the attending Bishops' for a University that would provide high quality tertiary education according to the tradition of the Catholic Church.</p>
-              <p class="text-justify text-bold">The Institution received its provisional operation licence in 2007 from the National Universities Commission and commenced admission of students in October 2008 at its take-off campus in Obehie, Abia State, Nigeria. In 2014, it moved to its permanent site with its campus now located in the Bwari Area council of the Federal Capital Territory, Abuja. Nigeria.</p>
-              <p class="text-justify text-bold">The University emphasizes moral values, self-reliance and the development of the students’ entrepreneurial capabilities for the social and economic benefit of the graduates and the Nigerian society.</p>
-              <h2 class="letter-space-4 text-navy text-uppercase mt-0 mb-0">Accreditation</h2>
-              <p class="text-justify text-bold">A provisional License to operate the university was granted by the National Universities Commission in May 2007.  As at 2019, there were over 30 undergraduate and 15 Post Graduate programmes offered by the university, which have passed the National Universities Commission (NUC) accreditation and resource verification.</p>
-              <p class="text-justify text-bold">In March 2019, Veritas University awarded certificates to 141 graduating students for its 2017/18 academic session at its 7th convocation ceremony.</p>
-              <h3 class="letter-space-4 text-navy text-uppercase mt-0 mb-0">Veritas Journal of Humanities</h3>
-              <p class="text-justify text-bold">The Veritas Journal of Humanities (VEJOH) is the official maiden multidisciplinary academic journal of Veritas University from the Humanities Faculty published bi-annually. It is based on the following principles; Afroconstructivity, Humanity, Society and Development. Articles come from scholars within and outside Africa. </p>
-            </div>
+              <p class="text-justify text-bolder text-format">Veritas University Abuja (VUNA), also known as the Catholic University of Nigeria, was founded by the Catholic Bishops Conference of Nigeria through a resolution given at its March 2002 meeting in Abuja. The initiative was born by the collective desire of the attending Bishops' for a University that would provide high quality tertiary education according to the tradition of the Catholic Church.</p>
+              <p class="text-justify text-bolder text-format">The Institution received its provisional operation licence in 2007 from the National Universities Commission and commenced admission of students in October 2008 at its take-off campus in Obehie, Abia State, Nigeria. In 2014, it moved to its permanent site with its campus now located in the Bwari Area council of the Federal Capital Territory, Abuja. Nigeria.</p>
+              <p class="text-justify text-bolder text-format">The University emphasizes moral values, self-reliance and the development of the students’ entrepreneurial capabilities for the social and economic benefit of the graduates and the Nigerian society.</p>
+              
+              <div><h3 class="title text-navy text-bolder ml-10 text-uppercase mb-10">our mission, vision & focus </h3></div>
+                    <div></div>
+                    <div id="accordion1" class="panel-group accordion pl-10">
+                      <div class="panel cardi">
+                        <div class="panel-title" > <a data-parent="#accordion1" data-toggle="collapse" href="#accordion2" class="text-uppercase" aria-expanded="true"> <span class="open-sub"></span> our mission</a> </div>
+                        <div id="accordion2" class="panel-collapse collapse" role="tablist" aria-expanded="true">
+                          <div class="panel-content">
+                            <p class="text-black text-bolder text-justify text-format">The mission of Veritas University is to provide its students with an integral and holistic formation that combines academic and professional training with physical, moral, spiritual, social and cultural formation together with formation of Christian religious principles and the social Teachings of the Catholic Church. Through research, the University shall engage in the continous quest for truth, and the creation, preservation and dissemination of knowledge for the good of the society (Ex Corde Ecclesiastes no. 30). Based on Christian inspiration and Christ's sacrificial witness, the University shall promote authentic human and cultural development modeled on the person of Christ, and shall champion the cause of justice and uprightness in society, work to empower the weak and the marginalized, and promote dialogue and collaboration in human relationships at various levels and among various cultures and religions (Ex Corde Ecclesiastes nos. 31-37). From inception, the University shall encourage and promote research and scholarship in all fields of knowledge (Ex Corde Ecclesiastes, Gen. Norms Art 2:1&2) as well as carry out teaching and other activities in accordance with Catholic ideals, principles and attitudes, while respecting the freedom of conscience of each person.</p>
+                            <p class="text-black text-bolder text-justify text-format">Thus, graduates from the Veritas University, Abuja, after successfully completing their studies, should be able to use the knowledge and skills acquired at the Institution for the upliftment of themselves and the Nigerian society. In totality, the University will produce graduates, irrespective of race, gender, political and religious affiliation, who would posses the following qualities:</p>
+                            <ul class="list">
+                              <li class="text-black text-bolder text-format">Wide and ordered knowledge in an area of academic discipline</li>
+                              <li class="text-black text-bolder text-format">The ability to reason logically</li>
+                              <li class="text-black text-bolder text-format">The ability to communicate clearly in speech and writing with confidence</li>
+                              <li class="text-black text-bolder text-format">Competence in numeric and computer literacy</li>
+                              <li class="text-black text-bolder text-format">Exhibition of such moral values as honesty, humility, truthfulness, love and high ethics in personal and professional life</li>
+                              <li class="text-black text-bolder text-format">Ready acceptance of obligations and responsibilities; and well developed interpersonal skills and capacity for team work.</li>
+                            </ul>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="panel cardi">
+                        <div class="panel-title"> <a class="collapsed" data-parent="#accordion1" data-toggle="collapse" href="#accordion3" aria-expanded="false"> <span class="open-sub"></span> OUR FOCUS</a> </div>
+                        <div id="accordion3" class="panel-collapse collapse" role="tablist" aria-expanded="false" style="height: 0px;">
+                          <div class="panel-content">
+                            <p class="text-black text-bold text-justify text-format">The University shall be research oriented. This arises from the need for a continuous quest for truth, and underscores the Church's belief in the intrinsic value of human knowledge. Emphasis shall be placed on research that grapples with the contemporary human, social, economic, political, cultural, ecological and religious problems of the Nigerian society and the wider human community, and what draws from the rich and diverse cultures of Nigerian peoples in analyzing societal problems paying special attention to their ethical and religious dimensions. In this way, the University shall show itself to be an instrument for the promotion and protection of nature, human dignity, justice and peace, and economic and political values n Nigeria and globally ((Ex Corde Ecclesiastes no. 32).</p>
+                            </div>
+                        </div>
+                      </div>
+                      <div class="panel cardi">
+                        <div class="panel-title"> <a class="collapsed" data-parent="#accordion1" data-toggle="collapse" href="#accordion4" aria-expanded="false"> <span class="open-sub"></span> OUR PHILOSOPHY</a> </div>
+                        <div id="accordion4" class="panel-collapse collapse" role="tablist" aria-expanded="false" style="height: 0px;">
+                          <div class="panel-content">
+                            <p class="text-black text-bold text-justify text-format">Our University is founded on the philosophy that all knowledge originates from God and that knowledge is for the service of humanity; consequently, knowledge should be disseminated to individuals without hindrance. Thus, in its bid for excellence, Veritas University, Abuja will promote the highest standards of teaching, research and community service whilst providing a balanced education for the acquisition of knowledge, practical skills and moral rectitude. The philosophy of the Veritas University, Abuja is inline with the challenge posed by the Second Vatican Council to Institutions of higher Learning "to put forth every effort so that the Christian (human) mind may achieve a public, persistent, universal presence in the whole enterprise of advancing higher culture" (gavissimum education, n.10).</p>
+                            </div>
+                        </div>
+                      </div>
+                      <div class="panel cardi">
+                        <div class="panel-title"> <a class="collapsed" data-parent="#accordion1" data-toggle="collapse" href="#accordion5" aria-expanded="false"> <span class="open-sub"></span> Vision</a> </div>
+                        <div id="accordion5" class="panel-collapse collapse" role="tablist" aria-expanded="false" style="height: 0px;">
+                          <div class="panel-content">
+                            <p class="text-black text-bold text-justify text-format">Veritas University seeks to be a dynamic community of staff and students with Christian orientation and inspiration who, motivated by the ideals of hard work, integrity, dicipline and creativeness, and dedicated to Catholic principles and attitudes, work together to create knowledge for the advancement of the Nigerian society, and to evolve an academic culture of excellence that will make the University rank among the best in the world.</p>
+                            <p class="text-black text-bold text-justify text-format">Like all catholic Universities the world over which have a strong reputation of academic excellence, and whose graduates distinguish themselves in their various fields of learning, due to insistence on quality input, effective monitoring and committed service on the part of the staff, Veritas University, Abuja is poised to model itself after these great catholic Insitutions with due cognizance of the Nigerian milieu so as to achieve the desired results.</p>
+                            </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
             <div class="col-xs-12 col-sm-12 col-md-4">
              <h3 class="letter-space-4 text-navy text-uppercase mt-0 mb-0">veritas university</h3>
              <a class="menuzord-brand pull-left flip xs-pull-center mb-15" href="javascript:void(0)"><img src="images/logo-wide.png" alt=""></a>
               <table class="table">
                 <tbody>
                   <tr>
-                    <td>Other name<span class="text-navy text-bolder">:</span></td>
+                    <td class="text-format text-deepgreen text-bolder">Other name<span class="text-navy text-bolder">:</span></td>
                     <td></td>
-                    <td>The Catholic University of Nigeria</td>
+                    <td class="text-format">The Catholic University of Nigeria</td>
                   </tr>
                   <tr>
-                    <td>Motto:</td>
+                    <td class="text-format text-deepgreen text-bolder">Motto:</td>
                     <td></td>
-                    <td>Seeking the Truth</td>
+                    <td class="text-format">Seeking the Truth</td>
                   </tr>
                   <tr>
-                    <td>Type:</td>
+                    <td class="text-format text-deepgreen text-bolder">Type:</td>
                     <td></td>
-                    <td>Private</td>
+                    <td class="text-format">Private</td>
                   </tr>
                   <tr>
-                    <td>Established:</td>
+                    <td class="text-format text-deepgreen text-bolder">Established:</td>
                     <td></td>
-                    <td>2007; 15 years ago</td>
+                    <td class="text-format">2007; 15 years ago</td>
                   </tr>
                   <tr>
-                    <td>Founder:</td>
+                    <td class="text-format text-deepgreen text-bolder">Founder:</td>
                     <td></td>
-                    <td>Catholic Church in Nigeria</td>
+                    <td class="text-format">Catholic Church in Nigeria</td>
                   </tr>
                   <tr>
-                    <td><a href="Vice-Chancellor" class="text-deepgreen text-bolder"> Vice-Chancellor: </a></td>
+                    <td><a href="Vice-Chancellor" class="text-deepgreen text-bolder text-format"> Vice-Chancellor: </a></td>
                     <td></td>
-                    <td>Prof. Ichoku Hyacinth</td>
+                    <td class="text-format">Prof. Ichoku Hyacinth</td>
                   </tr>
                   <tr>
-                    <td>Address:</td>
+                    <td class="text-format text-deepgreen text-bolder">Address:</td>
                     <td></td>
-                    <td>Bwari Area Council, FCT-Abuja, Abuja, Nigeria<br>
+                    <td class="text-format">Bwari Area Council, FCT-Abuja, Abuja, Nigeria<br>
                     9.28857708129,<br> 7.41568800158</td>
                   </tr>
                   <tr>
-                    <td>Campus:</td>
+                    <td class="text-format text-deepgreen text-bolder">Campus:</td>
                     <td></td>
-                    <td>Rural 49 acres (20 ha)</td>
+                    <td class="text-format">Rural 49 acres (20 ha)</td>
                   </tr>
                   <tr>
-                    <td>Email:</td>
+                    <td class="text-format text-deepgreen text-bolder">Email:</td>
                     <td></td>
-                    <td>info@veritas.edu.ng</td>
+                    <td class="text-format">info@veritas.edu.ng</td>
                   </tr>
                   <tr>
-                    <td>Website:</td>
+                    <td class="text-format text-deepgreen text-bolder">Website:</td>
                     <td></td>
-                    <td><a href="www.veritas.edu.ng text-deepgreen text-bolder">veritas.edu.ng</a></td>
+                    <td class="text-format  text-bolder"><a href="www.veritas.edu.ng">veritas.edu.ng</a></td>
                   </tr>
                 </tbody>
               </table>

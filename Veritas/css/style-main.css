@@ -116,6 +116,13 @@
 }*/
 /* Make the image fully responsive */
 /*department search button*/
+.bg-greener{
+  background-color: rgb(9, 112, 9);
+}
+.bg-libbutton{
+  background-color: #129803 !important;
+  color: white !important;
+}
 .campimage{
   height: auto;
  width: 100%;
@@ -149,6 +156,9 @@
 }
 .text-shinegreen{
   color: #7ED957 !important;
+}
+.bg-newschapel{
+  background-color: #EDF0F2 !important;
 }
 .bg-grey :hover{
   background-color: #EDF0F2 !important;
@@ -416,6 +426,13 @@ bottom:initial;
 .sdgthum{
   background-color: white !important;
 }
+.cardi2 {
+  transition: transform 0.2s ease;
+  box-shadow: 0 4px 6px 0 rgba(22, 22, 26, 0.18);
+  border-radius: 0;
+  border: 0;
+  margin-bottom: 1.5em;
+}
 .cardi {
   transition: transform 0.2s ease;
   box-shadow: 0 4px 6px 0 rgba(22, 22, 26, 0.18);
@@ -425,6 +442,7 @@ bottom:initial;
 }
 .cardi:hover {
   transform: scale(1.1);
+  margin-bottom: 15px;
 }
 .latestnews{
   height:130px;

@@ -1,19 +1,14 @@
 <!DOCTYPE html>
 <html dir="ltr" lang="en">
-
-<!-- Mirrored from kodesolution.com/html/2016/studypress-html/demo/index-sp-layout2.php by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jul 2022 15:06:55 GMT -->
 <head>
-
 <!-- Meta Tags -->
 <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
 <meta name="description" content="StudyPress | Education & Courses HTML Template" />
 <meta name="keywords" content="academy, course, education, education html theme, elearning, learning," />
 <meta name="author" content="ThemeMascot" />
-
 <!-- Page Title -->
-<title>Faculty of Natural & Applied Science</title>
-
+<title>The Visitor</title>
 <!-- Favicon and Touch Icons -->
 <link href="images/title.png" rel="shortcut icon" type="image/png">
 <link href="images/logo-wide.png" rel="apple-touch-icon">
@@ -21,7 +16,6 @@
 <link href="images/logo-wide.png" rel="apple-touch-icon" sizes="114x114">
 <link href="images/logo-wide.png" rel="apple-touch-icon" sizes="144x144">
 <link rel="icon" href="https://www.veritas.edu.ng/images/favicon.ico" type="image/x-icon" />
-
 <!-- Stylesheet -->
 <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
 <link href="css/jquery-ui.min.css" rel="stylesheet" type="text/css">
@@ -39,16 +33,14 @@
 <link href="css/responsive.css" rel="stylesheet" type="text/css">
 <!-- CSS | Style css. This is the file where you can place your own custom css code. Just uncomment it and use it. -->
 <!-- <link href="css/style.css" rel="stylesheet" type="text/css"> -->
-
 <!-- Revolution Slider 5.x CSS settings -->
 <link  href="js/revolution-slider/css/settings.css" rel="stylesheet" type="text/css"/>
 <link  href="js/revolution-slider/css/layers.css" rel="stylesheet" type="text/css"/>
 <link  href="js/revolution-slider/css/navigation.css" rel="stylesheet" type="text/css"/>
-
 <!-- CSS | Theme Color -->
 <link href="css/colors/theme-skin-color-set-1.css" rel="stylesheet" type="text/css">
-
 <!-- external javascripts -->
+<script src="js/readmorebtn.js"></script>
 <script src="js/jquery-2.2.4.min.js"></script>
 <script src="js/jquery-ui.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
@@ -66,31 +58,31 @@
   <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
 <![endif]-->
 </head>
-
 <body class="">
     <div id="wrapper" class="clearfix">
      <!-- Header - Header -->
-    <?php include_once "includes/administration-navbar.php" ?>
+   <?php include_once "includes/administration-navbar.php" ?>
       
       <!-- Start main-content -->
       <div class="main-content">
     
         <!-- Section: inner-header -->
-        <section class="inner-header divider parallax layer-overlay overlay-dark-5" data-bg-img="images/bg/capslider.png">
-          <div class="container pt-70 pb-20" data-bg-img="images/bg/capslider.png">
+        <section class="inner-header divider parallax layer-overlay overlay-dark-5" data-bg-img="images/sliderVc/page-header-visitors.jpg">
+          <div class="container pt-70 pb-20" data-bg-img="images/sliderVc/page-header-visitors.jpg">
             <!-- Section Content -->
             <div class="section-content">
               <div class="row">
                 <div class="col-md-12">
-                  <h2 class="title text-white text-bolder">Pro Chancellor Veritas University</h2>
+                  <h2 class="title text-white text-bolder">The Visitor Veritas University</h2>
                   <ol class="breadcrumb text-left text-black mt-10">
-                    <li class="text-white text-bolder font-20"><a href="#" class="text-white text-bolder">Welcome Veritas University </a>Abuja, Nigeria.</li>
+                    <li><a href="#" class="text-white text-bolder">Abuja Nigeria</a></li>
+                    <li><a href="#" class="text-white text-bolder">Welcome</a></li>
                   </ol>
                 </div>
               </div>
             </div>
           </div>
-        </section>     
+        </section>
 <!-- Section: Experts Details -->
 <section>
     <div class="container">
@@ -98,23 +90,24 @@
         <div class="row">
           <div class="col-md-4">
             <div class="thumb">
-              <img src="images/team/team-details.jpg" alt="">
+              <img src="images/sliderVc/kokah.jpg" alt="">
             </div>
           </div>
-          <div class="col-md-8">
-            <h4 class="name font-24 mt-0 mb-0">Sakib Smith</h4>
-            <h5 class="mt-5 text-theme-color-2">Chemistry Teachers</h5>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam vero expedita fugiat illo quasi doloremque, in unde omnis sint assumenda! Quaerat in, reprehenderit corporis voluptatum natus sequi reiciendis ullam. Quam eaque dolorum voluptates cupiditate explicabo.</p>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt culpa dicta quaerat qui recusandae possimus placeat quidem ipsam voluptates similique libero tempore, labore quasi delectus vero alias, consectetur blanditiis eum maxime sunt accusantium ipsa doloribus reiciendis. Ea quod reprehenderit deserunt. Veritatis omnis similique tempora delectus a consequuntur, quis.  Adipisicing elit. Nesciunt culpa dicta quaerat qui recusandae possimus placeat quidem ipsam voluptates similique libero tempore, labore quasi delectus vero alias.</p>
-            <ul class="styled-icons icon-dark icon-theme-colored icon-sm mt-15 mb-0">
-             <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-             <li><a href="#"><i class="fa fa-skype"></i></a></li>
-             <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-           </ul>
+          <div class="col-xs-12 col-sm-12 col-md-8">
+            <h3 class="name font-24 mt-0 mb-0 text-bolder text-navy">Bishop Matthew Kukah</h3>
+            <i class="mt-5 text-theme-color-2 text-bolder text-black font-20">Catholic Bishop of Sokoto, Roman Catholic Diocese of Sokoto</i>
+            <p class="text-justify text-bold text-black">Bishop Matthew Hassan Kukah of the Catholic Diocese of Sokoto, Nigeria, is a tireless advocate for justice, democracy, and human development. Priest and political scientist, he has served as a member of Nigeria’s Truth Commission, as secretary of the Political Reform Conference for Nigeria, and as a member of Nigeria’s Electoral Reform Committee. He played an important role in negotiating an end to the Shell-Ogoni conflict in Nigeria’s delta region.<br>
+              A champion of respectful Christian-Muslim relations, Kukah served as chairman of the Committee on Interreligious Dialogue in Nigeria and West Africa and was appointed by Pope Benedict XVI as a member of the Pontifical Council for Interreligious Dialogue. Named vicar general of the Archdiocese of Kaduna in 2004, he became bishop of Sokoto in 2011.<br>
+              Kuhah was ordained a priest in Kaduna in 1976 at age 24. He subsequently earned a diploma in religious studies from the University of Ibadan, Nigeria, a BA in divinity from the Urban University, Rome, a master’s in peace studies from the University of Bradford, UK, and a PhD in political science from the School of Oriental and African Studies, University of London.<br>
+              <span id="dots"></span><span id="more" class="dismore">He was a senior Rhodes fellow at St. Antony’s College, University of Oxford and an Edward Mason Fellow at the Kennedy School of Government, Harvard University.<br>
+              Among his many publications are Democracy and Civil Society in Nigeria (Codresia, 2001), Religious Militancy and Self-Assertion: Islam and Politics in Nigeria (Avebury, 1997), and Religion, Politics and Power in Northern Nigeria (Ibadan, Spectrum Books, 1993).
+              </span>
+            </p>
+            <button onclick="myFunction()" id="myBtn" class="btn btn-theme-colored btn-flat btn-lg mt-10 mb-sm-30">Read more → </button>
           </div>
         </div>
         <div class="row mt-30">
-          <div class="col-md-4">
+          <div class="col-md-6">
             <h4 class="line-bottom">About Me:</h4>
             <div class="volunteer-address">
               <ul>
@@ -124,8 +117,13 @@
                       <i class="pe-7s-pen text-theme-colored font-24 mt-5"></i>
                     </div>
                     <div class="media-body">
-                      <h5 class="mt-0 mb-0">Experiences:</h5>
-                      <p>Chemistry (BSc), Computer Science (BSc), English and Creative Writing (BA)</p>
+                      <h5 class="mt-0 mb-0">Education:</h5>
+                      <ul class="list">
+                        <li> University of Ibadan, Diploma in Religious Studies.</li>
+                        <li> Bachelor of Divinity, Urban University Rome in 1976.</li>
+                        <li> Master’s degree in Peace Studies,  University of Bradford, United Kingdom</li>
+                        <li> PhD from University of London's School of Oriental and African Studies (SOAS)</li>
+                      </ul>
                     </div>
                   </div>
                 </li>
@@ -136,7 +134,7 @@
                     </div>
                     <div class="media-body">
                       <h5 class="mt-0 mb-0">Address:</h5>
-                      <p>Village 856 Broadway New York</p>
+                      <p>Catholic Diocese of Sokoto, Nigeria,</p>
                     </div>
                   </div>
                 </li>
@@ -154,40 +152,9 @@
               </ul>
             </div>
           </div>
-          <div class="col-md-4">
+          <div class="col-md-6">
             <h4 class="line-bottom">Find Location:</h4>
-
             <!-- Google Map HTML Codes --><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5456.163483134849!2d144.95177475051227!3d-37.81589041361766!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad65d4dd5a05d97%3A0x3e64f855a564844d!2s121+King+St%2C+Melbourne+VIC+3000%2C+Australia!5e0!3m2!1sen!2sbd!4v1556130803137!5m2!1sen!2sbd" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-          </div>
-          <div class="col-md-4">
-            <div class="clearfix">
-              <h4 class="line-bottom">Quick Contact:</h4>
-            </div>
-            <form id="contact-form" class="contact-form-transparent">
-              <div class="row">
-                <div class="col-sm-12">
-                  <div class="form-group">
-                    <input type="text" placeholder="Enter Name" id="contact_name" name="contact_name" required="" class="form-control">
-                  </div>
-                </div>
-                <div class="col-sm-6">
-                  <div class="form-group">
-                    <input type="text" placeholder="Enter Email" id="contact_email" name="contact_email" class="form-control" required="">
-                  </div>
-                </div>
-                <div class="col-sm-6">
-                  <div class="form-group">
-                    <input type="text" placeholder="Enter Subject" id="contact_subject" name="contact_subject" class="form-control" required="">
-                  </div>
-                </div>
-              </div>
-              <div class="form-group">
-                <textarea rows="5" placeholder="Enter Message" id="contact_message" name="contact_message" required class="form-control"></textarea>
-              </div>
-              <div class="form-group">
-                <button data-loading-text="Please wait..." class="btn btn-flat btn-dark btn-theme-colored mt-5" type="submit">Send your message</button>
-              </div>
-            </form>
           </div>
         </div>
       </div>
@@ -199,11 +166,10 @@
       </div>
       <!-- end main-content -->
       <!-- Footer -->
-     <?php include_once "includes/footer.php" ?>
-    
+      <?php include_once "includes/footer.php" ?>
+    <!-- end wrapper -->
     <!-- Footer Scripts -->
     <!-- JS | Custom script for all pages -->
     <script src="js/custom.js"></script>
-    
     </body>
     </html>

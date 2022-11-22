@@ -1,25 +1,20 @@
 <!DOCTYPE html>
 <html dir="ltr" lang="en">
-
 <head>
-
 <!-- Meta Tags -->
 <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
 <meta name="description" content="StudyPress | Education & Courses HTML Template" />
 <meta name="keywords" content="academy, course, education, education html theme, elearning, learning," />
 <meta name="author" content="ThemeMascot" />
-
 <!-- Page Title -->
-<title>commig-soon</title>
-
+<title>List of Faculties</title>
 <!-- Favicon and Touch Icons -->
 <link href="images/favicon.png" rel="shortcut icon" type="image/png">
 <link href="images/apple-touch-icon.png" rel="apple-touch-icon">
 <link href="images/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72">
 <link href="images/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="114x114">
 <link href="images/apple-touch-icon-144x144.png" rel="apple-touch-icon" sizes="144x144">
-
 <!-- Stylesheet -->
 <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
 <link href="css/jquery-ui.min.css" rel="stylesheet" type="text/css">
@@ -29,7 +24,6 @@
 <link id="menuzord-menu-skins" href="css/menuzord-skins/menuzord-rounded-boxed.css" rel="stylesheet"/>
 <!-- CSS | Main style file -->
 <link href="css/style-main.css" rel="stylesheet" type="text/css">
-<link href="css/style.css" rel="stylesheet" type="text/css">
 <!-- CSS | Preloader Styles -->
 <link href="css/preloader.css" rel="stylesheet" type="text/css">
 <!-- CSS | Custom Margin Padding Collection -->
@@ -38,85 +32,177 @@
 <link href="css/responsive.css" rel="stylesheet" type="text/css">
 <!-- CSS | Style css. This is the file where you can place your own custom css code. Just uncomment it and use it. -->
 <!-- <link href="css/style.css" rel="stylesheet" type="text/css"> -->
-
+<script src="https://kit.fontawesome.com/13d098a0cf.js" crossorigin="anonymous"></script>
 <!-- Revolution Slider 5.x CSS settings -->
 <link  href="js/revolution-slider/css/settings.css" rel="stylesheet" type="text/css"/>
 <link  href="js/revolution-slider/css/layers.css" rel="stylesheet" type="text/css"/>
 <link  href="js/revolution-slider/css/navigation.css" rel="stylesheet" type="text/css"/>
-
 <!-- CSS | Theme Color -->
 <link href="css/colors/theme-skin-color-set-1.css" rel="stylesheet" type="text/css">
-
-
 <!-- external javascripts -->
 <script src="js/jquery-2.2.4.min.js"></script>
 <script src="js/jquery-ui.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
 <!-- JS | jquery plugin collection for this theme -->
 <script src="js/jquery-plugin-collection.js"></script>
-
 <!-- Revolution Slider 5.x SCRIPTS -->
 <script src="js/revolution-slider/js/jquery.themepunch.tools.min.js"></script>
 <script src="js/revolution-slider/js/jquery.themepunch.revolution.min.js"></script>
 <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
 <!--[if lt IE 9]>
-<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
 <![endif]-->
 </head>
 <body class="">
-  <div id="wrapper" class="clearfix">
-  <section class="container pt-0 pb-0 mb-30 mt-50">
-    <div class="row">
-      <div class="section-content text-center">
-        <div class="col-md-12">
-          <h1 class="font-weight-400 text-theme-color-2 font-48 mb-50">No Information Yet for this page!</h1>
-          <p class="font-14 mb-20">Sorry.... The University is working hard to see that within the time stated below,<br>  we will populate it with content! ... </p>
-          <!-- FlipClock Script -->
-          <div class="pl-100 ml-150  mt-50">
-            <div class="clock" style="margin:2em;"></div>
-            <div class="message"></div>
-            <script type="text/javascript">
-              var clock;
-              $(document).ready(function() {
-                var clock;
-                clock = $('.clock').FlipClock({
-                  clockFace: 'DailyCounter',
-                  autoStart: false,
-                  callbacks: {
-                    stop: function() {
-                      $('.message').php('The clock has stopped! Therefore, the site has been completely tested and we are now hosting the site.')
-                    }
-                  }
-                });
-                clock.setTime(7776000);
-                clock.setCountdown(true);
-                clock.start();
-              });
-            </script>
+<div id="wrapper" class="clearfix">
+  <!-- Header -->
+<!-- Header - Header -->
+<?php include_once "includes/innerpage-navbar.php" ?>
+  <!-- Start main-content -->
+  <div class="main-content " >
+    <!-- Section: inner-header -->
+    <section class="inner-header divider parallax layer-overlay overlay-dark-5" data-bg-img="images/event/building.png">
+      <div class="container pt-60 pb-60 height-300px">
+        <!-- Section Content -->
+        <div class="section-content">
+          <div class="row">
+            <div class="col-md-12 text-center mt-20 bg-wallv">
+              <h3 class="font-28 text-black text-bolder">Our Faculties</h2>
+            </div>
           </div>
-          <div class="col-md-12">
-            <p class="font-14 mt-50">Please, consider sending us a mail, we will talk to you !</p>
-            <form id="mailchimp-subscription-form" class="newsletter-form mt-0 mb-30">
-              <label for="mce-EMAIL"></label>
-              <div class="input-group">
-                <input type="email" id="mce-EMAIL" data-height="45px" class="form-control" placeholder="Your Email" name="EMAIL" value="">
-                <span class="input-group-btn">
-                  <button type="submit" class="btn btn-colored btn-theme-colored m-0" data-height="45px">Subscribe</button>
-                </span>
-              </div>
+        </div>
+      </div>      
+    </section>
+    <!-------Table listing of departmens and undergraduates---------->
+    <section  class="mt-0">
+      <div class="container bg-color-white">
+        <div class="row">
+          <div class=" col-sm-12 col-md-9">
+            <form id="appointment_form" name="appointment_form" class="mt-30" method="post" action="includes/appointment.php">
+              <input type="text" id='myInput'  onkeyup='searchTable()' placeholder="&#xF002; Search" title="Type in a name">
             </form>
+            <div class="section-title mb-5">
+              <div class="row">
+                <div class="col-xs-12 col-sm-12 col-md-12">
+                  <div><h4 class="mt-0 font-28 line-bottom line-height-1">Faculties</h4></div>
+                  <div></div>
+                </div>
+              </div>
+            </div>
+            <div data-example-id="hoverable-table" class="bs-example">
+              <table class="table" id='myTable'> 
+                <thead class="bg-theme-colored text-white"> 
+                  <tr> 
+                    <th>S/N</th> 
+                    <th>Faculty NAME</th> 
+                    <th>Abbrivation</th> 
+                  </tr> 
+                </thead> 
+                <tbody> 
+                  <tr> 
+                    <th scope="row">1</th> 
+                    <td><a href="#" class="text-deepgreen text-bolder">Faculty of Natural & Applied Science</a></td> 
+                    <td>F.N.A.S</td> 
+                  </tr> 
+                  <tr> 
+                    <th scope="row">2</th> 
+                    <td><a href="#" class="text-deepgreen text-bolder text-uppercase">Faculty of Engineering & ENGINEERING TECHNOLOGY</a></td> 
+                    <td>F.E.E.T</td> 
+                  </tr> 
+                  <tr> 
+                    <th scope="row">3</th> 
+                    <td><a href="#" class="text-deepgreen text-bolder">Faculty of pharmaceutical sciences</a></td> 
+                    <td>FPS</td> 
+                    </tr> 
+                    <tr> 
+                      <th scope="row">4</th> 
+                      <td><a href="#" class="text-deepgreen text-bolder">Faculty of Management Sciences</a></td> 
+                      <td>FMS</td> 
+                      </tr> 
+                      <tr> 
+                        <th scope="row">5</th> 
+                        <td><a href="#" class="text-deepgreen text-bolder">Faculty of Health Sciences</a></td> 
+                        <td>FHS</td> 
+                        </tr> 
+                        <tr> 
+                          <th scope="row">6</th> 
+                          <td><a href="#" class="text-deepgreen text-bolder">Faculty of Social Sciences</a></td> 
+                          <td>FSS</td> 
+                          </tr>
+                          <tr> 
+                          <th scope="row">7</th> 
+                          <td><a href="#" class="text-deepgreen text-bolder">Faculty of Humanities</a></td> 
+                          <td>FH</td> 
+                          </tr> 
+                          <tr> 
+                          <th scope="row">8</th> 
+                          <td><a href="#" class="text-deepgreen text-bolder">Faculty of Education</a></td> 
+                          <td>FE</td> 
+                          </tr>  
+                          <tr>
+                          <th scope="row">9</th> 
+                          <td><a href="#" class="text-deepgreen text-bolder">Faculty of Law</a></td> 
+                          <td>FL</td> 
+                          </tr>  
+                          <tr>
+                          <th scope="row">10</th> 
+                          <td><a href="#" class="text-deepgreen text-bolder">Faculty of Philosophy & Theology</a></td> 
+                          <td>FPT</td> 
+                          </tr>  
+                          
+                  </tbody> 
+                </table> 
+              </div>
+        </div><br>
+          <div class=" col-sm-12 col-md-3" style="margin-top:10%;">
+            <div class="widget">
+              <h4 class="widget-title line-bottom text-bolder text-deepgreen">Quick Link</h4>
+              <ul class="list angle-double-right ">
+                <li><a href="#" class="text-black text-bold">A-Z Programmes</a></li>
+                <li><a class="text-black text-bold"  href="postgraduate-school.php">Post Graduate</a></li>
+                <li><a class="text-black text-bold"  href="admission.php">Undergraduate</a></li>
+                <li class="libtab"><a class="text-black text-bold" href="list-of-department.php">Departments</a></li>
+                <li class="libtab"><a class="text-black text-bold"  href="librar.php">Using Our library</a></li>
+                <li class="libtab"><a class="text-black text-bold"  href="news.php">News & Events</a></li>
+                <li class="libtab"><a class="text-black text-bold"  href="development-office.php">New projects</a></li>   
+              </ul>
+            </div>
           </div>
         </div>
       </div>
-    </div>
-  </section>
-    <!-- end main-content -->
+    </section>
+    <script>
+      function searchTable() {
+          var input, filter, found, table, tr, td, i, j;
+          input = document.getElementById("myInput");
+          filter = input.value.toUpperCase();
+          table = document.getElementById("myTable");
+          tr = table.getElementsByTagName("tr");
+          for (i = 0; i < tr.length; i++) {
+              td = tr[i].getElementsByTagName("td");
+              for (j = 0; j < td.length; j++) {
+                  if (td[j].innerHTML.toUpperCase().indexOf(filter) > -1) {
+                      found = true;
+                  }
+              }
+              if (found) {
+                  tr[i].style.display = "";
+                  found = false;
+              } else {
+                  tr[i].style.display = "none";
+              }
+          }
+      }
+      </script>
+  <!-- Footer -->
+ <?php include_once "includes/footer.php" ?>
+<!-- end wrapper -->
 
-
-<!-- SLIDER REVOLUTION 5.0 EXTENSIONS (Load Extensions only on Local File Systems ! The following part can be removed on Server for On Demand Loading) -->
+<!-- Footer Scripts -->
+<!-- JS | Custom script for all pages -->
+<script src="js/custom.js"></script>
 
 </body>
-
 </html>

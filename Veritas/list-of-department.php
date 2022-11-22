@@ -1,24 +1,20 @@
 <!DOCTYPE html>
 <html dir="ltr" lang="en">
 <head>
-
 <!-- Meta Tags -->
 <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
 <meta name="description" content="StudyPress | Education & Courses HTML Template" />
 <meta name="keywords" content="academy, course, education, education html theme, elearning, learning," />
 <meta name="author" content="ThemeMascot" />
-
 <!-- Page Title -->
 <title>Departments & Programmes</title>
-
 <!-- Favicon and Touch Icons -->
 <link href="images/favicon.png" rel="shortcut icon" type="image/png">
 <link href="images/apple-touch-icon.png" rel="apple-touch-icon">
 <link href="images/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72">
 <link href="images/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="114x114">
 <link href="images/apple-touch-icon-144x144.png" rel="apple-touch-icon" sizes="144x144">
-
 <!-- Stylesheet -->
 <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
 <link href="css/jquery-ui.min.css" rel="stylesheet" type="text/css">
@@ -41,21 +37,17 @@
 <link  href="js/revolution-slider/css/settings.css" rel="stylesheet" type="text/css"/>
 <link  href="js/revolution-slider/css/layers.css" rel="stylesheet" type="text/css"/>
 <link  href="js/revolution-slider/css/navigation.css" rel="stylesheet" type="text/css"/>
-
 <!-- CSS | Theme Color -->
 <link href="css/colors/theme-skin-color-set-1.css" rel="stylesheet" type="text/css">
-
 <!-- external javascripts -->
 <script src="js/jquery-2.2.4.min.js"></script>
 <script src="js/jquery-ui.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
 <!-- JS | jquery plugin collection for this theme -->
 <script src="js/jquery-plugin-collection.js"></script>
-
 <!-- Revolution Slider 5.x SCRIPTS -->
 <script src="js/revolution-slider/js/jquery.themepunch.tools.min.js"></script>
 <script src="js/revolution-slider/js/jquery.themepunch.revolution.min.js"></script>
-
 <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
 <!--[if lt IE 9]>
@@ -67,7 +59,7 @@
 <div id="wrapper" class="clearfix">
   <!-- Header -->
 <!-- Header - Header -->
-<?php include_once "includes/department-navbar.php" ?>
+<?php include_once "includes/innerpage-navbar.php" ?>
   <!-- Start main-content -->
   <div class="main-content " >
     <!-- Section: inner-header -->
@@ -157,28 +149,17 @@
                 </table> 
               </div>
         </div><br>
-          <div class=" col-sm-12 col-md-3">
+          <div class=" col-sm-12 col-md-3" style="margin-top:10%;">
             <div class="widget">
-              <h4 class="widget-title line-bottom text-bolder text-deepgreen">Faculties</h4>
-              <div class="categories">
-                <ul class="list  angle-double-right">
-                  <li><a href="#" class="text-black text-bold">Faculty of Engineering<span class="text-deepgreen text-bolder"> (02)</span></a></li>
-                  <li><a href="#" class="text-black text-bold">Faculty of Natura & Applied Sci.<span class="text-deepgreen text-bolder"> (06)</span></a></li>
-                  <li><a href="#" class="text-black text-bold">Faculty of Law<span class="text-deepgreen text-bolder"> (01)</span></a></li>
-                  <li><a href="#" class="text-black text-bold">Faculty of Medical Sciences<span class="text-deepgreen text-bolder"> (03)</span></a></li>
-                  <li><a href="#" class="text-black text-bold">Faculty of Mgt Studies<span class="text-deepgreen text-bolder"> (05)</span></a></li>
-                  <li><a href="#" class="text-black text-bold">Faculty of Humanities<span class="text-deepgreen text-bolder"> (03)</span></a></li>
-                  <li><a href="#" class="text-black text-bold">Faculty of Education<span class="text-deepgreen text-bolder"> (03)</span></a></li>
-                </ul>
-              </div>
-            </div>
-            <div class="widget">
-              <h4 class="widget-title line-bottom text-bolder text-deepgreen">Programmes</h4>
+              <h4 class="widget-title line-bottom text-bolder text-deepgreen">Quick Link</h4>
               <ul class="list angle-double-right ">
-                <li><a href="page-about-style1.php" class="text-black text-bold">A-Z Programmes</a></li>
-                <li><a href="page-course-list.php" class="text-black text-bold">Full Time Programmes</a></li>
-                <li><a href="page-pricing-style1.php" class="text-black text-bold">Part Time Programmes</a></li>
-                <li><a href="page-gallery-3col.php" class="text-black text-bold">External Programmes</a></li>
+                <li><a href="#" class="text-black text-bold">A-Z Programmes</a></li>
+                <li><a class="text-black text-bold"  href="postgraduate-school.php">Post Graduate</a></li>
+                <li><a class="text-black text-bold"  href="admission.php">Undergraduate</a></li>
+                <li class="libtab"><a class="text-black text-bold" href="list-of-department.php">Departments</a></li>
+                <li class="libtab"><a class="text-black text-bold"  href="librar.php">Using Our library</a></li>
+                <li class="libtab"><a class="text-black text-bold"  href="news.php">News & Events</a></li>
+                <li class="libtab"><a class="text-black text-bold"  href="development-office.php">New projects</a></li>   
               </ul>
             </div>
           </div>

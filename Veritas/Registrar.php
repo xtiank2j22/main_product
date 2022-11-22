@@ -8,10 +8,8 @@
 <meta name="description" content="StudyPress | Education & Courses HTML Template" />
 <meta name="keywords" content="academy, course, education, education html theme, elearning, learning," />
 <meta name="author" content="ThemeMascot" />
-
 <!-- Page Title -->
 <title>Registrar</title>
-
 <!-- Favicon and Touch Icons -->
 <link href="images/title.png" rel="shortcut icon" type="image/png">
 <link href="images/logo-wide.png" rel="apple-touch-icon">
@@ -33,7 +31,6 @@
 <!-- CSS | Main style file -->
 <link href="css/style-main.css" rel="stylesheet" type="text/css">
 <link href="css/utility-classes.css" rel="stylesheet" type="text/css">
-
 <!-- CSS | Preloader Styles -->
 <link href="css/preloader.css" rel="stylesheet" type="text/css">
 <!-- CSS | Custom Margin Padding Collection -->
@@ -94,7 +91,7 @@
                 <div class="tab-pane fade in active " id="tab16">
                   <div class="row">
                     <div class="col-xs-12 col-sm-12 col-md-5 col-lg-5 col-xl-5 text-black text-center">
-                      <h4 class="widget-title text-navy text-bolder">The Bursar Veritas University<hr class="bg-theme-color-2 hrvc"></h4> 
+                      <h4 class="widget-title text-navy text-bolder">The Registrar Veritas University<hr class="bg-theme-color-2 hrvc"></h4> 
                         <img src="images/sliderVc/registrar.jpg" class="adimg img-fullwidth">
                     </div>
                     <div class="col-xs-12 col-sm-12 col-md-7 col-lg-7 col-xl-7"><br><br>

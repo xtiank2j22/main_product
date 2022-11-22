@@ -75,27 +75,7 @@
   <!-- Start main-content -->
   <div class="main-content">
     <!-- Section: inner-header -->
-    <section class="layer-overlay overlay-theme-colored2-9 bg-no-repeat bg-pos-center-center" data-tm-bg-img="images/project/librar6.jpg" style="background-image: url(&quot;images/project/librar6.jpg&quot;);">
-        <div class="container pt-70 pb-20">
-            <h2 class="title text-navy text-bolder text-center">Veritas University library</h2>
-        <!-- Section Content -->
-        <div class="section-content"> 
-          <div class="row">
-            <div class="col-md-5  bg-theme-colored-transparent-9 border-left-theme-color-2-4px mr-5 mb-5">
-                <h2 class="title text-white text-bolder">Student Academic Skill.</h2>
-                <p class="text-white text-bolder">Faculty-specific resources, webinars and support</p>
-                <button type="submit" class="btn btn-flat bg-slidbtn text-uppercase mt-20 mb-sm-30 border-left-theme-color-2-4px text-bolder" data-loading-text="Please wait...">Find More </button>
-            </div>
-            <div class="col-md-6 bg-theme-colored-transparent-9 border-right-theme-color-2-4px ">
-                <h2 class="title text-white text-bolder">Opening Hours</h2>
-                <p class="text-white text-bolder">Check opening hours for each of the library</p>
-                <button type="submit" class="btn btn-flat bg-slidbtn text-uppercase mt-20 mb-sm-30 border-left-theme-color-2-4px text-bolder" data-loading-text="Please wait...">Find More </button>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-        
+        <?php include_once "includes/library-slider.php" ?>
           <!--------welcome section------------>
         <section class="mt-10">
             <div class="container bg-lightest">
@@ -156,19 +136,7 @@
                       </tr>
                       </table>
                     <div class="widget">
-                        <ul class="list list-border angle-double-left">
-                          <li class="libtab"><a href="page-courses-accounting-technologies.php">library Essentials</a></li>
-                          <li class="libtab"><a href="page-courses-chemical-engineering.php">Using Our library</a></li>
-                          <li class="libtab"><a href="page-courses-computer-technologies.php">Discover Our Collections</a></li>
-                          <li class="libtab"><a href="page-courses-development-studies.php">Reading list</a></li>
-                          <li class="libtab"><a href="page-courses-electrical-electronic.php">More Books</a></li>
-                          <li class="libtab"><a href="page-courses-accounting-technologies.php">Studies Support</a></li>
-                          <li class="libtab"><a href="page-courses-chemical-engineering.php">Research Support</a></li>
-                          <li class="libtab"><a href="page-courses-computer-technologies.php">Help & Support</a></li>
-                          <li class="libtab"><a href="page-courses-development-studies.php">News</a></li>
-                          <li class="libtab"><a href="page-courses-electrical-electronic.php">Events</a></li>
-                          <li class="libtab"><a href="page-courses-electrical-electronic.php">About Us</a></li>
-                        </ul>
+                    <?php include_once "includes/right-lib-link.php" ?>
                     </div>
                 </div>
               </div>

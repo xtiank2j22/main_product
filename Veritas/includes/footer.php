@@ -20,6 +20,7 @@
                               <li><a class="text-white"  href="about-us.php">About Us</a></li>
                               <li><a class="text-white"  href="list-of-courses.php">Our Courses</a></li>
                               <li><a class="text-white"  href="campus-life.php">Campus life</a></li>
+                              <li><a class="text-white"  href="staffs.php">Staff</a></li>
                               <li><a class="text-white"  href="contact.php">Contact Us</a></li>
                               <li><a class="text-white"  href="news.php">News & Events</a></li> 
                               <li><a class="text-white"  href="admission.php">Admission</a></li>    
@@ -125,7 +126,7 @@
                       <div class="container pt-20 pb-20">
                         <div class="row">
                           <div class="col-md-6 ">
-                            <p class="font-11 text-white m-0">Copyright &copy;2022 Veritas University, Abuja. All Rights Reserved</p>
+                            <p class="font-11 text-white m-0"><?php echo 'copyright &copy; 20' . date('y') ?> Veritas University, Abuja. All Rights Reserved</p>
                           </div>
                           <div class="col-md-6 text-right">
                             <div class="widget no-border m-0">

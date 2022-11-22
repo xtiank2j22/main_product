@@ -8,7 +8,7 @@
 <meta name="keywords" content="academy, course, education, education html theme, elearning, learning," />
 <meta name="author" content="ThemeMascot" />
 <!-- Page Title -->
-<title>Admission</title>
+<title>student</title>
 <!-- Favicon and Touch Icons -->
 <link href="images/title.png" rel="shortcut icon" type="image/png">
 <link href="images/logo-wide.png" rel="apple-touch-icon">

@@ -27,11 +27,11 @@
                             <h2 class=" text-navy mt-0 font-20 font-weight-500 text-format">Scholarship</h2>
                           </div></div>
                           <div class=" col-md-2 col-lg-2"> <div class="funfact text-center">
-                            <a href="#" class=""><img src="images/flaticon-png/small/lecture.png"  alt=""></a>
+                            <a href="librar.php" class=""><img src="images/flaticon-png/small/lecture.png"  alt=""></a>
                             <h2 class=" text-navy mt-0 font-20 font-weight-500 text-format">Learning</h2>
                           </div></div>
                           <div class=" col-md-2 col-lg-2" ><div class="funfact text-center" >
-                            <a href="about.php" class=""><img src="images/flaticon-png/small/8.png"  alt=""></a>
+                            <a href="about-us.php" class=""><img src="images/flaticon-png/small/8.png"  alt=""></a>
                             <h2 class=" text-navy mt-0 font-20 font-weight-500 text-format">About-Us</h2>
                           </div></div>
                         </div>
@@ -39,7 +39,7 @@
                     </div>
                   </div>
                 </section>
-                      <!-- Section: latest news -->
+                <!-- Section: latest news -->
                 <section id="blog" class="height-50px;">
                   <div class="container ">
                     <div class="section-content ">
@@ -108,7 +108,7 @@
                             <div class="entry-content p-20 pr-10 bg-white">
                             <h4 class="title text-uppercase line-bottom mt-0 text-navy text-bolder text-format">SDGs Setout Goals</h4>
                             <p class="desc mb-10 ovaflowtop text-format">Veritas University Partiner with UN and Governmet to acturalise the SDG Goals </p>
-                            <a href="SDGs.php" class="btn btn-xs btn-theme-colored text-format">Read more</a>
+                            <a class="btn btn-theme-colored btn-flat btn-lg mt-10 mb-sm-30 text-bolder" href="SDGs.php">Visit SDG Page →</a>
                             <div class="clearfix"></div>
                             </div>
                           </article>
@@ -123,7 +123,7 @@
                             <div class="entry-content p-20 pr-10 bg-white">
                             <h4 class="title text-uppercase line-bottom mt-0 text-navy text-bolder text-format">Notice Board</h4>
                             <p class="desc mb-10 ovaflowtop text-format">Important Notifications and announcements to all our students, parents, and also to prospective students. </p>
-                            <a href="newsview.php" class="btn btn-xs btn-theme-colored">Read more</a>
+                            <a class="btn btn-theme-colored btn-flat btn-lg mt-10 mb-sm-30 text-bolder" href="newsview.php">Visit Notics Board →</a>
                             <div class="clearfix"></div>
                             </div>
                           </article>
@@ -138,7 +138,7 @@
                             <div class="entry-content p-20 pr-10 bg-white">
                             <h4 class="title text-uppercase line-bottom mt-0 text-navy text-bolder text-format">Orientation</h4>
                             <p class="desc mb-10 ovaflowtop text-format">The Orientation for the freshers commence 23rd September, 2022. All new students are expected to attain</p>
-                            <a href="newsview.php" class="btn btn-xs btn-theme-colored">Read more</a>
+                            <a class="btn btn-theme-colored btn-flat btn-lg mt-10 mb-sm-30 text-bolder" href="newsview.php">Visit Page →</a>
                             <div class="clearfix"></div>
                             </div>
                           </article>
@@ -153,7 +153,7 @@
                             <div class="entry-content p-20 pr-10 bg-white">
                             <h4 class="title text-uppercase line-bottom mt-0 text-navy text-bolder text-format">Admission</h4>
                             <p class="desc mb-10 ovaflowtop text-format">For information that will assist our propective students to study at Veritas University Abuja</p>
-                            <a href="admission.php" class="btn btn-xs btn-theme-colored">Read more</a>
+                            <a class="btn btn-theme-colored btn-flat btn-lg mt-10 mb-sm-30 text-bolder" href="admission.php">Visit Page →</a>
                             <div class="clearfix"></div>
                             </div>
                           </article>
@@ -165,7 +165,6 @@
                 <!-- Section: About------------------------------------------------------ -->
                 <section class="abtsection" style="margin-bottom: -5px;">
                   <div class="container mt-0">
-                    
                       <div class="row">
                         <div class="col-md-6">
                           <div class="video-popup">                
@@ -174,15 +173,15 @@
                         </div>
                         <div class="col-md-6">
                           <h2 class="text-uppercase font-weight-600 mt-0 font-28 line-bottom text-navy text-format">All About</h2>
-                          <h6 class=" letter-space-4 text-gray-darkgray text-uppercase mt-0 mb-0 text-format">The World's Best moral, Cultured & social University</h6>
+                          <h6 class=" letter-space-4 text-gray-darkgray text-uppercase mt-0 mb-0 text-format">A University built on moral, Cultured & social standared</h6>
                           <div class="text-justify text-format">
                             We are a dynamic community of staff and students with Christian orientation 
-                            and inspiration who is motivated by the ideals of hard work, integrity, dicipline 
-                            and creativeness, and dedicated to Catholic principles and attitudes,
-                            working together to create  knowledgeable and skillfull graduates that
+                            and inspiration, who is motivated by the ideals of hard work, integrity, discipline 
+                            and creativeness, and dedicated to Catholic principles, believe and attitudes,
+                            working toward creating a knowledgeable and skillfull graduates that
                             will fit in around the globe for the advancement of its environment and the Nigerian society.
                             </div>
-                          <a class="btn btn-theme-colored btn-flat btn-lg mt-10 mb-sm-30" href="Vice-Chancellor.php">Know More →</a>
+                          <a class="btn btn-theme-colored btn-flat btn-lg mt-10 mb-sm-30 text-bolder" href="Vice-Chancellor.php">Know More →</a>
                         </div>
                       </div>
                   </div>
@@ -212,7 +211,7 @@
                                       <div class="content text-left flip p-25 pt-0">
                                         <h4 class="line-bottom mb-10 text-format">Software Engineering</h4>
                                         <p class="ovaflow text-format">Software Engineering is a profession that can do the job of almost all other professions</p>
-                                      <a class="btn btn-dark btn-theme-colored btn-sm text-uppercase mt-10" href="software-engineering.php">view details</a>
+                                      <a class="btn btn-dark btn-theme-colored btn-sm text-uppercase mt-10 text-bolder" href="software-engineering.php">view details</a>
                                       </div>
                                     </div>
                                   </div>
@@ -223,7 +222,7 @@
                                       <div class="content text-left flip p-25 pt-0">
                                         <h4 class="line-bottom mb-10 text-format">Microbiology</h4>
                                         <p class="ovaflow text-format">To produce scientists who are abreast with the current methodologies in in the field of Microbiology Research</p>
-                                      <a class="btn btn-dark btn-theme-colored btn-sm text-uppercase mt-10" href="microbilogy.php">view details</a>
+                                      <a class="btn btn-dark btn-theme-colored btn-sm text-uppercase mt-10 text-bolder" href="microbilogy.php">view details</a>
                                     </div>
                                     </div>
                                   </div>
@@ -234,7 +233,7 @@
                                       <div class="content text-left flip p-25 pt-0">
                                         <h4 class="line-bottom mb-10 text-format">Law</h4>
                                         <p class="ovaflow text-format">Study Law with us today and have the chance to be rated among the decision makers arround the world and our society.</p>
-                                      <a class="btn btn-dark btn-theme-colored btn-sm text-uppercase mt-10" href="page-courses-accounting-technologies.php">view details</a>
+                                      <a class="btn btn-dark btn-theme-colored btn-sm text-uppercase mt-10 text-bolder" href="faculty-of-law.php">view details</a>
                                     </div>
                                     </div>
                                   </div>
@@ -245,7 +244,7 @@
                                       <div class="content text-left flip p-25 pt-0">
                                         <h4 class="line-bottom mb-10 text-format">Pharmacy</h4>
                                         <p class="ovaflow text-format">We are keen to establishing and educating you with constant practical and real life experince of the parmacitical world. </p>
-                                        <a class="btn btn-dark btn-theme-colored btn-sm text-uppercase mt-10" href="page-courses-accounting-technologies.php">view details</a>
+                                        <a class="btn btn-dark btn-theme-colored btn-sm text-uppercase mt-10" href="software-engineering.php">view details</a>
                                       </div>
                                     </div>
                                   </div>
@@ -256,7 +255,7 @@
                                       <div class="content text-left flip p-25 pt-0">
                                         <h4 class="line-bottom mb-10 text-format">Computer Engineering</h4>
                                         <p class="ovaflow text-format"> I welcome you to the department of Computer Engineering were the department trained and educates students that will be in the fore front of indigenous technological development of the nation, predicated on sound theoretical framework and inter-woven with sufficient practical contents of exposure.</p>
-                                        <a class="btn btn-dark btn-theme-colored btn-sm text-uppercase mt-10" href="page-courses-accounting-technologies.php">view details</a>
+                                        <a class="btn btn-dark btn-theme-colored btn-sm text-uppercase mt-10" href="software-engineering.php">view details</a>
                                       </div>
                                     </div>
                                   </div>
@@ -267,19 +266,19 @@
                         </div>
                         <!------dept info section--------->
                         <div class="col-md-3">
-                          <h3 class="line-bottom mt-0 line-height-1 text-format">Dept<span class="text-theme-color-2 text-format"> Info</span></h3>
+                          <h3 class="line-bottom mt-0 line-height-1 text-format text-bolder">Dept<span class="text-theme-color-2 text-format text-bolder"> Info</span></h3>
                           <div class="entry-meta media no-bg no-border mt-15 pb-20">
                             <div class="entry-date media-left text-center flip bg-theme-colored pt-5 pr-15 pb-5 pl-15">
                               <ul>
                                 <li class="font-20 text-white font-weight-600 text-bolder text-format">20</li>
-                                <li class="font-20 text-white text-uppercase text-bolder text-format">Aug</li>
+                                <li class="font-20 text-white text-uppercase  text-format">Aug</li>
                               </ul>
                             </div>
                             <div class="media-body pl-15">
                               <div class="event-content pull-left flip">
-                                <p class="entry-title text-white text-uppercase m-0 text-bolder ovaflow text-format"><a href="newsview.php">Government policy</a></p>
+                                <p class="entry-title text-white text-uppercase m-0  ovaflow text-bolder"><a href="newsview.php">Government policy</a></p>
                                 <p class="mt-o text-black text-bold ovaflow mb-0 text-format">Dept of Law Annual lecture by <span class="text-navy text-format">SAN. Christian</span> </p>
-                                <i class="fas fa-calendar-alt mt-0 text-deepgreen dta text-format" > 20 August, 2022</i>
+                                <i class="fas fa-calendar-alt mt-0 text-deepgreen dta " > 20 August, 2022</i>
                               </div>
                             </div>
                           </div>

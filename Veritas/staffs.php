@@ -72,17 +72,14 @@
   
   <!-- Start main-content -->
   <div class="main-content">
-    <section class="inner-header divider parallax layer-overlay overlay-dark-5" data-bg-img="images/bg/bg3.jpg">
+    <section class="inner-header divider layer-overlay" data-bg-img="images/event/5.png" >
       <div class="container pt-70 pb-20">
         <!-- Section Content -->
         <div class="section-content">
           <div class="row">
             <div class="col-md-12">
-              <h2 class="title text-white">People</h2>
-              <ol class="d-flex breadcrumb text-left-black mt-10  justify-content-start breadcrumb-wrapper">
-                <li><a href="#">Home <i class="fa fa-angle-double-right font-16 ml-10"></i></a></li>
-                <li class="active text-gray-silver">Veritas University Staffs</li>
-              </ol>
+              <h2 class="title text-white text-bolder">STAFF</h2>
+                <h3 class="active text-white text-format text-bolder">Veritas University Staffs</h3>
             </div>
           </div>
         </div>
@@ -94,345 +91,100 @@
         <div class="section-title mb-10">
           <div class="row">
             <div class="col-md-12">
-              <h2 class="text-uppercase text-theme-colored title line-bottom line-height-1 mb-0">Our <span class="text-theme-color-2 font-weight-400">People</span>  </h2>
+              <h2 class="text-uppercase text-theme-colored title line-bottom line-height-1 mb-0">Our <span class="text-theme-color-2 font-weight-400">People</span><a class="btn btn-flat btn-theme-colored btn-lg mt-5 pull-right text-white border-left-theme-color-2-4px" href="people.php">View All<i class="fa fa-angle-double-right font-16 ml-10"></i></a>  </h2>
             </div>
           </div>
         </div>
         <div class="section-content">
           <div class="row">
             <div class="col-md-12 blog-pull-right">
-              <div class="single-service">
-                <ul id="myTab" class="nav nav-tabs boot-tabs divider-text  border-radius-10px border-top-theme-color-2-4px">
-                  <li class="active text-white border-radius-10px"><a class="font-16 overflow" href="#lecturer" data-toggle="tab"><strong>Lecturers</strong></a> </li>
-                  <li><a class="font-16 overflow" href="#adminStaff" data-toggle="tab"><strong>Administrative Staff</strong></a> </li>
-                  <li><a class="font-16 overflow" href="#technicalStaff" data-toggle="tab"><strong>Technical Staff</strong></a> </li>
-                  <li><a class="font-16 overflow" href="#UG" data-toggle="tab"><strong>UG Students</strong></a> </li>
-                  <li><a class="font-16 overflow" href="#PG" data-toggle="tab"><strong>Post Graduate Students</strong></a> </li>
-                </ul>
-                <div id="myTabContent" class="tab-content">
-                  <div class="tab-pane fade in active" id="lecturer">
+            <form id="appointment_form" name="appointment_form" class="mt-30" method="post" action="includes/appointment.php">
+              <input type="text" id='myInput'  onkeyup='searchTable()' placeholder="&#xF002; Search" title="Type in a name">
+                </form>
                     <div class="row multi-row-clearfix">
                       <div class="col-md-12">
-                          <div class="col-md-3">
-                            <div class="campaign bg-white maxwidth500 mb-30">
-                              <div class="thumb border-left-theme-color-2-4px  border-radius-10px">
-                                <img src="images/project/14.jpg" alt="" class="img-fullwidth border-radius-10px">
-                                <div class="campaign-overlay"></div>
-                              </div>
-                              <div class="campaign-details clearfix p-15 pt-10 pb-10 border-bottom-theme-color-2-2px border-radius-10px">
-                                <h4 class="name mt-0 text-theme-color-2">David Zakaria - <small>Teacher</small></h4>
-                                <p class="mb-20">Lorem ipsum dolor sit amet, con amit sectetur adipisicing elit.</p>
-                                <ul class="styled-icons icon-dark icon-circled icon-theme-colored icon-sm pull-left flip list-inline font-weight-600 pr-0">
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                                </ul>
-                                <a class="btn btn-xs btn-theme-colored font-weight-600 font-11 pull-right flip mt-10 border-left-theme-color-2-4px" href="#">Read More</a>
-                              </div>
-                            </div>
-                          </div>
-                          <div class="col-md-3">
-                            <div class="campaign bg-white maxwidth500 mb-30">
-                              <div class="thumb border-left-theme-color-2-4px  border-radius-10px">
-                                <img src="images/project/14.jpg" alt="" class="img-fullwidth border-radius-10px">
-                                <div class="campaign-overlay"></div>
-                              </div>
-                              <div class="campaign-details clearfix p-15 pt-10 pb-10 border-bottom-theme-color-2-2px border-radius-10px">
-                                <h4 class="name mt-0 text-theme-color-2">David Zakaria - <small>Teacher</small></h4>
-                                <p class="mb-20">Lorem ipsum dolor sit amet, con amit sectetur adipisicing elit.</p>
-                                <ul class="styled-icons icon-dark icon-circled icon-theme-colored icon-sm pull-left flip list-inline font-weight-600 pr-0">
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                                </ul>
-                                <a class="btn btn-xs btn-theme-colored font-weight-600 font-11 pull-right flip mt-10 border-left-theme-color-2-4px" href="#">Read More</a>
-                              </div>
-                            </div>
-                          </div>
-                          <div class="col-md-3">
-                            <div class="campaign bg-white maxwidth500 mb-30">
-                              <div class="thumb border-left-theme-color-2-4px  border-radius-10px">
-                                <img src="images/project/14.jpg" alt="" class="img-fullwidth border-radius-10px">
-                                <div class="campaign-overlay"></div>
-                              </div>
-                              <div class="campaign-details clearfix p-15 pt-10 pb-10 border-bottom-theme-color-2-2px border-radius-10px">
-                                <h4 class="name mt-0 text-theme-color-2">David Zakaria - <small>Teacher</small></h4>
-                                <p class="mb-20">Lorem ipsum dolor sit amet, con amit sectetur adipisicing elit.</p>
-                                <ul class="styled-icons icon-dark icon-circled icon-theme-colored icon-sm pull-left flip list-inline font-weight-600 pr-0">
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                                </ul>
-                                <a class="btn btn-xs btn-theme-colored font-weight-600 font-11 pull-right flip mt-10 border-left-theme-color-2-4px" href="#">Read More</a>
-                              </div>
-                            </div>
-                          </div>
-                          <div class="col-md-3">
-                            <div class="campaign bg-white maxwidth500 mb-30">
-                              <div class="thumb border-left-theme-color-2-4px  border-radius-10px">
-                                <img src="images/project/14.jpg" alt="" class="img-fullwidth border-radius-10px">
-                                <div class="campaign-overlay"></div>
-                              </div>
-                              <div class="campaign-details clearfix p-15 pt-10 pb-10 border-bottom-theme-color-2-2px border-radius-10px">
-                                <h4 class="name mt-0 text-theme-color-2">David Zakaria - <small>Teacher</small></h4>
-                                <p class="mb-20">Lorem ipsum dolor sit amet, con amit sectetur adipisicing elit.</p>
-                                <ul class="styled-icons icon-dark icon-circled icon-theme-colored icon-sm pull-left flip list-inline font-weight-600 pr-0">
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                                </ul>
-                                <a class="btn btn-xs btn-theme-colored font-weight-600 font-11 pull-right flip mt-10 border-left-theme-color-2-4px" href="#">Read More</a>
-                              </div>
-                            </div>
-                          </div>
-                          <div class="col-md-3">
-                            <div class="campaign bg-white maxwidth500 mb-30">
-                              <div class="thumb border-left-theme-color-2-4px  border-radius-10px">
-                                <img src="images/project/14.jpg" alt="" class="img-fullwidth border-radius-10px">
-                                <div class="campaign-overlay"></div>
-                              </div>
-                              <div class="campaign-details clearfix p-15 pt-10 pb-10 border-bottom-theme-color-2-2px border-radius-10px">
-                                <h4 class="name mt-0 text-theme-color-2">David Zakaria - <small>Teacher</small></h4>
-                                <p class="mb-20">Lorem ipsum dolor sit amet, con amit sectetur adipisicing elit.</p>
-                                <ul class="styled-icons icon-dark icon-circled icon-theme-colored icon-sm pull-left flip list-inline font-weight-600 pr-0">
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                                </ul>
-                                <a class="btn btn-xs btn-theme-colored font-weight-600 font-11 pull-right flip mt-10 border-left-theme-color-2-4px" href="#">Read More</a>
-                              </div>
-                            </div>
-                          </div>
-                          <div class="col-md-3">
-                            <div class="campaign bg-white maxwidth500 mb-30">
-                              <div class="thumb border-left-theme-color-2-4px  border-radius-10px">
-                                <img src="images/project/14.jpg" alt="" class="img-fullwidth border-radius-10px">
-                                <div class="campaign-overlay"></div>
-                              </div>
-                              <div class="campaign-details clearfix p-15 pt-10 pb-10 border-bottom-theme-color-2-2px border-radius-10px">
-                                <h4 class="name mt-0 text-theme-color-2">David Zakaria - <small>Teacher</small></h4>
-                                <p class="mb-20">Lorem ipsum dolor sit amet, con amit sectetur adipisicing elit.</p>
-                                <ul class="styled-icons icon-dark icon-circled icon-theme-colored icon-sm pull-left flip list-inline font-weight-600 pr-0">
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                                </ul>
-                                <a class="btn btn-xs btn-theme-colored font-weight-600 font-11 pull-right flip mt-10 border-left-theme-color-2-4px" href="#">Read More</a>
-                              </div>
-                            </div>
-                          </div>
-                          <div class="col-md-3">
-                            <div class="campaign bg-white maxwidth500 mb-30">
-                              <div class="thumb border-left-theme-color-2-4px  border-radius-10px">
-                                <img src="images/project/14.jpg" alt="" class="img-fullwidth border-radius-10px">
-                                <div class="campaign-overlay"></div>
-                              </div>
-                              <div class="campaign-details clearfix p-15 pt-10 pb-10 border-bottom-theme-color-2-2px border-radius-10px">
-                                <h4 class="name mt-0 text-theme-color-2">David Zakaria - <small>Teacher</small></h4>
-                                <p class="mb-20">Lorem ipsum dolor sit amet, con amit sectetur adipisicing elit.</p>
-                                <ul class="styled-icons icon-dark icon-circled icon-theme-colored icon-sm pull-left flip list-inline font-weight-600 pr-0">
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                                </ul>
-                                <a class="btn btn-xs btn-theme-colored font-weight-600 font-11 pull-right flip mt-10 border-left-theme-color-2-4px" href="#">Read More</a>
-                              </div>
-                            </div>
-                          </div>
-                          <div class="col-md-3">
-                            <div class="campaign bg-white maxwidth500 mb-30">
-                              <div class="thumb border-left-theme-color-2-4px  border-radius-10px">
-                                <img src="images/project/14.jpg" alt="" class="img-fullwidth border-radius-10px">
-                                <div class="campaign-overlay"></div>
-                              </div>
-                              <div class="campaign-details clearfix p-15 pt-10 pb-10 border-bottom-theme-color-2-2px border-radius-10px">
-                                <h4 class="name mt-0 text-theme-color-2">David Zakaria - <small>Teacher</small></h4>
-                                <p class="mb-20">Lorem ipsum dolor sit amet, con amit sectetur adipisicing elit.</p>
-                                <ul class="styled-icons icon-dark icon-circled icon-theme-colored icon-sm pull-left flip list-inline font-weight-600 pr-0">
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                                </ul>
-                                <a class="btn btn-xs btn-theme-colored font-weight-600 font-11 pull-right flip mt-10 border-left-theme-color-2-4px" href="#">Read More</a>
-                              </div>
-                            </div>
-                          </div>
+                        <table class="table table-bordered" id='myTable'>
+                          <tr class="text-center font-16 font-weight-600 bg-theme-color-2 text-white">
+                            <th>S/N</th>
+                            <th scope="row">Staff Name</th>
+                            <td>Area of Specialization</td>
+                            <td>View Details</td>
+                          </tr>
+                          <tbody>
+                            <tr>
+                              <th>1</th>
+                              <th scope="row">Dr. Emmanuel Mkpojiogu</th>
+                              <td>Area of Specialization</td>
+                              <td><a class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" href="#">Read more</a></td>
+                            </tr>
+                            <tr>
+                            <th>2</th>
+                              <th scope="row">Mr. Ikechukwu Izegbu</th>
+                              <td>Area of Specialization</td>
+                              <td><a class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" href="#">Read more</a></td>
+                            </tr>
+                            <tr>
+                            <th>3</th>
+                              <th scope="row">Mr. Dako Apaleohkai Dickson</th>
+                              <td>Area of Specialization</td>
+                              <td><a class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" href="#">Read more</a></td>
+                            </tr>
+                            <tr>
+                            <th>4</th>
+                              <th scope="row">Mr. Usoh Ikouwen Ufort</th>
+                              <td>Area of Specialization</td>
+                              <td><a class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" href="#">Read more</a></td>
+                            </tr>
+                            <tr>
+                              <th>5</th>
+                              <th scope="row">Ms kama mary</th>
+                              <td>Area of Specialization</td>
+                              <td><a class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" href="#">Read more</a></td>
+                            </tr>
+                            <tr>
+                              <th>6</th>
+                              <th scope="row">Mr. Oladayo Tosin Akinwande</th>
+                              <td>Area of Specialization</td>
+                              <td><a class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" href="#">Read more</a></td>
+                            </tr>
+                            <tr>
+                              <th>7</th>
+                              <th scope="row">Ms. Agubata Chidimma</th>
+                              <td>Area of Specialization</td>
+                              <td><a class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" href="#">Read more</a></td>
+                            </tr>
+                          </tbody>
+                        </table>
                       </div>
                     </div>
                   </div>
-                  <div class="tab-pane fade" id="adminStaff">
-                    <div class="row multi-row-clearfix">
-                      <div class="col-md-3">
-                        <div class="campaign bg-white maxwidth500 mb-30">
-                          <div class="thumb border-left-theme-color-2-4px  border-radius-10px">
-                            <img src="images/project/14.jpg" alt="" class="img-fullwidth border-radius-10px">
-                            <div class="campaign-overlay"></div>
-                          </div>
-                          <div class="campaign-details clearfix p-15 pt-10 pb-10 border-bottom-theme-color-2-2px border-radius-10px">
-                            <h4 class="name mt-0 text-theme-color-2">David Zakaria - <small>Teacher</small></h4>
-                            <p class="mb-20">Lorem ipsum dolor sit amet, con amit sectetur adipisicing elit.</p>
-                            <ul class="styled-icons icon-dark icon-circled icon-theme-colored icon-sm pull-left flip list-inline font-weight-600 pr-0">
-                                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                            </ul>
-                            <a class="btn btn-xs btn-theme-colored font-weight-600 font-11 pull-right flip mt-10 border-left-theme-color-2-4px" href="#">Read More</a>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="tab-pane fade" id="technicalStaff">
-                    <div class="row multi-row-clearfix">
-                      <div class="col-md-3">
-                        <div class="campaign bg-white maxwidth500 mb-30">
-                          <div class="thumb border-left-theme-color-2-4px  border-radius-10px">
-                            <img src="images/project/14.jpg" alt="" class="img-fullwidth border-radius-10px">
-                            <div class="campaign-overlay"></div>
-                          </div>
-                          <div class="campaign-details clearfix p-15 pt-10 pb-10 border-bottom-theme-color-2-2px border-radius-10px">
-                            <h4 class="name mt-0 text-theme-color-2">David Zakaria - <small>Teacher</small></h4>
-                            <p class="mb-20">Lorem ipsum dolor sit amet, con amit sectetur adipisicing elit.</p>
-                            <ul class="styled-icons icon-dark icon-circled icon-theme-colored icon-sm pull-left flip list-inline font-weight-600 pr-0">
-                                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                            </ul>
-                            <a class="btn btn-xs btn-theme-colored font-weight-600 font-11 pull-right flip mt-10 border-left-theme-color-2-4px" href="#">Read More</a>
-                          </div>
-                        </div>
-                      </div>
-                      <div class="col-md-3">
-                        <div class="campaign bg-white maxwidth500 mb-30">
-                          <div class="thumb border-left-theme-color-2-4px  border-radius-10px">
-                            <img src="images/project/14.jpg" alt="" class="img-fullwidth border-radius-10px">
-                            <div class="campaign-overlay"></div>
-                          </div>
-                          <div class="campaign-details clearfix p-15 pt-10 pb-10 border-bottom-theme-color-2-2px border-radius-10px">
-                            <h4 class="name mt-0 text-theme-color-2">David Zakaria - <small>Teacher</small></h4>
-                            <p class="mb-20">Lorem ipsum dolor sit amet, con amit sectetur adipisicing elit.</p>
-                            <ul class="styled-icons icon-dark icon-circled icon-theme-colored icon-sm pull-left flip list-inline font-weight-600 pr-0">
-                                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                            </ul>
-                            <a class="btn btn-xs btn-theme-colored font-weight-600 font-11 pull-right flip mt-10 border-left-theme-color-2-4px" href="#">Read More</a>
-                          </div>
-                        </div>
-                      </div>
-                      <div class="col-md-3">
-                        <div class="campaign bg-white maxwidth500 mb-30">
-                          <div class="thumb border-left-theme-color-2-4px  border-radius-10px">
-                            <img src="images/project/14.jpg" alt="" class="img-fullwidth border-radius-10px">
-                            <div class="campaign-overlay"></div>
-                          </div>
-                          <div class="campaign-details clearfix p-15 pt-10 pb-10 border-bottom-theme-color-2-2px border-radius-10px">
-                            <h4 class="name mt-0 text-theme-color-2">David Zakaria - <small>Teacher</small></h4>
-                            <p class="mb-20">Lorem ipsum dolor sit amet, con amit sectetur adipisicing elit.</p>
-                            <ul class="styled-icons icon-dark icon-circled icon-theme-colored icon-sm pull-left flip list-inline font-weight-600 pr-0">
-                                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                            </ul>
-                            <a class="btn btn-xs btn-theme-colored font-weight-600 font-11 pull-right flip mt-10 border-left-theme-color-2-4px" href="#">Read More</a>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="tab-pane fade" id="UG">
-                    <div class="row multi-row-clearfix">
-                      <div class="col-xs-12 col-sm-6 col-md-3 mb-md-50">
-                        <div class="funfact text-center">
-                          <i class="pe-7s-smile  mt-5 text-theme-color-2"></i>
-                          <h2 data-animation-duration="1000" data-value="100" class="animate-number mt-0 font-38 font-weight-500">0</h2>
-                          <h5 class="text-uppercase mb-0">100 Level</h5>
-                        </div>
-                      </div>
-                      <div class="col-xs-12 col-sm-6 col-md-3 mb-md-50">
-                        <div class="funfact text-center">
-                          <i class="pe-7s-note2 mt-5 text-theme-color-2"></i>
-                          <h2 data-animation-duration="1000" data-value="18" class="animate-numbe mt-0 font-38 font-weight-500">0</h2>
-                          <h5 class="text-uppercase mb-0">200 Level</h5>
-                        </div>
-                      </div>
-                      <div class="col-xs-12 col-sm-6 col-md-3 mb-md-50">
-                        <div class="funfact text-center">
-                          <i class="pe-7s-smile mt-5 text-theme-color-2"></i>
-                          <h2 data-animation-duration="1000" data-value="0" class="animate-number mt-0 font-38 font-weight-500">0</h2>
-                          <h5 class="text-uppercase mb-0">300 Level</h5>
-                        </div>
-                      </div>
-                      <div class="col-xs-12 col-sm-6 col-md-3 mb-md-50">
-                        <div class="funfact text-center">
-                          <i class="pe-7s-note2 mt-5 text-theme-color-2"></i>
-                          <h2 data-animation-duration="1000" data-value="0" class="animate-number mt-0 font-38 font-weight-500">0</h2>
-                          <h5 class="text-uppercase mb-0">400 Level</h5>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="tab-pane fade" id="PG">
-                    <div class="row multi-row-clearfix">
-                      <div class="owl-carousel-12col" data-dots="true">
-                        <div class="col-md-12">
-                          <div class="display-table text-center">
-                            <div class="display-table-cell">
-                              <div class="container pt-0 pb-0">
-                                <div class="row">
-                                  <div class="col-md-10 col-md-offset-1">
-                                    <h1 class="font-weight-400 text-theme-color-2 font-48 mb-0">No Postgraduate program Yet!</h1>
-                                    <div class="row">
-                                      <div class="col-md-6 col-md-push-3">
-                                        <form id="mailchimp-subscription-form" class="newsletter-form mt-0 mb-30 maxwidth500">
-                                          <label for="mce-EMAIL"></label>
-                                          <div class="input-group">
-                                            <input type="email" id="mce-EMAIL" data-height="45px" class="form-control input-lg" placeholder="Your Email" name="EMAIL" value="">
-                                            <span class="input-group-btn">
-                                              <button type="submit" class="btn btn-colored btn-theme-colored btn-xs m-0" data-height="45px">Subscribe</button>
-                                            </span>
-                                          </div>
-                                        </form>
-                                        <!-- Mailchimp Subscription Form Validation-->
-                                        <script type="text/javascript">
-                                          $('#mailchimp-subscription-form').ajaxChimp({
-                                              callback: mailChimpCallBack,
-                                              url: '//Please put your mail URL here'
-                                          });
-                                          function mailChimpCallBack(resp) {
-                                              // Hide any previous response text
-                                              var $mailchimpform = $('#mailchimp-subscription-form'),
-                                                  $response = '';
-                                              $mailchimpform.children(".alert").remove();
-                                              if (resp.result === 'success') {
-                                                  $response = '<div class="alert alert-success"><button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>' + resp.msg + '</div>';
-                                              } else if (resp.result === 'error') {
-                                                  $response = '<div class="alert alert-danger"><button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>' + resp.msg + '</div>';
-                                              }
-                                              $mailchimpform.prepend($response);
-                                          }
-                                        </script>
-                                      </div>
-                                    </div>
-                                    <p class="font-14">Sorry.... The University is working hard to see that in the nearest posible time,<br>  we will launch a post graduate program in Software Engineering! ... </p>
-                                    <p class="font-14">Please, consider sending us a mail, we will talk to you !</p>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
               </div>
-            </div>
-          </div>
         </div>
       </div>
     </section>
-
+    <script>
+      function searchTable() {
+          var input, filter, found, table, tr, td, i, j;
+          input = document.getElementById("myInput");
+          filter = input.value.toUpperCase();
+          table = document.getElementById("myTable");
+          tr = table.getElementsByTagName("tr");
+          for (i = 0; i < tr.length; i++) {
+              td = tr[i].getElementsByTagName("th");
+              for (j = 0; j < td.length; j++) {
+                  if (td[j].innerHTML.toUpperCase().indexOf(filter) > -1) {
+                      found = true;
+                  }
+              }
+              if (found) {
+                  tr[i].style.display = "";
+                  found = false;
+              } else {
+                  tr[i].style.display = "none";
+              }
+          }
+      }
+      </script>
   <!-- Footer -->
  <?php include_once "includes/footer.php" ?>
 <!-- Footer Scripts -->

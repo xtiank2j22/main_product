@@ -41,6 +41,8 @@
 }
 .text-bolder{
   font-weight: bolder !important;
+  font-family: ABeeZee, sans-serif; 
+  font-style:normal;
 }
 .text-black-222 {
   color: #222222 !important;

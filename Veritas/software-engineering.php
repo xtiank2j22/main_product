@@ -1,24 +1,20 @@
 <!DOCTYPE html>
 <html dir="ltr" lang="en">
 <head>
-
 <!-- Meta Tags -->
 <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
 <meta name="description" content="StudyPress | Education & Courses HTML Template" />
 <meta name="keywords" content="academy, course, education, education html theme, elearning, learning," />
 <meta name="author" content="ThemeMascot" />
-
 <!-- Page Title -->
 <title>Department of Software Engineering</title>
-
 <!-- Favicon and Touch Icons -->
 <link href="images/logo/favicon.ico" rel="shortcut icon" type="image/ico">
 <link href="images/apple-touch-icon.png" rel="apple-touch-icon">
 <link href="images/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72">
 <link href="images/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="114x114">
 <link href="images/apple-touch-icon-144x144.png" rel="apple-touch-icon" sizes="144x144">
-
 <!-- Stylesheet -->
 <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
 <link href="css/jquery-ui.min.css" rel="stylesheet" type="text/css">
@@ -318,9 +314,7 @@
         </div>
       </div>
     </section>
-
     <div class="separator separator-rouned"> <i class="fa fa-cog fa-spin"></i> </div>
-
     <!-- Section: Courses -->
     <section id="courses" class="bg-lighter">
       <div class="container">
