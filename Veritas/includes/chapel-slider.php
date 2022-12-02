@@ -1,5 +1,5 @@
-<section id="home">
-                      <div class="container-fluid p-0 height-500px" >
+                  <section id="home">
+                      <div class="container-fluid p-0" >
                         <!-- Slider Revolution Start -->
                         <div class="rev_slider_wrapper" >
                           <div class="rev_slider" data-version="5.0" >
@@ -32,11 +32,9 @@
                                   data-responsive_offset="on"
                                   style="z-index: 7; white-space: nowrap; font-weight:700;">LECTURES
                                 </div>
-
                                 <!-- LAYER NR. 2 -->
                                 <div class="tp-caption tp-resizeme text-uppercase text-white font-raleway bg-theme-colored-transparent border-left-theme-color-2-6px pl-20 pr-20"
                                   id="rs-1-layer-2"
-
                                   data-x="['left']"
                                   data-hoffset="['35']"
                                   data-y="['middle']"

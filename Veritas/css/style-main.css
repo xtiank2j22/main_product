@@ -69,52 +69,15 @@
  * Typography.less
  * -----------------------------------------------
 */
-
-/*.card {
-  position: absolute;
-  top: 50%;
-  left: 50%;
+.readings{
+  background-color: rgb(243, 233, 233);
+}
+.bg-violent{
+  background-color: #c5e6dc!important;
+}
+.chapelnavnote{
   width: 300px;
-  height: 300px;
-  margin: -150px;
-  float: left;
-  perspective: 500px;
 }
-
-.content {
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  box-shadow: 0 0 15px rgba(0,0,0,0.1);
-
-  transition: transform 1s;
-  transform-style: preserve-3d;
-}
-
-.card:hover .content {
-  transform: rotateY( 180deg ) ;
-  transition: transform 0.5s;
-}
-
-.front, .back {
-  position: absolute;
-  height: 100%;
-  width: 100%;
-  background: white;
-  line-height: 300px;
-  color: #03446A;
-  text-align: center;
-  font-size: 60px;
-  border-radius: 5px;
-  backface-visibility: hidden;
-}
-
-.back {
-  background: #03446A;
-  color: white;
-  transform: rotateY( 180deg );
-}*/
-/* Make the image fully responsive */
 /*department search button*/
 .bg-greener{
   background-color: rgb(9, 112, 9);
@@ -227,11 +190,21 @@ form.example::after {
   width: 600px;
 }
 .videoText{
-	z-index: 1;
 	position: absolute;
   margin-top:-35%; 
-  margin-left:35%;
+  margin-left:45%;
 }
+/*------playvideo-------*/
+.vid-margin-top{
+  margin-top: -8%;
+}
+  .test{
+    left: 50%;
+      position: absolute;
+      top: 50%;
+      transform: translateX(-50%) translateY(-50%);
+    }
+/*------playvideo end-------*/
 .hr-20px{
   height: 20px;
   background-color: #e7eec0;
@@ -250,6 +223,11 @@ form.example::after {
   height: auto;
   width: 200px;
   background-color: #09421c;
+}
+.chapelreading{
+  height: auto;
+  width: 200px;
+  background-color: whitesmoke !important;
 }
 .bg-litgreener{
   background-color: #188038 !important;
@@ -400,7 +378,7 @@ bottom:initial;
   color:#17513C !important ;
 }
 .abtsection{
-  margin-bottom: -2px;
+  margin-bottom: -5px;
 }
 .videotour{
   height: auto;
@@ -422,6 +400,7 @@ bottom:initial;
 }
 .noticbrd{
   background-color: #EAEAEA !important;
+  margin-top: -5%;
 }
 .sdgthum{
   background-color: white !important;

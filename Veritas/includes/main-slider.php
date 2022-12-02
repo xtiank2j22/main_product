@@ -1,4 +1,4 @@
-<section id="home">
+                    <section id="home">
                       <div class="container-fluid p-0">
                         <!-- Slider Revolution Start -->
                         <div class="rev_slider_wrapper">
@@ -33,7 +33,7 @@
                                   data-splitin="none" 
                                   data-splitout="none" 
                                   data-responsive_offset="on"
-                                  style="z-index: 7; white-space: nowrap; font-weight:700;">Admission
+                                  style="z-index: 7; white-space: nowrap; font-weight:700;"> Admission
                                 </div>
 
                                 <!-- LAYER NR. 2 -->
@@ -148,7 +148,6 @@
                                 <!-- LAYER NR. 2 -->
                                 <div class="tp-caption tp-resizeme text-uppercase bg-theme-colored-transparent text-white font-raleway pl-30 pr-30"
                                   id="rs-2-layer-2"
-
                                   data-x="['center']"
                                   data-hoffset="['0']"
                                   data-y="['middle']"
@@ -215,7 +214,7 @@
                                   data-splitin="none" 
                                   data-splitout="none" 
                                   data-responsive_offset="on"
-                                  style="z-index: 5; white-space: nowrap; letter-spacing:1px;"><a class="btn btn-colored btn-circled btn-theme-colored text-bolder pl-20 pr-20" href="Admission-process.php">Apply Now</a> 
+                                  style="z-index: 5; white-space: nowrap; letter-spacing:1px;" ><a class="btn btn-colored btn-circled btn-theme-colored text-bolder pl-20 pr-20" href="Admission-process.php">Apply Now</a> 
                                 </div>
                               </li>
 

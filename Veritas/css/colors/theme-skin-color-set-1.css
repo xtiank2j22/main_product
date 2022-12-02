@@ -416,14 +416,14 @@ ul.list.theme-colored.check li:before,
 }
 /* border-theme-color */
 .border-theme-colored {
-  border-color: #202C45 !important;
+  border-color: #17513C !important;
 }
 .widget .services-list li.active::after {
-  border-color: transparent #202C45 transparent transparent;
+  border-color: transparent #17513C transparent transparent;
 }
 .widget .services-list li.active {
-  background-color: #202C45 !important;
-  border-right: 6px solid #F2184F !important;
+  background-color: #17513C !important;
+  border-right: 6px solid #129803 !important;
 }
 /* background-color-transparent */
 .bg-theme-colored-transparent,

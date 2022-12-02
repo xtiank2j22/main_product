@@ -11,27 +11,27 @@
                       <div class="row">
                         <div class="col-md-12">
                           <h3 class=" text-theme-colored title line-bottom line-height-1 mt-0 mb-10 text-format text-bolder font-20">Latest <span class="text-theme-color-2 font-weight-400">News</span> <a href="#"> | View All</a></h3>
-                          <div class="owl-carousel-3col owl-nav-top" data-nav="true">
-                            <div class="cardi" style="width: 18rem;">
+                          <div class="owl-carousel-4col owl-nav-top" data-nav="true">
+                            <div class="cardi" style="width: 15rem;">
                                 <img src="images/siwes/images/icto.jpg" class="card-img-top latestimage" alt="latest news image">
                                 <div class="card-body">
                                     <a href="#" class=" text-navy text-format text-bolder ovaflow">Seminar on Training impactation and its benefit to students</a>
                                     <a href="#" class="text-deepgreen text-bolder text-format ">View -></a>
                                 </div>
                             </div>
-                            <div class="cardi" style="width: 18rem;">
+                            <div class="cardi" style="width: 15rem;">
                                 <img src="images/siwes/images/3.jpg" class="card-img-top latestimage" alt="latest news image">
                                 <div class="card-body">
                                 <a href="#" class=" text-navy text-format text-bolder ovaflow">Industral Training Defence, at the CIT lab, Block A.</a>
                                     <a href="#" class="text-deepgreen text-bolder text-format ">View -></a>                                </div>
                             </div>
-                            <div class="cardi" style="width: 18rem;">
+                            <div class="cardi" style="width: 15rem;">
                                 <img src="images/siwes/images/10.jpg" class="card-img-top latestimage" alt="latest news image">
                                 <div class="card-body">
                                 <a href="#" class=" text-navy text-format text-bolder ovaflow">I.T.F visit to veritas SIWES Unit, a key to acheive a productive graduates</a>
                                     <a href="#" class="text-deepgreen text-bolder text-format ">View -></a>                                </div>
                             </div>
-                            <div class="cardi" style="width: 18rem;">
+                            <div class="cardi" style="width: 15rem;">
                                 <img src="images/siwes/images/11.jpg" class="card-img-top latestimage" alt="...">
                                 <div class="card-body">
                                 <a href="#" class=" text-navy text-format text-bolder ovaflow">Staff lecture on the benefit of student I.T engagement </a>

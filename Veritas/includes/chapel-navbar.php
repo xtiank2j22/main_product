@@ -119,8 +119,8 @@
                 <li><a href="About-us.php">About</a></li>
                 <li><a href="staffs.php">News</a></li>
                 <li><a href="gallery.php">Gallery</a></li>
-                <li><a href="events.php">Event</a></li>
-                <li><a href="contact.php"><Contact-us>Daily Reading</Contact-us></a></li>
+                <li><a href="#event">Event</a></li>
+                <li><a href="daily-reading.php"><Contact-us>Daily Reading</Contact-us></a></li>
               </ul>
               <div id="top-search-bar" class="collapse">
                 <div class="container">

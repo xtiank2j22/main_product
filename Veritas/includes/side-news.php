@@ -47,7 +47,7 @@
                           <a class="btn btn-theme-colored btn-flat btn-lg mt-10 mb-sm-30" href="events.php"><span class="text-bolder">Veiw All Events →</span></a>
                           <div class="boxsidenews">
                             <h3 class="text-white text-bolder">Quick Links</h3>
-                            </div>
+                          </div>
                             <hr class="hrsidenews">
                           <div class="widget">
                             <ul class="list list-border angle-double-left">
