@@ -157,7 +157,7 @@
                               </div>
                             </div>
                             <div class="col-md-6">
-                              <h2 class="text-uppercase font-weight-600 mt-0 font-28 line-bottom text-navy text-format">All About</h2>
+                              <h2 class="text-uppercase font-weight-600 mt-0 font-28 line-bottom text-navy text-format"> About Us</h2>
                               <h6 class=" letter-space-4 text-gray-darkgray text-uppercase mt-0 mb-0 text-format">A University built on moral, Cultured & social standared</h6>
                               <div class="text-justify text-format">
                                 We are a dynamic community of staff and students with Christian orientation 
@@ -552,7 +552,7 @@
                                     <a href="#" class="icon bg-theme-colored icon-circled icon-border-effect effect-circle icon-md">
                                       <i class="fas fa-globe text-white"></i>
                                     </a>
-                                    <h6 class="icon-box-title mt-15 mb-0 letter-space-4 text-uppercase"><strong>Global Ranking</strong></h6>
+                                    <h6 class="icon-box-title mt-15 mb-0 letter-space-4 text-uppercase pull-right"><strong>Global Ranking</strong></h6>
                                   </div>
                                 </div>
                               </div>
@@ -571,7 +571,7 @@
                       </div>
                     </section>
                     <!-------video section but not auto---->
-                  <section class="bg-color-white vid-margin-top">
+                  <section class="bg-color-white ">
                     <div class="container-fluid">
                       <div class="row">
                         <div class="col-xs-12 col-sm-12 col-md-12">

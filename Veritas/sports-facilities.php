@@ -65,88 +65,257 @@
 <body class="bg-color-lightblue">
 <div id="wrapper" class="clearfix">
  <!-- Header - Header -->
- <?php include_once "includes/innapage-navbar.php" ?>
+ <?php include_once "includes/innerpage-navbar.php" ?>
   <!-- Start main-content -->
   <div class="main-content">
     <!-- Section: inner-header -->
-    <section class="inner-header divider parallax layer-overlay overlay-dark-5" data-bg-img="http://placehold.it/1920x1280">
-      <div class="container pt-60 pb-60">
-        <!-- Section Content -->
+    <!-- Gallery Grid 3 -->
+    <section>
+      <div class="container bg-white">
         <div class="section-content">
           <div class="row">
-            <div class="col-md-12 text-center">
-              <h3 class="font-28 text-white">Veritas University Sport Facilities</h2>
-              <ol class="breadcrumb text-center text-black mt-10">
-                <li class="active text-theme-colored">Welcome to veritas University Sports Page</li>
-              </ol>
-            </div>
-          </div>
-        </div>
-      </div>      
-    </section>
-    <!-- Section: Blog -->
-    <section>
-      <div class="container mt-30 mb-30 pt-30 pb-30">
-        <div class="row multi-row-clearfix">
-          <div id="blog-posts-wrapper" class="blog-posts">
-            <div class="col-sm-6 col-md-4 col-lg-4">
-             <div class="item">
-                    <div class="service-block mb-md-30 bg-white">
-                      <div class="thumb"> <img alt="featured project" src="images/bg/lawn-tennis.jpg" class="img-responsive img-fullwidth">
-                      </div>
-                       <div class="entry-content border-1px p-20">
-                        <h5 class="entry-title mt-0 pt-0">
-                          <a class="font-16" href="#"><b>Lawn Tennis</b></a>
-                        </h5>
-                        <p class="text-left mb-20 mt-15 font-16">
-                          Lorem ipsum dolor sit amet, consectetur adipiscing
-                          elit, sed do eiusmod tempor incididunt ut labore.
-                        </p>
-                        <div class="clearfix"></div>
-                      </div>
-                    </div>
-                  </div>
-            </div>
-            <div class="col-sm-6 col-md-4 col-lg-4">
-                <div class="item">
-                    <div class="service-block mb-md-30 bg-white">
-                      <div class="thumb"> <img alt="featured project" src="images/bg/card.jpg" class="img-responsive img-fullwidth">
-                      </div>
-                       <div class="entry-content border-1px p-20">
-                        <h5 class="entry-title mt-0 pt-0">
-                          <a class="font-16" href="#"><b>Card</b></a>
-                        </h5>
-                        <p class="text-left mb-20 mt-15 font-16">
-                          Lorem ipsum dolor sit amet, consectetur adipiscing
-                          elit, sed do eiusmod tempor incididunt ut labore.
-                        </p>
-                        <div class="clearfix"></div>
-                      </div>
-                    </div>
-                  </div>
-            </div>
             <div class="col-md-12">
-              <nav>
-                <ul class="pagination theme-colored">
-                  <li> <a href="#" aria-label="Previous"> <span aria-hidden="true">&laquo;</span> </a> </li>
-                  <li class="active"><a href="#">1</a></li>
-                  <li><a href="#">2</a></li>
-                  <li><a href="#">3</a></li>
-                  <li><a href="#">4</a></li>
-                  <li><a href="#">5</a></li>
-                  <li><a href="#">...</a></li>
-                  <li> <a href="#" aria-label="Next"> <span aria-hidden="true">&raquo;</span> </a> </li>
-                </ul>
-              </nav>
+              <!-- Portfolio Filter -->
+              <div class="portfolio-filter">
+                <a href="#" class="active" data-filter="*">All</a>
+                <a href="#lecturehall" class="" data-filter=".branding">Lecture Halls</a>
+                <a href="#design" class="" data-filter=".design">Sports Facilities</a>
+                <a href="#photography" class="" data-filter=".photography">Medical Facilities</a>
+                <a href="#design" class="" data-filter=".design">Hostels</a>
+                <a href="#design" class="" data-filter=".design">Love Garden</a>
+              </div>
+              <!-- End Portfolio Filter -->
+              <!-- Portfolio Gallery Grid -->
+              <div id="lecturehall" class="gallery-isotope grid-4 clearfix">
+                <!-- Portfolio Item Start -->
+                <div class="gallery-item">
+                  <div class="thumb">
+                    <img class="img-fullwidth photo" src="images/gallery/g1.jpg" alt="project">
+                    <div class="hidden">
+                      <a data-rel="prettyPhoto[gallery1]" title="Sample Title" href="images/gallery/1 (1).jpg"></a>
+                      <a data-rel="prettyPhoto[gallery1]" title="Sample Title" href="images/gallery/1 (1).jpg"></a>
+                      <a data-rel="prettyPhoto[gallery1]" title="Sample Title" href="images/gallery/1 (1).jpg"></a>
+                      <a data-rel="prettyPhoto[gallery1]" title="Sample Title" href="images/gallery/1 (1).jpg"></a>
+                      <a data-rel="prettyPhoto[gallery1]" title="Sample Title" href="images/gallery/1 (1).jpg"></a>
+                    </div>
+                    <div class="overlay-shade"></div>
+                    <div class="text-holder">
+                      <div class="title text-center">Sample Title</div>
+                    </div>
+                    <div class="icons-holder">
+                      <div class="icons-holder-inner">
+                        <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
+                          <a data-rel="prettyPhoto[gallery8]" title="Sample Title" href="images/gallery/1 (1).jpg" class="hover-link"></a>
+                          <a href="#"><i class="fa fa-link"></i></a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <a data-rel="prettyPhoto[gallery1]" title="Sample Title" href="images/gallery/1 (1).jpg" class="hover-link"></a>
+                </div>
+                <!-- Portfolio Item End -->
+                <!-- Portfolio Item Start -->
+                <div class="gallery-item">
+                  <div class="thumb">
+                    <img class="img-fullwidth photo" src="images/gallery/1 (1).jpg" alt="project">
+                    <div class="hidden">
+                      <a data-rel="prettyPhoto[gallery2]" title="Sample Title" href="images/gallery/1 (1).jpg"></a>
+                      <a data-rel="prettyPhoto[gallery2]" title="Sample Title" href="images/gallery/1 (1).jpg"></a>
+                      <a data-rel="prettyPhoto[gallery2]" title="Sample Title" href="images/gallery/1 (1).jpg"></a>
+                      <a data-rel="prettyPhoto[gallery2]" title="Sample Title" href="images/gallery/1 (1).jpg"></a>
+                      <a data-rel="prettyPhoto[gallery2]" title="Sample Title" href="images/gallery/1 (1).jpg"></a>
+                    </div>
+                    <div class="overlay-shade"></div>
+                    <div class="text-holder">
+                      <div class="title text-center">Sample Title</div>
+                    </div>
+                    <div class="icons-holder">
+                      <div class="icons-holder-inner">
+                        <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
+                          <a data-rel="prettyPhoto[gallery8]" title="Sample Title" href="images/gallery/1 (1).jpg" class="hover-link"></a>
+                          <a href="#"><i class="fa fa-link"></i></a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <a data-rel="prettyPhoto[gallery2]" title="Sample Title" href="images/gallery/1 (1).jpg" class="hover-link"></a>
+                </div>
+                <!-- Portfolio Item End -->
+                
+                <!-- Portfolio Item Start -->
+                <div class="gallery-item">
+                  <div class="thumb">
+                    <img class="img-fullwidth photo" src="images/gallery/1 (10).jpg" alt="project">
+                    <div class="hidden">
+                      <a data-rel="prettyPhoto[gallery3]" title="Sample Title" href="images/gallery/1 (1).jpg"></a>
+                      <a data-rel="prettyPhoto[gallery3]" title="Sample Title" href="images/gallery/1 (1).jpg"></a>
+                      <a data-rel="prettyPhoto[gallery3]" title="Sample Title" href="images/gallery/1 (1).jpg"></a>
+                      <a data-rel="prettyPhoto[gallery3]" title="Sample Title" href="images/gallery/1 (1).jpg"></a>
+                      <a data-rel="prettyPhoto[gallery3]" title="Sample Title" href="images/gallery/1 (1).jpg"></a>
+                    </div>
+                    <div class="overlay-shade"></div>
+                    <div class="text-holder">
+                      <div class="title text-center">Sample Title</div>
+                    </div>
+                    <div class="icons-holder">
+                      <div class="icons-holder-inner">
+                        <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
+                          <a data-rel="prettyPhoto[gallery8]" title="Sample Title" href="images/gallery/1 (1).jpg" class="hover-link"></a>
+                          <a href="#"><i class="fa fa-link"></i></a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <a data-rel="prettyPhoto[gallery3]" title="Sample Title" href="images/gallery/1 (1).jpg" class="hover-link"></a>
+                </div>
+                <!-- Portfolio Item End -->
+                
+                <!-- Portfolio Item Start -->
+                <div class="gallery-item">
+                  <div class="thumb">
+                    <img class="img-fullwidth photo" src="images/gallery/1 (10).jpg" alt="project">
+                    <div class="hidden">
+                      <a data-rel="prettyPhoto[gallery4]" title="Sample Title" href="images/gallery/1 (1).jpg"></a>
+                      <a data-rel="prettyPhoto[gallery4]" title="Sample Title" href="images/gallery/1 (1).jpg"></a>
+                      <a data-rel="prettyPhoto[gallery4]" title="Sample Title" href="images/gallery/1 (1).jpg"></a>
+                      <a data-rel="prettyPhoto[gallery4]" title="Sample Title" href="images/gallery/1 (1).jpg"></a>
+                      <a data-rel="prettyPhoto[gallery4]" title="Sample Title" href="images/gallery/1 (1).jpg"></a>
+                    </div>
+                    <div class="overlay-shade"></div>
+                    <div class="text-holder">
+                      <div class="title text-center">Sample Title</div>
+                    </div>
+                    <div class="icons-holder">
+                      <div class="icons-holder-inner">
+                        <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
+                          <a data-rel="prettyPhoto[gallery8]" title="Sample Title" href="images/gallery/1 (1).jpg" class="hover-link"></a>
+                          <a href="#"><i class="fa fa-link"></i></a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <a data-rel="prettyPhoto[gallery4]" title="Sample Title" href="images/gallery/1 (1).jpg" class="hover-link"></a>
+                </div>
+                <!-- Portfolio Item End -->
+                
+                <!-- Portfolio Item Start -->
+                <div class="gallery-item">
+                  <div class="thumb">
+                    <img class="img-fullwidth photo" src="images/gallery/1 (10).jpg" alt="project">
+                    <div class="hidden">
+                      <a data-rel="prettyPhoto[gallery5]" title="Sample Title" href="images/gallery/1 (1).jpg"></a>
+                      <a data-rel="prettyPhoto[gallery5]" title="Sample Title" href="images/gallery/1 (1).jpg"></a>
+                      <a data-rel="prettyPhoto[gallery5]" title="Sample Title" href="images/gallery/1 (1).jpg"></a>
+                      <a data-rel="prettyPhoto[gallery5]" title="Sample Title" href="images/gallery/1 (1).jpg"></a>
+                      <a data-rel="prettyPhoto[gallery5]" title="Sample Title" href="images/gallery/1 (1).jpg"></a>
+                    </div>
+                    <div class="overlay-shade"></div>
+                    <div class="text-holder">
+                      <div class="title text-center">Sample Title</div>
+                    </div>
+                    <div class="icons-holder">
+                      <div class="icons-holder-inner">
+                        <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
+                          <a data-rel="prettyPhoto[gallery8]" title="Sample Title" href="images/gallery/1 (1).jpg" class="hover-link"></a>
+                          <a href="#"><i class="fa fa-link"></i></a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <a data-rel="prettyPhoto[gallery5]" title="Sample Title" href="images/gallery/1 (1).jpg" class="hover-link"></a>
+                </div>
+                <!-- Portfolio Item End -->
+                
+                <!-- Portfolio Item Start -->
+                <div class="gallery-item">
+                  <div class="thumb">
+                    <img class="img-fullwidth photo" src="images/gallery/1 (10).jpg" alt="project">
+                    <div class="hidden">
+                      <a data-rel="prettyPhoto[gallery6]" title="Sample Title" href="images/gallery/1 (1).jpg"></a>
+                      <a data-rel="prettyPhoto[gallery6]" title="Sample Title" href="images/gallery/1 (1).jpg"></a>
+                      <a data-rel="prettyPhoto[gallery6]" title="Sample Title" href="images/gallery/1 (1).jpg"></a>
+                      <a data-rel="prettyPhoto[gallery6]" title="Sample Title" href="images/gallery/1 (1).jpg"></a>
+                      <a data-rel="prettyPhoto[gallery6]" title="Sample Title" href="images/gallery/1 (1).jpg"></a>
+                    </div>
+                    <div class="overlay-shade"></div>
+                    <div class="text-holder">
+                      <div class="title text-center">Sample Title</div>
+                    </div>
+                    <div class="icons-holder">
+                      <div class="icons-holder-inner">
+                        <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
+                          <a data-rel="prettyPhoto[gallery8]" title="Sample Title" href="images/gallery/1 (1).jpg" class="hover-link"></a>
+                          <a href="#"><i class="fa fa-link"></i></a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <a data-rel="prettyPhoto[gallery6]" title="Sample Title" href="images/gallery/1 (1).jpg" class="hover-link"></a>
+                </div>
+                <!-- Portfolio Item End -->
+                
+                <!-- Portfolio Item Start -->
+                <div class="gallery-item">
+                  <div class="thumb">
+                    <img class="img-fullwidth photo" src="images/gallery/1 (10).jpg" alt="project">
+                    <div class="hidden">
+                      <a data-rel="prettyPhoto[gallery7]" title="Sample Title" href="images/gallery/1 (1).jpg"></a>
+                      <a data-rel="prettyPhoto[gallery7]" title="Sample Title" href="images/gallery/1 (1).jpg"></a>
+                      <a data-rel="prettyPhoto[gallery7]" title="Sample Title" href="images/gallery/1 (1).jpg"></a>
+                      <a data-rel="prettyPhoto[gallery7]" title="Sample Title" href="images/gallery/1 (1).jpg"></a>
+                      <a data-rel="prettyPhoto[gallery7]" title="Sample Title" href="images/gallery/1 (1).jpg"></a>
+                    </div>
+                    <div class="overlay-shade"></div>
+                    <div class="text-holder">
+                      <div class="title text-center">Sample Title</div>
+                    </div>
+                    <div class="icons-holder">
+                      <div class="icons-holder-inner">
+                        <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
+                          <a data-rel="prettyPhoto[gallery8]" title="Sample Title" href="images/gallery/full/7.jpg" class="hover-link"></a>
+                          <a href="#"><i class="fa fa-link"></i></a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <a data-rel="prettyPhoto[gallery7]" title="Sample Title" href="images/gallery/full/7.jpg" class="hover-link"></a>
+                </div>
+                <!-- Portfolio Item End -->
+                
+                <!-- Portfolio Item Start -->
+                <div class="gallery-item">
+                  <div class="thumb">
+                    <img class="img-fullwidth photo" src="images/gallery/1 (10).jpg" alt="project">
+                    <div class="hidden">
+                      <a data-rel="prettyPhoto[gallery8]" title="Sample Title" href="images/gallery/1 (1).jpg"></a>
+                      <a data-rel="prettyPhoto[gallery8]" title="Sample Title" href="images/gallery/1 (1).jpg"></a>
+                      <a data-rel="prettyPhoto[gallery8]" title="Sample Title" href="images/gallery/1 (1).jpg"></a>
+                      <a data-rel="prettyPhoto[gallery8]" title="Sample Title" href="images/gallery/1 (1).jpg"></a>
+                      <a data-rel="prettyPhoto[gallery8]" title="Sample Title" href="images/gallery/1 (1).jpg"></a>
+                    </div>
+                    <div class="overlay-shade"></div>
+                    <div class="text-holder">
+                      <div class="title text-center">Sample Title</div>
+                    </div>
+                    <div class="icons-holder">
+                      <div class="icons-holder-inner">
+                        <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
+                          <a data-rel="prettyPhoto[gallery8]" title="Sample Title" href="images/gallery/full/8.jpg" class="hover-link"></a>
+                          <a href="#"><i class="fa fa-link"></i></a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <a data-rel="prettyPhoto[gallery8]" title="Sample Title" href="images/gallery/full/8.jpg" class="hover-link"></a>
+                </div><!-- Portfolio Item End -->
+              </div> <!-- End Portfolio Gallery Grid --> 
             </div>
           </div>
         </div>
       </div>
     </section>
-  </div>
-  <!-- end main-content -->
-
-   <!-- Footer starts here -->
+  </div> <!-- end main-content -->
+      <!-- Footer starts here -->
            <?php include_once "includes/footer.php" ?>
         <!-- Footer Scripts -->
 <!-- JS | Custom script for all pages -->

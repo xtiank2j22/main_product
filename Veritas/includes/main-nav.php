@@ -302,7 +302,7 @@
                         <li><a href="campus-life.php">Campus Life</a>
                           <ul class="dropdown">
                             <li><a href="chapel.php">Campus Ministry</a></li>
-                            <li><a href="sports-facilities.php">Campus Facilities</a></li>
+                            <li><a href="campus-facilities.php">Campus Facilities</a></li>
                             <li><a href="hostel.php">Halls of Residence</a></li>
                             <li><a href="sports.php">Sports</a></li>
                           </ul>

@@ -59,23 +59,13 @@
 <!-- Revolution Slider 5.x SCRIPTS -->
 <script src="js/revolution-slider/js/jquery.themepunch.tools.min.js"></script>
 <script src="js/revolution-slider/js/jquery.themepunch.revolution.min.js"></script>
-
-<style>
-  /*-------------------------------------------------*/
-  /*=  show more style:  eg., class="comment more"
-  /*-------------------------------------------------*/
- 
-</style>
-
-
 <style>
 /*-------------------------------------------------*/
 /*=  Numbering Here.SOCIAL MEDIA SHARE 
 /*-------------------------------------------------*/
   .icon-float {
       position: fixed;
-    /* left: 0px;
-      */
+    /* left: 0px; */
       top: 35%;
       z-index: 999;
       right: 0px;
@@ -138,11 +128,6 @@
       border-bottom-left-radius: 5px;
 }
 /*-------------------------------------------------*/
-</style>
-
-
-<!-- ---------------------start of style sheet for socials -------------------------->
-<style  type="text/css">
   body, html {
       height: 100%;
       /* Full height */
@@ -153,30 +138,19 @@
   ::-webkit-scrollbar {
       width: 20px;
   }
-
-
   /* Track */
   ::-webkit-scrollbar-track {
-      box-shadow: inset 0 0 5px grey;
       border-radius: 10px;
   }
-
   /* Handle */
   ::-webkit-scrollbar-thumb {
       background: white;
       border-radius: 10px;
   }
-
   /* Handle on hover */
   ::-webkit-scrollbar-thumb:hover {
       background: white;
-  }
-</style>
-<!-- ---------------------end of style sheet for socials -------------------------->
-
-
-<!-- ---------------------start of style sheet for news scroll -------------------------->
-<style>
+ }
   /* IMPORT GOOGLE FONTS */
   @import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,700);
   /* NEWS FRAME AREA TOP LEVEL PAGE - WIDTH ADDS BORDER */
@@ -248,11 +222,7 @@
     color: #6699FF;
     text-decoration: underline;
   }
-</style>
-<!-- ---------------------style sheet for news scroll -------------------------->
 
-<style type="text/css">
-  /*-----------------------style sheet for translator --------------------------*/
   a.gflag {
   vertical-align: middle;
   font-size: 16px;
