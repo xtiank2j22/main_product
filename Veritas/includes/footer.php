@@ -125,10 +125,10 @@
                     <div class="footer-bottom bg-black-333">
                       <div class="container pt-20 pb-20">
                         <div class="row">
-                          <div class="col-md-6 ">
+                          <div class="col-md-6 text-center">
                             <p class="font-11 text-white m-0"><?php echo 'copyright &copy; 20' . date('y') ?> Veritas University, Abuja. All Rights Reserved</p>
                           </div>
-                          <div class="col-md-6 text-right">
+                          <div class="col-md-6 text-center">
                             <div class="widget no-border m-0">
                               <ul class="list-inline sm- mt-5 font-12">
                                 <li><a class="text-white" href="faq.php">FAQ</a></li>
