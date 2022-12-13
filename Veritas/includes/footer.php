@@ -1,8 +1,8 @@
  <!-- Footer starts here -->
- <footer id="footer" class="footer divider layer-overlay bg-black">
+ <footer id="footer" class="footer divider layer-overlay " data-bg-img="images/gallery/Footer-Background-Image.png" style="background-repeat:no-repeat; height:auto;">
                     <div class="container">
                       <div class="row border-bottom">
-                        <div class="col-xs-12 col-sm-12 col-md-3 ">
+                        <div class="col-xs-12 col-sm-6 col-md-3 ">
                           <div class="widget dark">
                             <img class="mt-5 mb-5" alt="" src="images/logo/veritas-logo-3x.png" href="index.php">
                             <p class="text-white">Km 2 Bwari Zuma Road, Zuma Bwari Area Council, Abuja.</p>
@@ -13,51 +13,40 @@
                             </ul>
                           </div>
                         </div>
-                        <div class="col-xs-12 col-sm-12 col-md-3 ">
+                        <div class="col-xs-12 col-sm-6 col-md-3 ">
                           <div class="widget dark">
-                            <h4 class="widget-title text-white text-bolder">Quick Links</h4>
+                            <h4 class="widget-title text-white text-bolder line-bottom line-height-1">Quick Links</h4>
                             <ul class="list angle-double-right list-border">
                               <li><a class="text-white"  href="about-us.php">About Us</a></li>
                               <li><a class="text-white"  href="list-of-courses.php">Our Courses</a></li>
                               <li><a class="text-white"  href="campus-life.php">Campus life</a></li>
-                              <li><a class="text-white"  href="staffs.php">Staff</a></li>
                               <li><a class="text-white"  href="contact.php">Contact Us</a></li>
-                              <li><a class="text-white"  href="news.php">News & Events</a></li> 
-                              <li><a class="text-white"  href="admission.php">Admission</a></li>    
                               <li class="libtab"><a class="text-white"  href="contact.php">Help & Support</a></li>
                               <li class="libtab"><a class="text-white"  href="list-of-faculties.php">Faculties</a></li>
-                              <li class="libtab"><a class="text-white"  href="news.php">News & Events</a></li>         
                             </ul>
                           </div>
                         </div>
-                        <div class="col-xs-12 col-sm-12 col-md-3 ">
+                        <div class="col-xs-12 col-sm-6 col-md-3 ">
                           <div class="widget dark ">
-                            <h4 class="widget-title text-white text-bolder">Why Study @ Veritas</h4>
+                            <h4 class="widget-title text-white text-bolder line-bottom line-height-1">Why Study @ Veritas</h4>
                             <ul class="list angle-double-right list-border">
                               <li><a class="text-white"  href="postgraduate-school.php">Post Graduate</a></li>
                               <li><a class="text-white"  href="admission.php">Undergraduate</a></li>
-                              <li><a class="text-white"  href="admission.php">Preliminary</a></li>
-                              <li><a class="text-white"  href="coming-soon.php">SandWich</a></li>
                               <li><a class="text-white"  href="coming-soon.php">Jupeb</a></li>  
                               <li><a class="text-white"  href="coming-soon.php">IJMB</a></li>  
                               <li class="libtab"><a class="text-white"  href="list-of-department.php">Departments</a></li>
                               <li class="libtab"><a class="text-white"  href="librar.php">Using Our library</a></li>
-                              <li class="libtab"><a class="text-white"  href="development-office.php">New projects</a></li>          
                             </ul>
                           </div>
                         </div>
-                        <div class="col-xs-12 col-sm-12 col-md-3 ">
+                        <div class="col-xs-12 col-sm-6 col-md-3 ">
                           <div class="widget dark">
-                            <h4 class="widget-title text-white text-bolder">Resources</h4>
+                            <h4 class="widget-title text-white text-bolder line-bottom line-height-1">Resources</h4>
                             <ul class="list angle-double-right list-border">
-                              <li><a class="text-white"  href="sports.php">Sport Facilities</a></li>
                               <li><a class="text-white"  href="hostel.php">Hall of Residence</a></li>
                               <li><a class="text-white"  href="chapel.php">Chapel(Ministry)</a></li>
                               <li><a class="text-white"  href="ict.php">ICT Facilities</a></li>
-                              <li><a class="text-white"  href="bussiness-unit.php">Business Unit</a></li>
                               <li><a class="text-white"  href="medical.php">Medical Facilities</a></li>              
-                              <li><a class="text-white"  href="security.php">Security Facility</a></li> 
-                              <li class="libtab"><a class="text-white"  href="student-union.php">Social Activities</a></li>
                               <li class="libtab"><a class="text-white"  href="admission.php">Admissions</a></li>
                               <li class="libtab"><a class="text-white"  href="Admission-process.php">How to Apply</a></li>             
                             </ul>

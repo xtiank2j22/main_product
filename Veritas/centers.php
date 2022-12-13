@@ -59,7 +59,7 @@
 <body class="bg-color-lightblue">
     <div id="wrapper" class="clearfix">
      <!-- Header - Header -->
-    <?php include_once "includes/center-navbar.php" ?>
+    <?php include_once "includes/centers-navbar.php" ?>
       <!-- Start main-content -->
       <div class="main-content">
         <!-- Section: inner-header -->

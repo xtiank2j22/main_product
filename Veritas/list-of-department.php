@@ -144,7 +144,7 @@
                           <td>PGD Accounting</td> 
                           <td>Full Time (1 Years)</td> 
                           <td>Postgraduate</td> 
-                          </tr> 
+                        </tr> 
                   </tbody> 
                 </table> 
               </div>
@@ -196,6 +196,5 @@
 <!-- Footer Scripts -->
 <!-- JS | Custom script for all pages -->
 <script src="js/custom.js"></script>
-
 </body>
 </html>

@@ -69,7 +69,7 @@
         <div class="section-content">
           <div class="row">
             <div class="col-md-12 text-center mt-20 bg-wallv">
-              <h3 class="font-28 text-black text-bolder">University Business Unit</h2>
+              <h3 class="font-28 text-black text-bolder">University Business Units</h2>
             </div>
           </div>
         </div>
@@ -81,19 +81,19 @@
         <div class="row">
             <div class=" col-sm-12 col-md-9">
                 <div class="row">
-                    <div class="col-md-12">
+                    <div class="col-xs-12 col-sm-12 col-md-12">
                         <img src="images/gallery/team-goals-management-business.webp" class="fullwidth img-responsive height200px"><br>
                         <div class="row">
-                                 <div><h2 class="mt-0 text-uppercase font-28 line-bottom line-height-1 text-format">FACTORIES</h2>
+                                 <div><h2 class="mt-0 text-uppercase font-28 line-bottom line-height-1 text-format text-bolder">business units</h2>
                                  </div>
                                   <div></div>
                             <div class="col-md-4">
                                 <div class="item ">
                                     <div class="service-block bg-white">
-                                            <div class="thumb"> <img alt="featured project" src="images/project/software2.jpg" class="img-fullwidth">
+                                            <div class="thumb"> <img alt="featured project" src="images/gallery/block.jpg" class="img-fullwidth height180px">
                                             </div>
                                             <div class="content text-left flip p-25 pt-0">
-                                                <h4 class="line-bottom mb-10 text-format">BLOCK INDUSTRY</h4>
+                                                <h4 class="line-bottom mb-10 text-format text-bolder text-navy">BLOCK INDUSTRY</h4>
                                             <a class="btn btn-dark btn-theme-colored btn-sm text-uppercase mt-10 text-bolder" href="software-engineering.php">view details</a>
                                             </div>
                                         </div>
@@ -102,32 +102,71 @@
                             <div class="col-md-4">
                             <div class="item ">
                                         <div class="service-block bg-white">
-                                          <div class="thumb"> <img alt="featured project" src="images/project/software2.jpg" class="img-fullwidth">
-                                          </div>
+                                          <div class="thumb"> <img alt="featured project" src="images/gallery/water.jpg"class="img-fullwidth height180px" >
+                                        </div>
                                           <div class="content text-left flip p-25 pt-0">
-                                            <h4 class="line-bottom mb-10 text-format">PURE WATER FACTORY</h4>
+                                            <h4 class="line-bottom mb-10 text-format text-bolder text-navy">PURE WATER FACTORY</h4>
                                           <a class="btn btn-dark btn-theme-colored btn-sm text-uppercase mt-10 text-bolder" href="software-engineering.php">view details</a>
                                           </div>
                                         </div>
                                       </div>
                             </div>
                             <div class="col-md-4">
+                              <div class="item ">
+                                <div class="service-block bg-white">
+                                  <div class="thumb"> <img alt="featured project" src="images/gallery/bread.jpg" class="img-fullwidth height180px">
+                                  </div>
+                                    <div class="content text-left flip p-25 pt-0">
+                                      <h4 class="line-bottom mb-10 text-format text-bolder text-navy">BAKERY</h4>
+                                        <a class="btn btn-dark btn-theme-colored btn-sm text-uppercase mt-10 text-bolder" href="software-engineering.php">view details</a>
+                                    </div>
+                                  </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-4">
+                                <div class="item ">
+                                    <div class="service-block bg-white">
+                                            <div class="thumb"> <img alt="featured project" src="images/gallery/printing shops.jpeg" class="img-fullwidth height180px">
+                                            </div>
+                                            <div class="content text-left flip p-25 pt-0">
+                                                <h4 class="line-bottom mb-10 text-format text-bolder text-navy">PRINTING PRESS</h4>
+                                            <a class="btn btn-dark btn-theme-colored btn-sm text-uppercase mt-10 text-bolder" href="software-engineering.php">view details</a>
+                                            </div>
+                                        </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-12 col-md-4">
                             <div class="item ">
                                         <div class="service-block bg-white">
-                                          <div class="thumb"> <img alt="featured project" src="images/project/software2.jpg" class="img-fullwidth">
-                                          </div>
+                                          <div class="thumb"> <img alt="featured project" src="images/gallery/Veritas_University.Cafeteria_3.jpg"class="img-fullwidth height180px" >
+                                        </div>
                                           <div class="content text-left flip p-25 pt-0">
-                                            <h4 class="line-bottom mb-10 text-format">BREAD FACTORIES</h4>
+                                            <h4 class="line-bottom mb-10 text-format text-bolder text-navy">CAFETERIA</h4>
                                           <a class="btn btn-dark btn-theme-colored btn-sm text-uppercase mt-10 text-bolder" href="software-engineering.php">view details</a>
                                           </div>
                                         </div>
                                       </div>
                             </div>
+                            <div class="col-md-4">
+                              <div class="item ">
+                                <div class="service-block bg-white">
+                                  <div class="thumb"> <img alt="featured project" src="images/gallery/keke.jpg" class="img-fullwidth height180px">
+                                  </div>
+                                    <div class="content text-left flip p-25 pt-0">
+                                      <h4 class="line-bottom mb-10 text-format text-bolder text-navy">TRANSPORTATION</h4>
+                                        <a class="btn btn-dark btn-theme-colored btn-sm text-uppercase mt-10 text-bolder" href="software-engineering.php">view details</a>
+                                    </div>
+                                  </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
-          <div class=" col-sm-12 col-md-3">
+          <div class="col-xs-12 col-sm-12 col-md-3">
+            <?php include_once 'includes/side-business-unit.php' ?>
             <div class="widget">
               <h4 class="widget-title line-bottom text-bolder text-deepgreen">Quick Link</h4>
               <ul class="list angle-double-right ">

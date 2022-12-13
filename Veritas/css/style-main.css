@@ -69,6 +69,9 @@
  * Typography.less
  * -----------------------------------------------
 */
+.height180px{
+  height: 180px;
+}
 .height200px{
   height: 200px;
 }
@@ -439,6 +442,13 @@ bottom:initial;
 .ovaflow{
   display: -webkit-box;
   -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.ovaflow5{
+  display: -webkit-box;
+  -webkit-line-clamp: 5;
   -webkit-box-orient: vertical;
   overflow: hidden;
   text-overflow: ellipsis;

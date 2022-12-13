@@ -61,19 +61,8 @@
   <!-- Start main-content -->
   <div class="main-content">
     <!-- Section: inner-header -->
-    <section class="inner-header divider parallax layer-overlay overlay-dark-5" data-bg-img="images/bg/capslider.png">
-      <div class="container-fluid pt-70 pb-20" style="background-repeat: no-repeat;" data-bg-img="images/event/registraroffice1.jpg">
-        <!-- Section Content -->
-        <div class="section-content">
-          <div class="row">
-            <div class="col-md-12">
-              <h2 class="title text-white text-bolder">Contact Us </h2>
-              <ol class="breadcrumb text-left text-black mt-10">
-                <li><a href="#" class="text-white text-bolder font-20">Useful contact information and addresses for our Services and Campus</a></li>
-              </ol>
-            </div>
-          </div>
-        </div>
+    <section class="inner-header divider parallax layer-overlay overlay-dark-5" data-bg-img="images/bg/capslider.png" >
+      <div class="container-fluid pt-70 pb-20" style="background-repeat: no-repeat; height: 400px;" data-bg-img="images/event/registraroffice1.jpg" >
       </div>
     </section>
     <!-- Section: latest news --><br>
